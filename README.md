@@ -14,9 +14,10 @@ Instead of theory, this repo focuses on:
 
 Goal: Build strong Linux fundamentals.
 
+---
+
 ## 📂 Structure
 
-[](https://github.com/cipher-aman-06/linux-for-hackers-lab#-structure)
 Each chapter includes:
+#### Chapter 1 - GETTING STARTED WITH THE BASICS
 
-### Chapter 1 - GETTING STARTED WITH THE BASICS
