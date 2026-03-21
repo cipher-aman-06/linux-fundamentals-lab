@@ -8,3 +8,4 @@ I started from the root directory '/' and used commands to list available direct
 
 ### Output
 - 'cd /' -> moves to the root directory.
+- hjhjhj
