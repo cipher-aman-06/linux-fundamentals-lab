@@ -52,4 +52,4 @@ Some files are too large to read at once, so paging tools help navigate content 
 
 ---
 ## Question 4
-Use a command that allows scrolling up and down within the file
+Use a command that allows 
