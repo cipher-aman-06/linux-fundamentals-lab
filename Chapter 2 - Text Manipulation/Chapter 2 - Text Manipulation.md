@@ -101,4 +101,4 @@ Viewing specific parts of files saves time when working with large datasets.
 ## Question 7
 Filter the password lists to show only entries containing specific numbers.
 ### Approach
-I combined two commands using a pipe to filter resul
+I combined two commands using a pipe to filter results
