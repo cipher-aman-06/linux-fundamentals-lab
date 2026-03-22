@@ -31,3 +31,6 @@ I started from the root directory '/' and used commands to list available direct
 - `/var` → Logs and variable data
 ### What I Learned  
 Linux follows a hierarchical filesystem structure that starts from the root directory (/), allowing organized storage of system and user files.
+
+
+## Question 2
