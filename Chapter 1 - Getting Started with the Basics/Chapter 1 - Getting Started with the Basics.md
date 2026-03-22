@@ -78,4 +78,6 @@ I used output redirection to create a new file and then appended additional text
 ### Output
 ##### STEP 1 : Create a new file
 ![[Pasted image 20260322120054.png]]
-#
+##### STEP 2 : Append text to file
+![[Pasted image 20260322120156.png]]
+##### STEP 3 : 
