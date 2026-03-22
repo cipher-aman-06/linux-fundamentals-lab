@@ -55,3 +55,5 @@ I searched for common password wordlists stored in the system using a file searc
 ### Commands
 - `locate wordlist` → searches system for files containing "wordlist"
 - `locate rockyou` → finds common password dictionary files
+### Output
+##### STEP 1 : search for wordlists
