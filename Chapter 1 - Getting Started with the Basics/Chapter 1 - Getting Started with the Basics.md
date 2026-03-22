@@ -113,3 +113,7 @@ I created a new directory and file, then copied the file to another location whi
 ![[Pasted image 20260322121708.png]]
 ### Key Observations
 Administrative privileges may be required to copy files into `/root`
+### What I learned
+Files can be copied and renamed while moving between directories using Linux commands.
+
+---
