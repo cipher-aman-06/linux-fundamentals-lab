@@ -32,7 +32,7 @@ I started from the root directory '/' and used commands to list available direct
 ### What I Learned  
 Linux follows a hierarchical filesystem structure that starts from the root directory (/), allowing organized storage of system and user files.
 
-
+---
 ## Question 2
 Verify the currently logged-in user using a Linux command.
 ### Approach
@@ -44,3 +44,5 @@ I used a command that displays the username of the active session to confirm whi
 ![[Pasted image 20260322114009.png]]
 ### Key Observations
 The command directly prints the username associated with the active session
+### What I learned
+The system keeps track of the active 
