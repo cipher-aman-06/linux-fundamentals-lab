@@ -38,4 +38,6 @@ Verify the currently logged-in user using a Linux command.
 ### Approach
 I used a command that displays the username of the active session to confirm which account is currently logged in.
 ### Command
-- `whoami`→
+- `whoami`→ displays current logged-in username
+### Output
+##### STEP 1 : check current user
