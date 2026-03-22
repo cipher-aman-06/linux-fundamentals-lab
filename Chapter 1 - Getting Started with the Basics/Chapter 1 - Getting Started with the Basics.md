@@ -18,7 +18,7 @@ I started from the root directory '/' and used commands to list available direct
 ![[Pasted image 20260322090407.png]]
 ##### STEP 2 : List root directories
 ![[Pasted image 20260322093513.png]]
-#####
+##### STEP 3 : Navigate to /bin and verify work
 ![[Pasted image 20260322094901.png]]
 ![[Pasted image 20260322095201.png]]
 ![[Pasted image 20260322095246.png]]
