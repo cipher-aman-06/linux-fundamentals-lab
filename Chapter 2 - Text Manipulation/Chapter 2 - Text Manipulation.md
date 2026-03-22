@@ -34,3 +34,8 @@ I used a command that prints file content directly in the terminal.
 The file contains many commonly used passwords.
 ### What I learned
 Wordlists contain possible passwords that attackers may test against login systems.
+
+---
+## Question 3
+View the contains of the password list page by page using a command designed for large files.
+### App
