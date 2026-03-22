@@ -85,4 +85,9 @@ Line numbering helps reference specific entries when analyzing large files.
 ## Question 6
 Show only the last 20 entries from the password list.
 ### Approach
-I 
+I used a command that displays the ending porting of a file.
+### Commands
+- `tail` → displays last lines of file
+- `-20` → specifies number of lines
+### Output
+##### STEP 1 : Display last 20 passwords
