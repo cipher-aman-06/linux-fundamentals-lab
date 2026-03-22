@@ -8,19 +8,21 @@ I started from the root directory '/' and used commands to list available direct
 
 ### Commands
 - `cd /` moves to the root directory
-
+- - `ls`lists files and directories inside the current directory.
+- `cd <directory>` is used to navigate into a specific directory
+-  cd .. is used to move one directory back (parent directory)
 ### Output
 
 #### STEP 1 : Move to the root directory
 ![[Pasted image 20260322090407.png]]
-#### STEP 2 : List root directoris
-	-![[Pasted image 20260322093513.png]]
-- `cd <directory>` is used to navigate into a specific directory
-- cd .. is used to move one directory back (parent directory)
+#### STEP 2 : List root directories
+![[Pasted image 20260322093513.png]]
+
+
 - `pwd` confirms the current working directory
-	-![[Pasted image 20260322094901.png]]
-	-![[Pasted image 20260322095201.png]]
-	-![[Pasted image 20260322095246.png]]
+![[Pasted image 20260322094901.png]]
+![[Pasted image 20260322095201.png]]
+![[Pasted image 20260322095246.png]]
 ### Key Directories Observed
 - `/bin` → Essential user binaries  
 - `/etc` → Configuration files  
