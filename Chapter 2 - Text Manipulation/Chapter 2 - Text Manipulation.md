@@ -52,4 +52,6 @@ Some files are too large to read at once, so paging tools help navigate content 
 
 ---
 ## Question 4
-Use a command that allows 
+Use a command that allows flexible navigation through a large file.
+### Approach
+I used a command that allow
