@@ -74,3 +74,7 @@ I used a command that adds numbering to each line in the file.
 - `nl` → adds line numbers to file output
 ### Output
 ##### STEP 1 : Show numbered lines
+![[Pasted image 20260323035120.png]]
+![[Pasted image 20260323035152.png]]
+### Key Observations
+Each p
