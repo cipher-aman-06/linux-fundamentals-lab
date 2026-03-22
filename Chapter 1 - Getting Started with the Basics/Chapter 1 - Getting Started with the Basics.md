@@ -36,4 +36,6 @@ Linux follows a hierarchical filesystem structure that starts from the root dire
 ## Question 2
 Verify the currently logged-in user using a Linux command.
 ### Approach
-I U
+I used a command that displays the username of the active session to confirm which account is currently logged in.
+### Command
+- `whoami`→
