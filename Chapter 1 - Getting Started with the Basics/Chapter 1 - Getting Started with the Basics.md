@@ -41,3 +41,5 @@ I used a command that displays the username of the active session to confirm whi
 - `whoami`→ displays current logged-in username
 ### Output
 ##### STEP 1 : check current user
+![[Pasted image 20260322114009.png]]
+### Key Observations
