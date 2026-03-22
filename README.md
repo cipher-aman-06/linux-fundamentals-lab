@@ -20,4 +20,6 @@ Goal: Build strong Linux fundamentals.
 
 Each chapter includes:
 #### Chapter 1 - GETTING STARTED WITH THE BASICS
+#### Chapter 2 - TEXT MANIPULATION
+
 
