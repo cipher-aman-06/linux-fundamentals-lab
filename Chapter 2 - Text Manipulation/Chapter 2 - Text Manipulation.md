@@ -78,3 +78,5 @@ I used a command that adds numbering to each line in the file.
 ![[Pasted image 20260323035152.png]]
 ### Key Observations
 Each password entry is assigned a line number.
+### What I learned
+Line numbering helps reference specific entries when analyzing large files
