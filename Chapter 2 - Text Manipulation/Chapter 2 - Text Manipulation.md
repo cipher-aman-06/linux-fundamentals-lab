@@ -28,3 +28,4 @@ I used a command that prints file content directly in the terminal.
 ### Commands
 - `cat` → displays file contents
 ### Output
+##### STEP 1 : View contents of password list
