@@ -29,3 +29,8 @@ I used a command that prints file content directly in the terminal.
 - `cat` → displays file contents
 ### Output
 ##### STEP 1 : View contents of password list
+![[Pasted image 20260323032700.png]]
+### Key Observations
+The file contains many commonly used passwords.
+### What I learned
+Wordlists contain possivle passwords 
