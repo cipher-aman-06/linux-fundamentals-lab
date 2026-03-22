@@ -59,7 +59,7 @@ I used a command that allows scrolling up and down within the file.
 - `less` → allows forward and backward navigation
 ### Output
 ##### STEP 1 : View file using less
-
+![[Pasted image 20260323034805.png]]
 ### Key Observations
 Unlike `more` , this command allows scrolling in both directions.
 ### What I learned
@@ -68,3 +68,5 @@ Efficient file viewing is important when analyzing logs or large datasets.
 ---
 ## Question 5
 Display the password list with line numbers.
+### Approach
+I used a command that adds numb
