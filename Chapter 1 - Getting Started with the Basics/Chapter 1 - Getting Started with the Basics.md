@@ -53,3 +53,5 @@ Search the system for password wordlists that may be useful for security testing
 ### Approach
 I searched for common password wordlists stored in the system using a file searching command designed for quick lookup.
 ### Commands
+- `locate wordlist` → searches system for files containing "wordlist"
+- `locate rockyou` → finds common password dictionary files
