@@ -8,4 +8,5 @@ I started from the root directory '/' and used commands to list available direct
 
 ### Output
 - 'cd /' -> moves to the root directory.
-	-
+	-![[Pasted image 20260322090407.png]]
+- 
