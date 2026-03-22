@@ -18,4 +18,7 @@ I navigated to the directory that stores password wordlists commonly used in pen
 ### Key Observations
 The directory contain multiple password lists used for brute-force and dictionary attacks.
 ### What I learned
-Security tools often 
+Security tools often store wordlists in predefined directories that can be accessed through the terminal.
+
+---
+## Question 2
