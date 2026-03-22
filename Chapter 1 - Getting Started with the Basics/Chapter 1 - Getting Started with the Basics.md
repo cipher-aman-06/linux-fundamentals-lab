@@ -102,3 +102,5 @@ I created a new directory and file, then copied the file to another location whi
 ##### STEP 1 : Create new directory
 ![[Pasted image 20260322121023.png]]
 ##### STEP 2 : Move into directory
+![[Pasted image 20260322121114.png]]
+##### STEP 3 : Create new text file
