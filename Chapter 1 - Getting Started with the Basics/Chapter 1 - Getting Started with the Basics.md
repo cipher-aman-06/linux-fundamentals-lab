@@ -43,3 +43,4 @@ I used a command that displays the username of the active session to confirm whi
 ##### STEP 1 : check current user
 ![[Pasted image 20260322114009.png]]
 ### Key Observations
+The command directly prints the username associated with the active session
