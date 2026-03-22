@@ -40,3 +40,6 @@ Wordlists contain possible passwords that attackers may test against login syste
 View the contains of the password list page by page using a command designed for large files.
 ### Approach
 Since the file contains many entries, I used a command that allows scrolling output one screen at a time
+### Commands
+- `more` → displays file content page by page
+### Output
