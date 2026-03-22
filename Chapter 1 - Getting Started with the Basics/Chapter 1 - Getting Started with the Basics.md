@@ -45,4 +45,7 @@ I used a command that displays the username of the active session to confirm whi
 ### Key Observations
 The command directly prints the username associated with the active session
 ### What I learned
-The system keeps track of the active 
+The system keeps track of the active user, which is important when performing administrative or restricted actions.
+
+---
+## Question 
