@@ -110,3 +110,4 @@ I created a new directory and file, then copied the file to another location whi
 ##### STEP 5 : Rename copied file
 ![[Pasted image 20260322121511.png]]
 ##### STEP 6 : Verify file exists
+![[Pasted image 20260322121618.png|177]]
