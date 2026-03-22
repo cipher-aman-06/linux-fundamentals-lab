@@ -69,4 +69,8 @@ Efficient file viewing is important when analyzing logs or large datasets.
 ## Question 5
 Display the password list with line numbers.
 ### Approach
-I used a command that adds numb
+I used a command that adds numbering to each line in the file.
+##### Commands
+- `nl` → adds line numbers to file output
+### Output
+##### STEP 1 : Show numbered lines
