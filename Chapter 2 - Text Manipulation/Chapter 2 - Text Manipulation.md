@@ -38,4 +38,5 @@ Wordlists contain possible passwords that attackers may test against login syste
 ---
 ## Question 3
 View the contains of the password list page by page using a command designed for large files.
-### App
+### Approach
+Since the file contains many entries, I used a command that allows scrolling output one screen at a time
