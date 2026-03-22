@@ -7,6 +7,7 @@ Explore the Linux directory structure starting from the root directory and verif
 I started from the root directory '/' and used commands to list available directories. Then I navigated into each directory and verified my location using the 'pwd' command.
 
 ### Output
-- 'cd /' -> moves to the root directory.
+- `cd /` moves to the root directory
 	-![[Pasted image 20260322090407.png]]
 - `ls` lists all directories inside `/`
+- 
