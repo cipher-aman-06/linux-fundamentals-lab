@@ -109,6 +109,7 @@ I combined two commands using a pipe to filter results containing  a pattern.
 - `123` → search keyword
 ### Output
 ##### STEP 1 : Search passwords containing 123
+
 ### Key Observation
 Only passwords containing "123" are displayed.
 ### What I learned
@@ -121,3 +122,5 @@ This chapter introduced techniques useful in cybersecurity workflows:
 - Tools like cat, less, and more help analysts inspect log files and datasets  
 - Commands like grep help filter important information from large files  
 - Understanding file content quickly is essential during penetration testing and forensic investigation
+
+---
