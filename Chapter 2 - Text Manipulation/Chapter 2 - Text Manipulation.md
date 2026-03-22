@@ -91,10 +91,12 @@ I used a command that displays the ending porting of a file.
 - `-20` → specifies number of lines
 ### Output
 ##### STEP 1 : Display last 20 passwords
-
+![[Pasted image 20260323040016.png]]
 ### Key Observations
 The command quickly shows the final entries without printing the whole file.
 ### What I learned
 Viewing specific parts of files saves time when working with large datasets.
 
 ---
+## Question 7
+Filter the password lists to s
