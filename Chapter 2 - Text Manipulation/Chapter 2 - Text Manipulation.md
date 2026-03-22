@@ -63,4 +63,4 @@ I used a command that allows scrolling up and down within the file.
 ### Key Observations
 Unlike `more` , this command allows scrolling in both directions.
 ### What I learned
-E
+Efficient file viewing is important when analyzing logs or large datasets.
