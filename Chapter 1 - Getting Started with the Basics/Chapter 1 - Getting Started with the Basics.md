@@ -48,4 +48,6 @@ The command directly prints the username associated with the active session
 The system keeps track of the active user, which is important when performing administrative or restricted actions.
 
 ---
-## Question 
+## Question 3
+Search the system for password wordlists that may be useful for security testing.
+### Approach
