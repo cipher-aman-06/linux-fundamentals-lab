@@ -85,4 +85,8 @@ I used output redirection to create a new file and then appended additional text
 ### Key Observations
 `>` overwrites content, while `>>` adds content to the existing file.
 ### What I learned
-Redirection operato
+Redirection operators allow control over how command output is stored in files.
+
+---
+## Question 5
+Create a directory and file, then copy the fil
