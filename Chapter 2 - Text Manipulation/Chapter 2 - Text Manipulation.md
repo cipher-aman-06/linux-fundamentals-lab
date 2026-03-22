@@ -43,3 +43,7 @@ Since the file contains many entries, I used a command that allows scrolling out
 ### Commands
 - `more` → displays file content page by page
 ### Output
+##### STEP 1 : View file using more
+
+### Key Observation
+The output pauses after each s
