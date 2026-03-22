@@ -22,7 +22,7 @@ I started from the root directory '/' and used commands to list available direct
 ![[Pasted image 20260322094901.png]]
 ##### STEP 4 : Move one directory back (parent directory) and navigate to /etc and verify working directory
 ![[Pasted image 20260322095201.png]]
-##### STEP 5 : Direct navigate to /etc to /home
+##### STEP 5 : Direct navigate to /etc to /home and verify working directory
 ![[Pasted image 20260322095246.png]]
 ### Key Directories Observed
 - `/bin` → Essential user binaries  
