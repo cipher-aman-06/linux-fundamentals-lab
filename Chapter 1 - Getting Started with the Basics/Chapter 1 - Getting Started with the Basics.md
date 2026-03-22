@@ -34,4 +34,6 @@ Linux follows a hierarchical filesystem structure that starts from the root dire
 
 
 ## Question 2
-Verify 
+Verify the currently logged-in user using a Linux command.
+### Approach
+I U
