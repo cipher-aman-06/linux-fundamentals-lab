@@ -15,3 +15,7 @@ I navigated to the directory that stores password wordlists commonly used in pen
 ![[Pasted image 20260323031909.png]]
 ##### STEP 3 : List available wordlists
 ![[Pasted image 20260323031943.png]]
+### Key Observations
+The directory contain multiple password lists used for brute-force and dictionary attacks.
+### What I learned
+Security tools often 
