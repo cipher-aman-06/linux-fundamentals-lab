@@ -46,4 +46,6 @@ Since the file contains many entries, I used a command that allows scrolling out
 ##### STEP 1 : View file using more
 
 ### Key Observation
-The output pauses after each s
+The output pauses after each screen, allowing controlled reading.
+### What I learned
+Some files are too large to read at
