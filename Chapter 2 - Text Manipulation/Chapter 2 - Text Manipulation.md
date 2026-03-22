@@ -10,3 +10,5 @@ I navigated to the directory that stores password wordlists commonly used in pen
 - `ls` → lists files inside directory
 ### Output
 ##### STEP 1 : Navigate to wordlists directory
+##### STEP 2 : Verify current directory
+##### STEP 3 : List a
