@@ -89,4 +89,6 @@ Redirection operators allow control over how command output is stored in files.
 
 ---
 ## Question 5
-Create a directory and file, then copy the fil
+Create a directory and file, then copy the file to the root directory with a new name.
+### Approach
+I created a new directory and file, then copied the file to another location while renaming it.
