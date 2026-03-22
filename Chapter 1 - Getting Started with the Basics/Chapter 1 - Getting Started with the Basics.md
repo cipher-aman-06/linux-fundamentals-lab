@@ -9,7 +9,7 @@ I started from the root directory '/' and used commands to list available direct
 ### Commands
 - `cd /` moves to the root directory
 - `ls`lists files and directories inside the current directory.
-- cd <directory> navigates into the specified directory
+- `cd <directory>` navigates into the specified directory
 - `cd ..` is used to move one directory back (parent directory)
 - `pwd` confirms the current working directory
 ### Output
@@ -30,4 +30,4 @@ I started from the root directory '/' and used commands to list available direct
 - `/home` → User directories  
 - `/var` → Logs and variable data
 ### What I Learned  
-Linux uses a hierarchical filesystem starting from root (/).
+Linux follows a hierarchical filesystem structure that starts from the root directory (/), allowing organized storage of system and user files.
