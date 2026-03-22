@@ -107,3 +107,5 @@ I combined two commands using a pipe to filter results containing  a pattern.
 - `|` → passes output to another command
 - `grep` → searches for pattern
 - `123` → search keyword
+### Output
+##### STEP 1 : Search passwords
