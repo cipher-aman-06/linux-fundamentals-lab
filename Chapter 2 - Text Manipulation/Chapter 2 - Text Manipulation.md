@@ -91,3 +91,5 @@ I used a command that displays the ending porting of a file.
 - `-20` → specifies number of lines
 ### Output
 ##### STEP 1 : Display last 20 passwords
+### Key Observations
+The command quickly shows the final entries without printing the whole file.
