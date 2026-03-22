@@ -54,4 +54,8 @@ Some files are too large to read at once, so paging tools help navigate content 
 ## Question 4
 Use a command that allows flexible navigation through a large file.
 ### Approach
-I used a command that allow
+I used a command that allows scrolling up and down within the file.
+### Commands
+- `less` → allows forward and backward navigation
+### Output
+##### STEP 1 : 
