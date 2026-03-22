@@ -58,4 +58,7 @@ I searched for common password wordlists stored in the system using a file searc
 ### Output
 ##### STEP 1 : search for wordlists
 ![[Pasted image 20260322115144.png]]
-##### STEP 2 : search for rockyou word
+##### STEP 2 : search for rockyou wordlist
+![[Pasted image 20260322115232.png]]
+### Key Observations
+Common wordlists are often stored in directories real
