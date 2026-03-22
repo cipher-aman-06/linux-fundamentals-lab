@@ -12,6 +12,7 @@ I started from the root directory '/' and used commands to list available direct
 - `ls` lists all directories inside `/`
 	-![[Pasted image 20260322093513.png]]
 - `cd <directory>` is used to navigate into a specific directory
+- `cd ..` is used to backward into the directory
 - `pwd` confirms the current working directory
 	-![[Pasted image 20260322094901.png]]
-	-cd 
+	-
