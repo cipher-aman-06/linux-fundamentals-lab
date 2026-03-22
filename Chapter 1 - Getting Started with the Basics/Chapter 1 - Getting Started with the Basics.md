@@ -100,3 +100,5 @@ I created a new directory and file, then copied the file to another location whi
 - `cd` → change directory
 ### Output
 ##### STEP 1 : Create new directory
+![[Pasted image 20260322121023.png]]
+##### STEP 2 : Move into directory
