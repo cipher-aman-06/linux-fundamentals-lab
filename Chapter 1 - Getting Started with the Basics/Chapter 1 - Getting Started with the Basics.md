@@ -117,3 +117,11 @@ Administrative privileges may be required to copy files into `/root`
 Files can be copied and renamed while moving between directories using Linux commands.
 
 ---
+## SECURITY INSIGHTS FROM CHAPTER 1
+Basic Linux commands are essential for cybersecurity tasks such as:  
+- Identifying active user accounts  
+- Locating password wordlists used in brute-force testing  
+- Creating and modifying files during system interaction  
+- Navigating directories to locate sensitive system data
+
+---
