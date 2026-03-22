@@ -79,4 +79,10 @@ I used a command that adds numbering to each line in the file.
 ### Key Observations
 Each password entry is assigned a line number.
 ### What I learned
-Line numbering helps reference specific entries when analyzing large files
+Line numbering helps reference specific entries when analyzing large files.
+
+---
+## Question 6
+Show only the last 20 entries from the password list.
+### Approach
+I 
