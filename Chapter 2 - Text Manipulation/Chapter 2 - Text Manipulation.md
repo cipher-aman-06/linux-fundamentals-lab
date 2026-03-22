@@ -109,4 +109,5 @@ I combined two commands using a pipe to filter results containing  a pattern.
 - `123` → search keyword
 ### Output
 ##### STEP 1 : Search passwords containing 123
-### Key Obsercatio
+### Key Observation
+Only passwords containing "123" are displayed.
