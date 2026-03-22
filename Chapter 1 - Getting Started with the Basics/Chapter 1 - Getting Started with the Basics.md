@@ -10,4 +10,6 @@ I started from the root directory '/' and used commands to list available direct
 - `cd /` moves to the root directory
 	-![[Pasted image 20260322090407.png]]
 - `ls` lists all directories inside `/`
-- 
+	-![[Pasted image 20260322093513.png]]
+- `cd <directory>` is used to navigate into a specific directory
+	-
