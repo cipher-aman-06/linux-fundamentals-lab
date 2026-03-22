@@ -58,4 +58,9 @@ I used a command that allows scrolling up and down within the file.
 ### Commands
 - `less` → allows forward and backward navigation
 ### Output
-##### STEP 1 : 
+##### STEP 1 : View file using less
+
+### Key Observations
+Unlike `more` , this command allows scrolling in both directions.
+### What I learned
+E
