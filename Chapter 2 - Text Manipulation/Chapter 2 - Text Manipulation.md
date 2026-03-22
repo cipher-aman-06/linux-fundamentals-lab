@@ -111,3 +111,5 @@ I combined two commands using a pipe to filter results containing  a pattern.
 ##### STEP 1 : Search passwords containing 123
 ### Key Observation
 Only passwords containing "123" are displayed.
+### What I learned
+Piping allows combining commands to filter and 
