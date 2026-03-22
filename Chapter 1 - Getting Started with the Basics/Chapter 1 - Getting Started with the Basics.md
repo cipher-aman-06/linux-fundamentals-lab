@@ -11,8 +11,9 @@ I started from the root directory '/' and used commands to list available direct
 
 ### Output
 
+#### STEP 1 : Move to the root directory
 ![[Pasted image 20260322090407.png]]
-- `ls`lists files and directories inside the current directory.
+#### STEP 2 : List root directoris
 	-![[Pasted image 20260322093513.png]]
 - `cd <directory>` is used to navigate into a specific directory
 - cd .. is used to move one directory back (parent directory)
