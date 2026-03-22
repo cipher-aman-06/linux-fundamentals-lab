@@ -16,4 +16,4 @@ I started from the root directory '/' and used commands to list available direct
 - `pwd` confirms the current working directory
 	-![[Pasted image 20260322094901.png]]
 	-![[Pasted image 20260322095201.png]]
-	-
+	-![[Pasted image 20260322095246.png]]
