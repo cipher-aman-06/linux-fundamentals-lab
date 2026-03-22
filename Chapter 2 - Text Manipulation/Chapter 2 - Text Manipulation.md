@@ -44,8 +44,8 @@ Since the file contains many entries, I used a command that allows scrolling out
 - `more` → displays file content page by page
 ### Output
 ##### STEP 1 : View file using more
-
+![[Pasted image 20260323033644.png]]
 ### Key Observation
 The output pauses after each screen, allowing controlled reading.
 ### What I learned
-Some files are too large to read at
+Some files are too large to read at once, so paging tools help navigate content efficiently.
