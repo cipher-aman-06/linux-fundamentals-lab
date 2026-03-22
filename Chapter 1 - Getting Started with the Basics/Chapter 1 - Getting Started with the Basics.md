@@ -61,4 +61,7 @@ I searched for common password wordlists stored in the system using a file searc
 ##### STEP 2 : search for rockyou wordlist
 ![[Pasted image 20260322115232.png]]
 ### Key Observations
-Common wordlists are often stored in directories real
+Common wordlists are often stored in directories related to security tools.
+Example location : `/usr/share/wordlists`
+### What I learned
+Wordlists are used in security t
