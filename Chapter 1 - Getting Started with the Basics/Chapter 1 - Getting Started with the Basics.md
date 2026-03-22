@@ -70,4 +70,4 @@ Wordlists are used in security testing to perform password attacks such as brute
 ## Question 4
 Create a file using command-line redirection and add additional content to the same file.
 ### Approach
-I used output redirection to create a new 
+I used output redirection to create a new file and then appended additional text to it without overwriting the original content.
