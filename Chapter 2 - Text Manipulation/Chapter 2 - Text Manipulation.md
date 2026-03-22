@@ -49,3 +49,7 @@ Since the file contains many entries, I used a command that allows scrolling out
 The output pauses after each screen, allowing controlled reading.
 ### What I learned
 Some files are too large to read at once, so paging tools help navigate content efficiently.
+
+---
+## Question 4
+Use a command that allows scrolling up and down within the file
