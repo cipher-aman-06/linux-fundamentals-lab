@@ -71,3 +71,10 @@ Wordlists are used in security testing to perform password attacks such as brute
 Create a file using command-line redirection and add additional content to the same file.
 ### Approach
 I used output redirection to create a new file and then appended additional text to it without overwriting the original content.
+### Commands
+- `>` → creates new file and writes content
+- `>>` → appends content to existing file
+- `cat` → displays file content
+### Output
+##### STEP 1 : Create a new file
+ech
