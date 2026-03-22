@@ -64,4 +64,7 @@ I searched for common password wordlists stored in the system using a file searc
 Common wordlists are often stored in directories related to security tools.
 Example location : `/usr/share/wordlists`
 ### What I learned
-Wordlists are used in security t
+Wordlists are used in security testing to perform password attacks such as brute force or dictionary attacks.
+
+---
+## Question 
