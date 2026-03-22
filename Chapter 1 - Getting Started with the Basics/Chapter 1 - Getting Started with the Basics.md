@@ -51,4 +51,5 @@ The system keeps track of the active user, which is important when performing ad
 ## Question 3
 Search the system for password wordlists that may be useful for security testing.
 ### Approach
-I searched for common password wordlists stored in the system using a file searching
+I searched for common password wordlists stored in the system using a file searching command designed for quick lookup.
+### Commands
