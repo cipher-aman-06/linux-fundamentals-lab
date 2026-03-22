@@ -109,7 +109,7 @@ I combined two commands using a pipe to filter results containing  a pattern.
 - `123` → search keyword
 ### Output
 ##### STEP 1 : Search passwords containing 123
-
+![[Pasted image 20260323041306.png]]
 ### Key Observation
 Only passwords containing "123" are displayed.
 ### What I learned
