@@ -25,3 +25,6 @@ Security tools often store wordlists in predefined directories that can be acces
 Display the contents of the password list file using a command-line tool.
 ### Approach
 I used a command that prints file content directly in the terminal.
+### Commands
+- `cat` → displays file contents
+### Output
