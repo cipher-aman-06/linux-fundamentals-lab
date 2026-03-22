@@ -17,3 +17,8 @@ I started from the root directory '/' and used commands to list available direct
 	-![[Pasted image 20260322094901.png]]
 	-![[Pasted image 20260322095201.png]]
 	-![[Pasted image 20260322095246.png]]
+### Key Directories Observed
+- `/bin` → Essential user binaries  
+- `/etc` → Configuration files  
+- `/home` → User directories  
+- `/var` → Logs and variable data
