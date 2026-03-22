@@ -6,9 +6,12 @@ Explore the Linux directory structure starting from the root directory and verif
 ### Approach
 I started from the root directory '/' and used commands to list available directories. Then I navigated into each directory and verified my location using the 'pwd' command.
 
-### Output
+### Commands
 - `cd /` moves to the root directory
-	-![[Pasted image 20260322090407.png]]
+
+### Output
+
+![[Pasted image 20260322090407.png]]
 - `ls`lists files and directories inside the current directory.
 	-![[Pasted image 20260322093513.png]]
 - `cd <directory>` is used to navigate into a specific directory
@@ -22,3 +25,5 @@ I started from the root directory '/' and used commands to list available direct
 - `/etc` → Configuration files  
 - `/home` → User directories  
 - `/var` → Logs and variable data
+### What I Learned  
+Linux uses a hierarchical filesystem starting from root (/).
