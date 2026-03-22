@@ -83,4 +83,6 @@ I used output redirection to create a new file and then appended additional text
 ##### STEP 3 : View file content
 ![[Pasted image 20260322120234.png]]
 ### Key Observations
-`>` overwrites content, while 
+`>` overwrites content, while `>>` adds content to the existing file.
+### What I learned
+Redirection operato
