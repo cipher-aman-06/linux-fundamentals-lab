@@ -34,3 +34,4 @@ Linux follows a hierarchical filesystem structure that starts from the root dire
 
 
 ## Question 2
+Verify 
