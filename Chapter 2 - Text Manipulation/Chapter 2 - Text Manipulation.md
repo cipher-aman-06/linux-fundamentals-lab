@@ -112,4 +112,12 @@ I combined two commands using a pipe to filter results containing  a pattern.
 ### Key Observation
 Only passwords containing "123" are displayed.
 ### What I learned
-Piping allows combining commands to filter and 
+Piping allows combining commands to filter and analyze data efficiently.
+
+---
+## Security Insights
+This chapter introduced techniques useful in cybersecurity workflows:  
+- Wordlists are commonly used in password attacks such as brute force and dictionary attacks  
+- Tools like cat, less, and more help analysts inspect log files and datasets  
+- Commands like grep help filter important information from large files  
+- Understanding file content quickly is essential during penetration testing and forensic investigation
