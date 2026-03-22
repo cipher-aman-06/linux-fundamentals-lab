@@ -80,4 +80,7 @@ I used output redirection to create a new file and then appended additional text
 ![[Pasted image 20260322120054.png]]
 ##### STEP 2 : Append text to file
 ![[Pasted image 20260322120156.png]]
-##### STEP 3 : 
+##### STEP 3 : View file content
+![[Pasted image 20260322120234.png]]
+### Key Observations
+`>` overwrites content, while 
