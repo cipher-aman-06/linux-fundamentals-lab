@@ -77,4 +77,5 @@ I used output redirection to create a new file and then appended additional text
 - `cat` → displays file content
 ### Output
 ##### STEP 1 : Create a new file
-ech
+![[Pasted image 20260322120054.png]]
+#
