@@ -33,4 +33,4 @@ I used a command that prints file content directly in the terminal.
 ### Key Observations
 The file contains many commonly used passwords.
 ### What I learned
-Wordlists contain possivle passwords 
+Wordlists contain possible passwords that attackers may test against login systems.
