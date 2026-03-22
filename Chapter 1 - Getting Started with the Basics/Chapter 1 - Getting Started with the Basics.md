@@ -57,3 +57,5 @@ I searched for common password wordlists stored in the system using a file searc
 - `locate rockyou` → finds common password dictionary files
 ### Output
 ##### STEP 1 : search for wordlists
+![[Pasted image 20260322115144.png]]
+##### STEP 2 : search for rockyou word
