@@ -93,3 +93,10 @@ Create a directory and file, then copy the file to the root directory with a new
 ### Approach
 I created a new directory and file, then copied the file to another location while renaming it.
 ### Commands
+- `mkdir` → creates directory
+- `touch` → creates empty file
+- `cp` → copies file
+- `mv` → renames file
+- `cd` → change directory
+### Output
+##### STEP 1 : Create new directory
