@@ -47,4 +47,7 @@ I changed the hardware address (MAC address) associated with the network interfa
     OR
 - `ip link` → modern command
 ### Output
-##### STEP 1 : Disable inter
+##### STEP 1 : Disable interface
+##### STEP 2 : Change MAC address
+##### STEP 3 : Enable interface
+##### STEP 4 : Verify change
