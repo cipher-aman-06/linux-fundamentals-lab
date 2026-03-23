@@ -41,4 +41,10 @@ IP addresses identify devices in a network and can be manually configured.
 ## Question 3
 Modify the MAC address of the eth0 network interface.
 ### Approach
-I changed the hardware address (MAC address)
+I changed the hardware address (MAC address) associated with the network interface.
+### Commands
+- `ifconfig` → changes MAC address  
+    OR
+- `ip link` → modern command
+### Output
+##### STEP 1 : Disable inter
