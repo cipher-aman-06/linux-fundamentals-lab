@@ -11,4 +11,9 @@ I used Kali Linux package management tools to install software from the official
 ### Output
 ##### STEP 1 : Update repository package list
 
-#
+##### STEP 2 : Install a software package
+
+##### STEP 3 : Verify installation
+
+### Key Observations
+-  Kali Linux uses repositories to manage software pack
