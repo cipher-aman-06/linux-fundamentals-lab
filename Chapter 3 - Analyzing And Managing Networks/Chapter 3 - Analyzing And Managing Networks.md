@@ -82,4 +82,10 @@ Obtain a new IP address automatically from a DHCP server.
 I requested the system to obtain an IP address dynamically from the network.
 ### Commands
 - `dhclient` → requests IP from DHCP server
-- 
+### Output
+##### STEP 1 : Request DHCP IP
+
+##### STEP 2 : Verify new IP
+
+### Key Observation
+DHCP autom
