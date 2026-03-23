@@ -107,6 +107,6 @@ I queried DNS records to find nameserver and mail server details.
 
 ### Key Observations
 DNS records include:
-
 - NS → nameserver
 - MX → mail server
+### What I learned
