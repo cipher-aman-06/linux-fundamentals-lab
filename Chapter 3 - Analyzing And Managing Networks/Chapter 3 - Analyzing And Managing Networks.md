@@ -62,3 +62,5 @@ MAC addresses uniquely identify network devices and can be modified for testing 
 
 ---
 ## Question 4
+Check if any wireless network interfaces are available on the system.
+### Approach
