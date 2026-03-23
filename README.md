@@ -25,4 +25,7 @@ https://github.com/cipher-aman-06/linux-fundamentals-lab/tree/6a7390331a9ea677df
 https://github.com/cipher-aman-06/linux-fundamentals-lab/tree/6a7390331a9ea677dfd8c6e2f24cfb5c1e6c0313/Chapter%202%20-%20Text%20Manipulation
 #### Chapter 3 - Analyzing And Managing Networks
 #### Chapter 4 - Adding And Removing Software
-#### Chapter 
+#### Chapter 5 - Controlling File And Directory Permissions
+#### Chapter 6 - Process Management
+#### ChaptManaging User Environment Variables
+#### 
