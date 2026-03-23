@@ -10,4 +10,9 @@ I used a networking command to display details of all available network interfac
 - `ifconfig` → shows network interface configuration
 ### Output
 ##### STEP 1 : Show network interfaces
-####
+### Key Observations
+Interfaces such as :
+- eth0 → wired interface
+- lo → loopback interface
+### What I learned
+Linux systems use network interfaces to communicate with other systems and networks.
