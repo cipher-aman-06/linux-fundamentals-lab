@@ -134,4 +134,6 @@ DNS configuration affects how domain names are translated into IP addresses.
 
 ---
 ## Security Insights
--  
+-  Attackers often gather information about network interfaces
+- IP addresses help identify devices in a network
+- MAC address changes can help anon
