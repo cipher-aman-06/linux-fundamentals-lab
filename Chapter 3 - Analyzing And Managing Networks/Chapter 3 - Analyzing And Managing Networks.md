@@ -133,3 +133,5 @@ System will use Google DNS if local DNS fails.
 DNS configuration affects how domain names are translated into IP addresses.
 
 ---
+## Security Insights
+-  
