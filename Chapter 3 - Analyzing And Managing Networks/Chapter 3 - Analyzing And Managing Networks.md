@@ -69,8 +69,11 @@ I used a command that lists wireless network interfaces.
 - `iwconfig` → shows wireless interfaces
 ### Output
 ##### STEP 1 : Check wireless interfaces
-
+![[Pasted image 20260324023037.png]]
 ### Key Observations
 Wireless interfaces typically appear as wlan0 or similar.
 ### What I learned
 Wireless interfaces allow connection to WiFi networks.
+
+---
+## W
