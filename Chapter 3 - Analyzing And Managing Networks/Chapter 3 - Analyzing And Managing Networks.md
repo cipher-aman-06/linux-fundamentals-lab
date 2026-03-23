@@ -76,4 +76,5 @@ Wireless interfaces typically appear as wlan0 or similar.
 Wireless interfaces allow connection to WiFi networks.
 
 ---
-## W
+## Question 5
+Obtain a new IP address automatically from 
