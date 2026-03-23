@@ -34,4 +34,5 @@ After installing a package, I removed it using the APT remove command to underst
 ### Output
 ##### STEP 1 : Remove installed package
 
-##### STEP 2 : Re
+##### STEP 2 : Remove unused dependencies
+
