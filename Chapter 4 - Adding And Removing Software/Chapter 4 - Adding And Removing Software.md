@@ -16,4 +16,8 @@ I used Kali Linux package management tools to install software from the official
 ##### STEP 3 : Verify installation
 
 ### Key Observations
--  Kali Linux uses repositories to manage software pack
+-  Kali Linux uses repositories to manage software packages
+- `apt` automatically installs dependencies required for the software.
+- Root privileges are required to install system packages.
+### What I learned
+Kali Linu
