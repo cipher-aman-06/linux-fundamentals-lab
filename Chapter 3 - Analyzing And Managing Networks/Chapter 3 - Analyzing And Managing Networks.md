@@ -94,3 +94,5 @@ DHCP simplifies network configuration by automatically assigning IP addresses.
 
 ---
 ## Question 6
+Identify the DNS server and mail associated with a website.
+### Approach
