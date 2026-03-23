@@ -104,7 +104,7 @@ I queried DNS records to find nameserver and mail server details.
 ##### STEP 1 : Find nameserver
 ![[Pasted image 20260324025728.png]]
 ##### STEP 2 : Find mail server
-
+![[Pasted image 20260324025802.png]]
 ### Key Observations
 DNS records include:
 - NS → nameserver
@@ -113,3 +113,5 @@ DNS records include:
 DNS records provide information about services associated with a domain.
 
 ---
+## Question 7
+Configure the system to use Google's DNS server 
