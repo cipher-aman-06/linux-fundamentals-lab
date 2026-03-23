@@ -102,7 +102,7 @@ I queried DNS records to find nameserver and mail server details.
 - `dig` → advanced DNS lookup
 ### Output
 ##### STEP 1 : Find nameserver
-
+![[Pasted image 20260324025728.png]]
 ##### STEP 2 : Find mail server
 
 ### Key Observations
