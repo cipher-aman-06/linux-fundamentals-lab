@@ -128,4 +128,6 @@ I edited the DNS configuration file to include Google's public DNS server.
 ##### STEP 3 : Save file
 
 ### Key Observations
-System will use Google DNS if local DNS fails
+System will use Google DNS if local DNS fails.
+### What I learned
+DNS configuration affects how domain names are translated into IP addresses.
