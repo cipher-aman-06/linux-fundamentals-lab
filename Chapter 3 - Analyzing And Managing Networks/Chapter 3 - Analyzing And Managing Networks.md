@@ -29,3 +29,6 @@ I manually configured the IP address for the eth0 interface.
 - `ip addr add` → assigns IP address
 ### Output
 ##### STEP 1 : Assign IP address
+##### STEP 2 : Verify IP change
+### Key Observations
+The IP address for eth0 changes 
