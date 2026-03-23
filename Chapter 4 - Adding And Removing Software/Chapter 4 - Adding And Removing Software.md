@@ -24,3 +24,4 @@ Kali Linux uses the APT package manager to install, update, and manage software 
 
 ---
 ## Question 2
+Remove
