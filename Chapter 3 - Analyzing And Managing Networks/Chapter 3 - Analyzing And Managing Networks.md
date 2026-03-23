@@ -125,3 +125,7 @@ I edited the DNS configuration file to include Google's public DNS server.
 
 ##### STEP 2 : Add Google DNS entry
 
+##### STEP 3 : Save file
+
+### Key Observations
+System will use Google DNS if local DNS fails
