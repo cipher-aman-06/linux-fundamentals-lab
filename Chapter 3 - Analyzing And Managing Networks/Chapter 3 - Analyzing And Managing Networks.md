@@ -40,3 +40,5 @@ IP addresses identify devices in a network and can be manually configured.
 ---
 ## Question 3
 Modify the MAC address of the eth0 network interface.
+### Approach
+I changed the hardware address (MAC address)
