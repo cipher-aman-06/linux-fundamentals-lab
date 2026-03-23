@@ -29,4 +29,5 @@ https://github.com/cipher-aman-06/linux-fundamentals-lab/tree/6a7390331a9ea677df
 #### Chapter 6 - Process Management
 #### Chapter 7 - Managing User Environment Variables
 #### Chapter 8 - Bash Scripting
-#### 
+#### Chapter 9 - Compressing And Archiving
+#### Chapter 10 - Filesystem And Storage Device Management
