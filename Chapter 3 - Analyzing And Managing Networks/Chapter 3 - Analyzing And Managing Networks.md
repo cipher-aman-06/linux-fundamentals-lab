@@ -54,7 +54,7 @@ I changed the hardware address (MAC address) associated with the network interfa
 ##### STEP 3 : Enable interface
 ![[Pasted image 20260324022249.png]]
 ##### STEP 4 : Verify change
-
+![[Pasted image 20260324022333.png]]
 ### Key Observations
 MAC address is updated to the new value.
 ### What I learned
