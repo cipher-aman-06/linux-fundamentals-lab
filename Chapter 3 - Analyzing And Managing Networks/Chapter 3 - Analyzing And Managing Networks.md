@@ -77,4 +77,7 @@ Wireless interfaces allow connection to WiFi networks.
 
 ---
 ## Question 5
-Obtain a new IP address automatically from 
+Obtain a new IP address automatically from a DHCP server.
+### Approach
+I requested the system to obtain an IP address dynamically from the network.
+### Commands
