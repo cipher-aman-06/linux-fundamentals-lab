@@ -71,3 +71,6 @@ I used a command that lists wireless network interfaces.
 ##### STEP 1 : Check wireless interfaces
 
 ### Key Observations
+Wireless interfaces typically appear as wlan0 or similar.
+### What I learned
+Wireless interfaces allow connection to WiFi networks.
