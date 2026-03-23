@@ -8,3 +8,5 @@ I used Kali Linux package management tools to install software from the official
 - `sudo apt update` → updates package list from repositories
 - `sudo apt install <package-name>` → installs the selected software package
 - `apt list --installed` → shows installed packages
+### Output
+##### STEP 1 : Update repository package list
