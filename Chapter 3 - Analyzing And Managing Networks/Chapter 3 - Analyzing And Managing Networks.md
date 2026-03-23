@@ -29,9 +29,12 @@ I manually configured the IP address for the eth0 interface.
 - `ip addr add` → assigns IP address
 ### Output
 ##### STEP 1 : Assign IP address
-
+![[Pasted image 20260323212645.png]]
 ##### STEP 2 : Verify IP change
+![[Pasted image 20260323212703.png]]
 ### Key Observations
 The IP address for eth0 changes to the assigned value.
 ### What I learned
 IP addresses identify devices in a network and can be manually configured.
+
+---
