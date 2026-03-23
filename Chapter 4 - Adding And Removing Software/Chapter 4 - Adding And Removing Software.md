@@ -31,3 +31,7 @@ After installing a package, I removed it using the APT remove command to underst
 - `sudo apt remove <package-name>` → removes installed package
 - `sudo apt purge <package-name>` → removes package with configuration files
 - `sudo apt autoremove` → removes unnecessary dependencies
+### Output
+##### STEP 1 : Remove installed package
+
+##### STEP 2 : Re
