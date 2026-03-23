@@ -20,4 +20,7 @@ Linux systems use network interfaces to communicate with other systems and netwo
 
 ---
 ## Question 2
-Assign a new IP address to the eth0 network inter
+Assign a new IP address to the eth0 network interface.
+### Approach
+I manually configured the IP address for the eth0 interface.
+### Commands
