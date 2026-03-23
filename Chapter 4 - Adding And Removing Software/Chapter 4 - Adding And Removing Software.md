@@ -10,7 +10,7 @@ I used Kali Linux package management tools to install software from the official
 - `apt list --installed` → shows installed packages
 ### Output
 ##### STEP 1 : Update repository package list
-
+![[Pasted image 20260324033601.png]]
 ##### STEP 2 : Install a software package
 
 ##### STEP 3 : Verify installation
