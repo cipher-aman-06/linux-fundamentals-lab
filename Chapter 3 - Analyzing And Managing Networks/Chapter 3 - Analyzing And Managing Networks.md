@@ -116,4 +116,12 @@ DNS records provide information about services associated with a domain.
 ## Question 7
 Configure the system to use Google's DNS server for domain name resolution.
 ### Approach
-I edited the DNS configuration file to include Google's pubilc 
+I edited the DNS configuration file to include Google's public DNS server.
+### Commands
+- `nano` → edit configuration file
+- `8.8.8.8` → Google DNS server
+### Output
+##### STEP 1 : Open DNS config file
+
+##### STEP 2 : Add Google DNS entry
+
