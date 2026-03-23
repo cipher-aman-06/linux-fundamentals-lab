@@ -114,4 +114,6 @@ DNS records provide information about services associated with a domain.
 
 ---
 ## Question 7
-Configure the system to use Google's DNS server 
+Configure the system to use Google's DNS server for domain name resolution.
+### Approach
+I edited the DNS configuration file to include Google's pubilc 
