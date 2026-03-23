@@ -97,3 +97,6 @@ DHCP simplifies network configuration by automatically assigning IP addresses.
 Identify the DNS server and mail associated with a website.
 ### Approach
 I queried DNS records to find nameserver and mail server details.
+### Commands
+- `nslookup` → queries DNS
+- `dig` → advanced DNS lookup
