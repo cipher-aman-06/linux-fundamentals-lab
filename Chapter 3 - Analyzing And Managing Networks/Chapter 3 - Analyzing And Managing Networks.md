@@ -81,3 +81,5 @@ Obtain a new IP address automatically from a DHCP server.
 ### Approach
 I requested the system to obtain an IP address dynamically from the network.
 ### Commands
+- `dhclient` → requests IP from DHCP server
+- 
