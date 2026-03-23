@@ -27,5 +27,5 @@ https://github.com/cipher-aman-06/linux-fundamentals-lab/tree/6a7390331a9ea677df
 #### Chapter 4 - Adding And Removing Software
 #### Chapter 5 - Controlling File And Directory Permissions
 #### Chapter 6 - Process Management
-#### ChaptManaging User Environment Variables
+#### Chapter 7 - Managing User Environment Variables
 #### 
