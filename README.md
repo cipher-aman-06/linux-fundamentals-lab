@@ -34,4 +34,5 @@ https://github.com/cipher-aman-06/linux-fundamentals-lab/tree/6a7390331a9ea677df
 #### Chapter 11 - The Logging System
 #### Chapter 12 - Using And Abusing Services
 #### Chapter 13 - Becoming Secure And Anonymous
-#
+#### Chapter 14 - Understanding And Inspecting Wireless Networks
+#### Chapter 15 - Managing The Linux 
