@@ -110,3 +110,6 @@ DNS records include:
 - NS → nameserver
 - MX → mail server
 ### What I learned
+DNS records provide information about services associated with a domain.
+
+---
