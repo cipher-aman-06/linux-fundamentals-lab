@@ -24,3 +24,8 @@ Assign a new IP address to the eth0 network interface.
 ### Approach
 I manually configured the IP address for the eth0 interface.
 ### Commands
+- `ifconfig` → configure interface  
+    OR modern command:
+- `ip addr add` → assigns IP address
+### Output
+##### STEP 1 : Assign IP address
