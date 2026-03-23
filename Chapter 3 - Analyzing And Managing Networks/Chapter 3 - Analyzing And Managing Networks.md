@@ -66,3 +66,8 @@ Check if any wireless network interfaces are available on the system.
 ### Approach
 I used a command that lists wireless network interfaces.
 ### Commands
+- `iwconfig` → shows wireless interfaces
+### Output
+##### STEP 1 : Check wireless interfaces
+
+### Key Observations
