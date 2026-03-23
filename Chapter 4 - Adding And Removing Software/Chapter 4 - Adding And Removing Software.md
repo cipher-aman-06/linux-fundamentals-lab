@@ -12,9 +12,9 @@ I used Kali Linux package management tools to install software from the official
 ##### STEP 1 : Update repository package list
 ![[Pasted image 20260324033601.png]]
 ##### STEP 2 : Install a software package
-
+![[Pasted image 20260324033629.png]]
 ##### STEP 3 : Verify installation
-
+![[Pasted image 20260324033656.png]]
 ### Key Observations
 -  Kali Linux uses repositories to manage software packages
 - `apt` automatically installs dependencies required for the software.
@@ -23,3 +23,4 @@ I used Kali Linux package management tools to install software from the official
 Kali Linux uses the APT package manager to install, update, and manage software efficiently from trusted repositories.
 
 ---
+## Question 2
