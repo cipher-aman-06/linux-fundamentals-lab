@@ -23,4 +23,4 @@ Each chapter includes:
 https://github.com/cipher-aman-06/linux-fundamentals-lab/tree/6a7390331a9ea677dfd8c6e2f24cfb5c1e6c0313/Chapter%201%20-%20Getting%20Started%20with%20the%20Basics
 #### Chapter 2 - TEXT MANIPULATION
 https://github.com/cipher-aman-06/linux-fundamentals-lab/tree/6a7390331a9ea677dfd8c6e2f24cfb5c1e6c0313/Chapter%202%20-%20Text%20Manipulation
-#### Chapter 3 - 
+#### Chapter 3 - ANALYZING AND MANAGING NETWORKS
