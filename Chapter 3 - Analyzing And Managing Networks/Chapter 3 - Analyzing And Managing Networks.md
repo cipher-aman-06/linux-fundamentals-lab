@@ -84,9 +84,9 @@ I requested the system to obtain an IP address dynamically from the network.
 - `dhclient` → requests IP from DHCP server
 ### Output
 ##### STEP 1 : Request DHCP IP
-
+![[Pasted image 20260324024631.png]]
 ##### STEP 2 : Verify new IP
-
+![[Pasted image 20260324024650.png]]
 ### Key Observation
 DHCP automatically assigns IP configuration.
 ### What I learned
