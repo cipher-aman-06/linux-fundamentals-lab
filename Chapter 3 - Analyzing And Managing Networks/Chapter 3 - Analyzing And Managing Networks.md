@@ -90,3 +90,7 @@ I requested the system to obtain an IP address dynamically from the network.
 ### Key Observation
 DHCP automatically assigns IP configuration.
 ### What I learned
+DHCP simplifies network configuration by automatically assigning IP addresses.
+
+---
+## Question 6
