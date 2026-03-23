@@ -27,3 +27,7 @@ Kali Linux uses the APT package manager to install, update, and manage software 
 Remove an installed software package from the system
 ### Approach
 After installing a package, I removed it using the APT remove command to understand how software uninstallation works in Linux.
+### Commands
+- `sudo apt remove <package-name>` → removes installed package
+- `sudo apt purge <package-name>` → removes package with configuration files
+- `sudo apt autoremove` → removes unnecessary dependencies
