@@ -88,4 +88,5 @@ I requested the system to obtain an IP address dynamically from the network.
 ##### STEP 2 : Verify new IP
 
 ### Key Observation
-DHCP autom
+DHCP automatically assigns IP configuration.
+### What I learned
