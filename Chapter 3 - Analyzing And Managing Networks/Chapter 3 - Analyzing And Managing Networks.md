@@ -55,3 +55,6 @@ I changed the hardware address (MAC address) associated with the network interfa
 MAC address is updated to the new value.
 ### What I learned
 MAC addresses uniquely identify network devices and can be modified for testing or privacy.
+
+---
+## Question 4
