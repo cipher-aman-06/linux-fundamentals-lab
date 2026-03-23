@@ -131,3 +131,5 @@ I edited the DNS configuration file to include Google's public DNS server.
 System will use Google DNS if local DNS fails.
 ### What I learned
 DNS configuration affects how domain names are translated into IP addresses.
+
+---
