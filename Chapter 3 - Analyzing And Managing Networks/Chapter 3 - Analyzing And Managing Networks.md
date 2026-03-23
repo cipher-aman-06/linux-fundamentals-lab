@@ -48,10 +48,13 @@ I changed the hardware address (MAC address) associated with the network interfa
 - `ip link` → modern command
 ### Output
 ##### STEP 1 : Disable interface
-
+![[Pasted image 20260324022216.png]]
 ##### STEP 2 : Change MAC address
+![[Pasted image 20260324022234.png]]
 ##### STEP 3 : Enable interface
+![[Pasted image 20260324022249.png]]
 ##### STEP 4 : Verify change
+
 ### Key Observations
 MAC address is updated to the new value.
 ### What I learned
