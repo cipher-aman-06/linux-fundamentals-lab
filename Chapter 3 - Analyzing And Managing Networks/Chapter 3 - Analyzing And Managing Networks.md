@@ -138,4 +138,6 @@ DNS configuration affects how domain names are translated into IP addresses.
 - IP addresses help identify devices in a network
 - MAC address changes can help anonymize devices
 - DNS information reveals infrastructure details about websites
-- DHCP and DNS 
+- DHCP and DNS manipulation can be used in network attacks
+
+---
