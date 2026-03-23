@@ -20,4 +20,6 @@ I used Kali Linux package management tools to install software from the official
 - `apt` automatically installs dependencies required for the software.
 - Root privileges are required to install system packages.
 ### What I learned
-Kali Linu
+Kali Linux uses the APT package manager to install, update, and manage software efficiently from trusted repositories.
+
+---
