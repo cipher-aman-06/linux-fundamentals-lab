@@ -100,3 +100,13 @@ I queried DNS records to find nameserver and mail server details.
 ### Commands
 - `nslookup` → queries DNS
 - `dig` → advanced DNS lookup
+### Output
+##### STEP 1 : Find nameserver
+
+##### STEP 2 : Find mail server
+
+### Key Observations
+DNS records include:
+
+- NS → nameserver
+- MX → mail server
