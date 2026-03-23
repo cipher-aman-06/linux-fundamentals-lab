@@ -51,3 +51,7 @@ I changed the hardware address (MAC address) associated with the network interfa
 ##### STEP 2 : Change MAC address
 ##### STEP 3 : Enable interface
 ##### STEP 4 : Verify change
+### Key Observations
+MAC address is updated to the new value.
+### What I learned
+MAC addresses uniquely identify network devices 
