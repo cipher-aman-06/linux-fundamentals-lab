@@ -52,3 +52,7 @@ I refreshed the system's package database to ensure I have the latest informatio
 - `sudo apt update` → refreshes repository package index
 ### Output
 ##### STEP 1 : Update repository information
+![[Pasted image 20260328211406.png]]
+### Key Observation
+- Repository update does not install software.
+- It synchronizes package 
