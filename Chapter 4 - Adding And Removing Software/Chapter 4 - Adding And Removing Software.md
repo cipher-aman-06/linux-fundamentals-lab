@@ -44,4 +44,9 @@ After installing a package, I removed it using the APT remove command to underst
 Linux allows full control over installed software and unused dependencies can be cleaned to optimize the system.
 
 ---
-## Question 
+## Question 3
+Update the system repository information
+### Approach
+I refreshed the system's package database to ensure I have the latest information about available software versions.
+### Commands
+- 
