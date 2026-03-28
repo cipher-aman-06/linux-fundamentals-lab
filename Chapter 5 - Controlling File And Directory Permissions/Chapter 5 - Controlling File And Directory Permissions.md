@@ -57,4 +57,6 @@ Change file ownership using chown command
 I selected a file and changed its owner using the chown command.
 ### Commands
 - `chown` → change file ownership
-- syntax : `sudo chown user`
+- syntax : `sudo chown user:group filename`
+### Output
+##### STEP 1 : Create new file
