@@ -25,4 +25,7 @@ Linux controls access using file permissions which define who can read. modify, 
 Grant execute permission to a file using both numeric and symbolic methods
 ### Approach
 I selected a file without execute permission and modified permissions using the `chmod` command. I applied both, numeric (777) and symbolic (u+x) permission methods.
-### C
+### Commands
+- `chmod` → change file permissions
+- numeric method → uses numbers
+- symbolic method → uses letters
