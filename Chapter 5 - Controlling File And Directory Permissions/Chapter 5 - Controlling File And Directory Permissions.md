@@ -49,3 +49,8 @@ Permission changes reflect immediately in the file listing
 `-rwxrwxrwx`
 ### What I learned
 Permissions can be modified numerically or symbolically to control file access.
+
+---
+## Question 3
+Change file ownership using chown command
+### 
