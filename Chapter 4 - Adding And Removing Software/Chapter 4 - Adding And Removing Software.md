@@ -51,3 +51,4 @@ I refreshed the system's package database to ensure I have the latest informatio
 ### Commands
 - `sudo apt update` → refreshes repository package index
 ### Output
+##### STEP 1 : Update repository information
