@@ -33,7 +33,7 @@ After installing a package, I removed it using the APT remove command to underst
 - `sudo apt autoremove` → removes unnecessary dependencies
 ### Output
 ##### STEP 1 : Remove installed package
-
+![[Pasted image 20260328191402.png]]
 ##### STEP 2 : Remove unused dependencies
 
 ### Key Observations
