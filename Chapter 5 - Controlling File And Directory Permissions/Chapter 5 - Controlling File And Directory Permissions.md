@@ -88,4 +88,5 @@ Explanation :
 - `-perm -2000` → find SGID files
 - `2>/dev/null` → hides permission errors
 ### Key Observations
-SGID files allow execution with grou
+SGID files allow execution with group permissions rather than user permissions.
+### What I learned
