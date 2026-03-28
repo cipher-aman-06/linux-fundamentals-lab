@@ -60,3 +60,5 @@ I refreshed the system's package database to ensure I have the latest informatio
 keeping repositories updated ensures access to latest software versions and security patches.
 
 ---
+## Question 4
+Upgrade installed software packages to latest versions
