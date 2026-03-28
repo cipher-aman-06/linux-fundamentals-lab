@@ -33,3 +33,5 @@ Permission values :
 - 4 → read
 - 2 → write
 - 1 → execute
+### Output
+##### STEP 1 : Create test file
