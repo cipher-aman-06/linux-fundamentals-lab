@@ -72,3 +72,7 @@ After updating repository information, I upgraded installed software packages to
 
 ##### STEP 2 : Upgrade system including dependencies
 
+### Key Observations
+-  Upgrading improves security and performance.
+-  Some upgrades modify dependencies.
+- Regular updates prevent vulnerabilities.
