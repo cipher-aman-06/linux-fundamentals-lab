@@ -21,4 +21,7 @@ Each file shows permissions in this format : `-rwxr-xr-x`
 Linux controls access using file permissions which define who can read. modify, or execute files.
 
 ---
-## Question 
+## Question 2
+Grant execute permission to a file using both numeric and symbolic methods
+### Approach
+I selected a file without evec
