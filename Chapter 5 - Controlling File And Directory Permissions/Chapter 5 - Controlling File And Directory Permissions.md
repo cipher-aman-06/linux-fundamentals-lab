@@ -35,3 +35,5 @@ Permission values :
 - 1 → execute
 ### Output
 ##### STEP 1 : Create test file
+![[Pasted image 20260329015027.png]]
+##### STEP 2 : 
