@@ -36,10 +36,12 @@ After installing a package, I removed it using the APT remove command to underst
 ![[Pasted image 20260328191402.png]]
 ##### STEP 2 : Remove unused dependencies
 ![[Pasted image 20260328195301.png]]
-
 ### Key Observations
 - Removing packages helps maintain system performance.
 - `autoremove` cleans unnecessary dependencies.
 - `purge` removes configuration files completely.
 ### What I learned
 Linux allows full control over installed software and unused dependencies can be cleaned to optimize the system.
+
+---
+## Question 
