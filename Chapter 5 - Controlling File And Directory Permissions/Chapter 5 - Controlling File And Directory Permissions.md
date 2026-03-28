@@ -7,4 +7,6 @@ I selected a directory and used the long listing option to view detailed file in
 ### Commands
 - `ls` → lists directory contents
 - `ls -l` → shows detailed file permissions
-- `ls -la` → includes hi
+- `ls -la` → includes hidden files
+### Output
+##### Navigate to directory
