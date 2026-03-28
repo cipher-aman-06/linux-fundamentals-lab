@@ -77,4 +77,8 @@ Find files that have the SGID permission bit enabled
 ### Approach
 I used the find command to search the system for files with the SGID bit set.
 SGID allows files to run with group privileges.
-### Comma
+### Commands
+- `find` → search for files
+- SGID value → 2000 permission bit
+### Output
+##### STEP 1 : Search for SG
