@@ -29,3 +29,7 @@ I selected a file without execute permission and modified permissions using the 
 - `chmod` → change file permissions
 - numeric method → uses numbers
 - symbolic method → uses letters
+Permission values :
+- 4 → read
+- 2 → write
+- 1 → execute
