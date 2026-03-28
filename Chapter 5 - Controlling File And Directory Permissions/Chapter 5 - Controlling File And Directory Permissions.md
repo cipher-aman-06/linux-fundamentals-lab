@@ -54,4 +54,7 @@ Permissions can be modified numerically or symbolically to control file access.
 ## Question 3
 Change file ownership using chown command
 ### Approach
-I selected a file and changed its owner using the chown command
+I selected a file and changed its owner using the chown command.
+### Commands
+- `chown` → change file ownership
+- syntax : `sudo chown user`
