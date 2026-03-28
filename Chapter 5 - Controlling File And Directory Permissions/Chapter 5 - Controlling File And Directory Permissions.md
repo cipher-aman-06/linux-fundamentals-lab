@@ -66,4 +66,7 @@ I selected a file and changed its owner using the chown command.
 ##### STEP 3 : Verify ownership change
 ![[Pasted image 20260329021108.png]]
 ### Key Observations
-Ownership 
+Ownership is displayed in the file listing :
+`owner group filename`
+### What I learned
+Ownership determines which users have control over files and directories.
