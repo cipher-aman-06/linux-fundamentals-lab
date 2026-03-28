@@ -93,4 +93,6 @@ SGID files allow execution with group permissions rather than user permissions.
 Special permission bits like SGID can affect privilege levels and are important in security auditing.
 
 ---
-## A
+### Security Insights
+-  Weak permissions can expose sensitive files
+- Executable permissions allow scripts to 
