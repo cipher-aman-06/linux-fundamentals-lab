@@ -49,4 +49,5 @@ Update the system repository information
 ### Approach
 I refreshed the system's package database to ensure I have the latest information about available software versions.
 ### Commands
+- `sudo apt update` → refreshes repository package index
 - 
