@@ -87,4 +87,6 @@ I used Git to clone an open-source software repository from GitHub to my local s
 ### Commands
 - `git clone <repository-link>` → downloads repository from GitHub
 - `cd <directory-name>` → move into cloned directory
-- `ls` → list files inside r
+- `ls` → list files inside repository
+### Output
+##### STEP 1 : Clone repository from GitHub
