@@ -41,4 +41,4 @@ After installing a package, I removed it using the APT remove command to underst
 - `autoremove` cleans unnecessary dependencies.
 - `purge` removes configuration files completely.
 ### What I learned
-Linux allows full control over installed software and unused dependencies can be cleaned to optimize the 
+Linux allows full control over installed software and unused dependencies can be cleaned to optimize the system.
