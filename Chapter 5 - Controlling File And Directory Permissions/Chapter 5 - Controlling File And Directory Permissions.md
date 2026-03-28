@@ -9,4 +9,4 @@ I selected a directory and used the long listing option to view detailed file in
 - `ls -l` → shows detailed file permissions
 - `ls -la` → includes hidden files
 ### Output
-##### Navigate to directory
+##### STEP 1 : Navigate to directory
