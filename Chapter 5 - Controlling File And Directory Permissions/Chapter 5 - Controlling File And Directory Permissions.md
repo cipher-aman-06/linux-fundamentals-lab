@@ -87,4 +87,5 @@ Explanation :
 - `/` → search entire system
 - `-perm -2000` → find SGID files
 - `2>/dev/null` → hides permission errors
-- 
+### Key Observations
+SGID files allow execution with grou
