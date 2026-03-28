@@ -37,6 +37,8 @@ After installing a package, I removed it using the APT remove command to underst
 ##### STEP 2 : Remove unused dependencies
 
 ### Key Observations
-- Removing packages helps maintain system performance
+- Removing packages helps maintain system performance.
 - `autoremove` cleans unnecessary dependencies.
-- 
+- `purge` removes configuration files completely.
+### What I learned
+Linux allows full control over installed software and unused dependencies can be cleaned to optimize the 
