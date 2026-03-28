@@ -77,4 +77,6 @@ After updating repository information, I upgraded installed software packages to
 -  Some upgrades modify dependencies.
 - Regular updates prevent vulnerabilities.
 ### What I learned
-System updates are essential for maintaining security, stability, and compatibility of software
+System updates are essential for maintaining security, stability, and compatibility of software.
+
+---
