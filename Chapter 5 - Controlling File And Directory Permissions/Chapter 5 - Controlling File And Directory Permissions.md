@@ -84,4 +84,7 @@ SGID allows files to run with group privileges.
 ##### STEP 1 : Search for SGID files
 ![[Pasted image 20260329022525.png]]
 Explanation :
-- `/` 
+- `/` → search entire system
+- `-perm -2000` → find SGID files
+- `2>/dev/null` → hides permission errors
+- 
