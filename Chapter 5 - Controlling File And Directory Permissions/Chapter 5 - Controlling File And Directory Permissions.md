@@ -46,4 +46,6 @@ Permission values :
 ![[Pasted image 20260329015306.png]]
 ### Key Observation
 Permission changes reflect immediately in the file listing
-``
+`-rwxrwxrwx`
+### What I learned
+Permissions can be modified numerically or symbolically to control file access.
