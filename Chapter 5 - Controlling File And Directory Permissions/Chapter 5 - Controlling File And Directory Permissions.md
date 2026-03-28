@@ -74,3 +74,7 @@ Ownership determines which users have control over files and directories.
 ---
 ## Question 4
 Find files that have the SGID permission bit enabled
+### Approach
+I used the find command to search the system for files with the SGID bit set.
+SGID allows files to run with group privileges.
+### Comma
