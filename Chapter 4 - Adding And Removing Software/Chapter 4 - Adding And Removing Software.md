@@ -106,4 +106,6 @@ GitHub is an important platform for accessing cybersecurity tools and learning f
 ### Security Insights
 - Security professionals must keep systems updated to patch vulnerabilities.
 - Outdated packages may contain known exploits that attackers can use.
-- GitHub repositories frequently host open-sour
+- GitHub repositories frequently host open-source security tools used in penetration testing.
+- Attackers often install tools from repositories to perform scanning, exploitation, and enumeration.
+- Dependency managem
