@@ -97,4 +97,5 @@ Special permission bits like SGID can affect privilege levels and are important 
 -  Weak permissions can expose sensitive files
 - Executable permissions allow scripts to run
 - Incorrect ownership can allow unauthorized modifications
-- SGID files can be exploited for privilege escapl
+- SGID files can be exploited for privilege escalation
+- Auditing file permissions helps detect misconfigurations
