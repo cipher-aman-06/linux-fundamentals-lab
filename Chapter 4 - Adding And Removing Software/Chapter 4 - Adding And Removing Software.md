@@ -36,3 +36,7 @@ After installing a package, I removed it using the APT remove command to underst
 
 ##### STEP 2 : Remove unused dependencies
 
+### Key Observations
+- Removing packages helps maintain system performance
+- `autoremove` cleans unnecessary dependencies.
+- 
