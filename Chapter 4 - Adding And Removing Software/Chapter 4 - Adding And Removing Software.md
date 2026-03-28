@@ -108,4 +108,6 @@ GitHub is an important platform for accessing cybersecurity tools and learning f
 - Outdated packages may contain known exploits that attackers can use.
 - GitHub repositories frequently host open-source security tools used in penetration testing.
 - Attackers often install tools from repositories to perform scanning, exploitation, and enumeration.
-- Dependency managem
+- Dependency management is important because vulnerable libraries can compromise the entire system.
+
+---
