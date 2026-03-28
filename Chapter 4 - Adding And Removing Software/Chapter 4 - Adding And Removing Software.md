@@ -65,4 +65,5 @@ Upgrade installed software packages to latest versions
 ### Approach
 After updating repository information, I upgraded installed software packages to the latest available versions.
 ### Commands
-- `sudo apt upgrade`
+- `sudo apt upgrade` → upgrades installed packages
+- `sudo apt full-upgrade` → 
