@@ -43,3 +43,7 @@ Permission values :
 ##### STEP 4 : Give execute permission using symbolic method
 ![[Pasted image 20260329015232.png]]
 ##### STEP 5 : Verify permission change
+![[Pasted image 20260329015306.png]]
+### Key Observation
+Permission changes reflect immediately in the file listing
+``
