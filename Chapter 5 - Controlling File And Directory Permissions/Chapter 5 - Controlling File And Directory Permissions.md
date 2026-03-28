@@ -36,4 +36,8 @@ Permission values :
 ### Output
 ##### STEP 1 : Create test file
 ![[Pasted image 20260329015027.png]]
-##### STEP 2 : 
+##### STEP 2 : Check permissions
+![[Pasted image 20260329015103.png]]
+##### STEP 3 : Give execute permission using numeric method
+![[Pasted image 20260329015141.png]]
+##### 
