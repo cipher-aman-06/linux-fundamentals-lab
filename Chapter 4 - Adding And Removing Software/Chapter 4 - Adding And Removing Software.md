@@ -70,7 +70,6 @@ After updating repository information, I upgraded installed software packages to
 ### Output
 ##### STEP 1 : Upgrade installed packages
 ![[Pasted image 20260328213007.png]]
-
 ##### STEP 2 : Upgrade system including dependencies
 
 ### Key Observations
