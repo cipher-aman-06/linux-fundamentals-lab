@@ -83,4 +83,5 @@ SGID allows files to run with group privileges.
 ### Output
 ##### STEP 1 : Search for SGID files
 ![[Pasted image 20260329022525.png]]
-#
+Explanation :
+- `/` 
