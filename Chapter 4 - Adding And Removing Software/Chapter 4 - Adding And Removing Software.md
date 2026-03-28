@@ -100,4 +100,6 @@ I used Git to clone an open-source software repository from GitHub to my local s
 - Cloning downloads full source code to local system.
 - Many security tools are installed manually using Git.
 ### What I learned
-GitHub is an important platform for accessing cybersecurity tools and learning from
+GitHub is an important platform for accessing cybersecurity tools and learning from open-source projects.
+
+---
