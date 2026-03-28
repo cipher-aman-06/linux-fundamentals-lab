@@ -15,3 +15,6 @@ I selected a directory and used the long listing option to view detailed file in
 ![[Pasted image 20260329013518.png]]
 ##### STEP 3 : Display hidden files
 ![[Pasted image 20260329013558.png]]
+### Key Observations
+Each file shows permissions in this format : `-rwxr-xr-x`
+- 
