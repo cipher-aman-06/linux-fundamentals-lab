@@ -90,3 +90,5 @@ I used Git to clone an open-source software repository from GitHub to my local s
 - `ls` → list files inside repository
 ### Output
 ##### STEP 1 : Clone repository from GitHub
+![[Pasted image 20260328215632.png]]
+##### STEP 2 : Move into cloned directory
