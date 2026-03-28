@@ -99,3 +99,5 @@ Special permission bits like SGID can affect privilege levels and are important 
 - Incorrect ownership can allow unauthorized modifications
 - SGID files can be exploited for privilege escalation
 - Auditing file permissions helps detect misconfigurations
+
+---
