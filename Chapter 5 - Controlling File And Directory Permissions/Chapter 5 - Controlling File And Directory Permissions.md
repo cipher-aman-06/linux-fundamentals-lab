@@ -70,3 +70,7 @@ Ownership is displayed in the file listing :
 `owner group filename`
 ### What I learned
 Ownership determines which users have control over files and directories.
+
+---
+## Question 4
+Find files that have the SGID permission bit enabled
