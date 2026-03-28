@@ -62,3 +62,8 @@ I selected a file and changed its owner using the chown command.
 ##### STEP 1 : Create new file
 ![[Pasted image 20260329020856.png]]
 ##### STEP 2 : Change ownership
+![[Pasted image 20260329021025.png]]
+##### STEP 3 : Verify ownership change
+![[Pasted image 20260329021108.png]]
+### Key Observations
+Ownership 
