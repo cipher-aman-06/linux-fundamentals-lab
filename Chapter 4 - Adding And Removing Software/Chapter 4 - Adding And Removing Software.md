@@ -35,6 +35,7 @@ After installing a package, I removed it using the APT remove command to underst
 ##### STEP 1 : Remove installed package
 ![[Pasted image 20260328191402.png]]
 ##### STEP 2 : Remove unused dependencies
+![[Pasted image 20260328195301.png]]
 
 ### Key Observations
 - Removing packages helps maintain system performance.
