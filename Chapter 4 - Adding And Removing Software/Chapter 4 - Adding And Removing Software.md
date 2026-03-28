@@ -57,4 +57,6 @@ I refreshed the system's package database to ensure I have the latest informatio
 - Repository update does not install software.
 - It synchronizes package metadata with online servers.
 ### What I learned
-keeping repositories updated ensures access to latest soft
+keeping repositories updated ensures access to latest software versions and security patches.
+
+---
