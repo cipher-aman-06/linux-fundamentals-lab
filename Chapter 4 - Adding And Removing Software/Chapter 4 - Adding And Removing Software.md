@@ -71,7 +71,7 @@ After updating repository information, I upgraded installed software packages to
 ##### STEP 1 : Upgrade installed packages
 ![[Pasted image 20260328213007.png]]
 ##### STEP 2 : Upgrade system including dependencies
-
+![[Pasted image 20260328220133.png]]
 ### Key Observations
 -  Upgrading improves security and performance.
 -  Some upgrades modify dependencies.
