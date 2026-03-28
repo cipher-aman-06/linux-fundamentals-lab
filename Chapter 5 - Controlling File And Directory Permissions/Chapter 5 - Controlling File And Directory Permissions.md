@@ -12,3 +12,6 @@ I selected a directory and used the long listing option to view detailed file in
 ##### STEP 1 : Navigate to directory
 ![[Pasted image 20260328222750.png]]
 ##### STEP 2 : Display long listing
+![[Pasted image 20260329013518.png]]
+##### STEP 3 : Display hidden files
+![[Pasted image 20260329013558.png]]
