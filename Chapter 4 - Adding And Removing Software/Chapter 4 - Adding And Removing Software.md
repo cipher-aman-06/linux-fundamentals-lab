@@ -62,3 +62,5 @@ keeping repositories updated ensures access to latest software versions and secu
 ---
 ## Question 4
 Upgrade installed software packages to latest versions
+### Approach
+After updating repository information, 
