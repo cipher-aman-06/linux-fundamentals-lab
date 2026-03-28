@@ -40,4 +40,6 @@ Permission values :
 ![[Pasted image 20260329015103.png]]
 ##### STEP 3 : Give execute permission using numeric method
 ![[Pasted image 20260329015141.png]]
-##### 
+##### STEP 4 : Give execute permission using symbolic method
+![[Pasted image 20260329015232.png]]
+##### STEP 5 : Verify permission change
