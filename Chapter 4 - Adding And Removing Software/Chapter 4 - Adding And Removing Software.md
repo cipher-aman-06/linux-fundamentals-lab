@@ -85,4 +85,6 @@ Select a software package from GitHub and clone it to the local system
 ### Approach
 I used Git to clone an open-source software repository from GitHub to my local system to understand how security tools are shared and installed manually.
 ### Commands
-- `git clone <repository-link>` 
+- `git clone <repository-link>` → downloads repository from GitHub
+- `cd <directory-name>` → move into cloned directory
+- `ls` → list files inside r
