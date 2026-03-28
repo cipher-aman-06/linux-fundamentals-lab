@@ -83,4 +83,6 @@ System updates are essential for maintaining security, stability, and compatibil
 ## Question 5
 Select a software package from GitHub and clone it to the local system
 ### Approach
-I us
+I used Git to clone an open-source software repository from GitHub to my local system to understand how security tools are shared and installed manually.
+### Commands
+- `git clone <repository-link>` 
