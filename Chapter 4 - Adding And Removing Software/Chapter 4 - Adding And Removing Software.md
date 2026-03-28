@@ -55,4 +55,6 @@ I refreshed the system's package database to ensure I have the latest informatio
 ![[Pasted image 20260328211406.png]]
 ### Key Observation
 - Repository update does not install software.
-- It synchronizes package 
+- It synchronizes package metadata with online servers.
+### What I learned
+keeping repositories updated ensures access to latest soft
