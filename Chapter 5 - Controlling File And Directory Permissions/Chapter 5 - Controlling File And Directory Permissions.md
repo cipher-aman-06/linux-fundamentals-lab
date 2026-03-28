@@ -60,3 +60,5 @@ I selected a file and changed its owner using the chown command.
 - syntax : `sudo chown user:group filename`
 ### Output
 ##### STEP 1 : Create new file
+![[Pasted image 20260329020856.png]]
+##### STEP 2 : C
