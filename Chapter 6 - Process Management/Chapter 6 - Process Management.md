@@ -59,3 +59,5 @@ Processes can be manually stopped to free system resources.
 ---
 ## Question 4
 Reduce the priority of a running process
+### Approach
+I used the renice 
