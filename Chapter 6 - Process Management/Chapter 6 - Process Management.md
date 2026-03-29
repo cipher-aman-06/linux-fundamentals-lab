@@ -74,3 +74,9 @@ I used the renice command to change the priority level of a running process to 1
 Lower priority processes receive fewer CPU resources.
 ### What I learned
 Process priority can be controlled to optimize system performance.
+
+---
+## Question 5
+Create a script and schedule it to run automatically at a specific time
+### Approach
+I c
