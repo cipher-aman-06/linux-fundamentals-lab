@@ -96,3 +96,6 @@ Scheduled tasks run automatically without manual execution
 Task scheduling helps automate system operations and repetitive activities
 
 ---
+### Security Insights
+- Monitoring running processes helps identify suspicious or malicious programs.
+- 
