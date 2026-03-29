@@ -98,4 +98,6 @@ Task scheduling helps automate system operations and repetitive activities
 ---
 ### Security Insights
 - Monitoring running processes helps identify suspicious or malicious programs.
-- High resource usage 
+- High resource usage may indicate malware or unauthorized activity.
+- Attackers often terminate security tools to avoid detection.
+- Changing process priority can be used to weaken security software performance.
