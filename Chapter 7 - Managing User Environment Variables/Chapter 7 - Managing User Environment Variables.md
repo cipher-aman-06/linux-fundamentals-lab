@@ -70,3 +70,6 @@ Custom variables can store user-defined values.
 ## Question 5
 Display the value stored in MYNEWVARIABLE
 ### Approach
+I used echo command to display the stored value.
+### Commands
+- `$VARIABLE_NAME`  retrieves stored value
