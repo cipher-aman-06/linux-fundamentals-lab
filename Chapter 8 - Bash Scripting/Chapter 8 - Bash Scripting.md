@@ -62,4 +62,8 @@ I modifies the script so user enters starting IP, ending IP, and port number. Sc
 ##### STEP 3 : run script
 ![[Pasted image 20260330013810.png]]
 ### Key Observations
-Script dynamicall
+Script dynamically scans based on user input.
+### What I learned
+Scripts can interact with users and adapt behaviour dynamically.
+
+---
