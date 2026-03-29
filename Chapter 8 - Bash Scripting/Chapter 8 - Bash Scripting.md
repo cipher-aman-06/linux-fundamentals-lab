@@ -6,4 +6,7 @@ Create a simple greeting script similar to HelloHackersArise
 I created a basic bash script that prints a greeting message when executed.
 ### Commands
 - `nano` → create script file
-- `echo`
+- `echo` → display message
+- `chmod +x` → make script executable
+### Output
+##### STEP 1 : create script file
