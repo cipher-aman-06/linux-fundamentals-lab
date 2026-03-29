@@ -53,3 +53,4 @@ I identified the process ID (PID) of the resource-heavy process and terminated i
 ##### STEP 3 : confirm process stopped
 ### Key Observations
 Process disappears from the process list after termination.
+### What I LEARNED
