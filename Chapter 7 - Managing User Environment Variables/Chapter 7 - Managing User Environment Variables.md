@@ -78,4 +78,8 @@ I used echo command to display the stored value.
 ![[Pasted image 20260329201343.png]]
 ### Key Observations
 Echo prints the stored variable value.
-### What 
+### What I learned
+Variables store reusable values accessible throughout the session.
+
+---
+## Question 6
