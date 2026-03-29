@@ -24,4 +24,6 @@ Linux allows monitoring of all running processes including system and user proce
 
 ---
 ## Question 2
-Identify 
+Identify the two processes consuming the most system resources
+### Approach
+I used the `top` command to monitor real-time 
