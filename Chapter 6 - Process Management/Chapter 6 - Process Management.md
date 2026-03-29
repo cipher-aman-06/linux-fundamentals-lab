@@ -40,3 +40,6 @@ Processes are dynamically sorted based on CPU usage.
 Some processes consume more resource and may affect system performance.
 
 ---
+## Question 3
+Terminate the process consuming the most resources
+### Approach
