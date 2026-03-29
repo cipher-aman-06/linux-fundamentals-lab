@@ -45,7 +45,7 @@ I modified the PS1 environment variable to change the shell prompt appearance.
 - `PS1` → controls terminal prompt appearance.
 ### Output
 ##### STEP 1 : modify PS1 prompt
-
+![[Pasted image 20260329194019.png]]
 ### Key Observations
 Changing PS1 alters how the terminal prompt is displayed.
 ### What I learned
