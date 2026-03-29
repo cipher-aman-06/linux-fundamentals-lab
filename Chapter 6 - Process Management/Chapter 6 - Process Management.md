@@ -84,4 +84,5 @@ I created a simple bash script and scheduled it using the at command to execute 
 - `nano` → create scrip
 - `chmod` → make script executable
 - `at` → schedule task
-- `atq` → view scheduled 
+- `atq` → view scheduled jobs
+##
