@@ -56,3 +56,7 @@ I modifies the script so user enters starting IP, ending IP, and port number. Sc
 - `nc` → test port connectivity
 ### Output
 ##### STEP 1 : edit script
+![[Pasted image 20260330013110.png]]
+##### STEP 2 : updated script
+![[Pasted image 20260330013155.png]]
+##### STEP 3 : run script
