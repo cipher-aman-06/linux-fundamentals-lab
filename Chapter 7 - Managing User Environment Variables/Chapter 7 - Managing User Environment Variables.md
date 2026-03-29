@@ -8,3 +8,9 @@ I listed all environment variables and piped the output into the more command to
 - `env` → shows environment variables
 - `printenv` → alternative command
 - `more` → displays output page by page
+### Output
+##### STEP 1 : view environment variables
+### Key Observations
+Environment variables store system configuration values such as :
+- USER
+- 
