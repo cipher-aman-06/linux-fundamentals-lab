@@ -60,3 +60,6 @@ I modifies the script so user enters starting IP, ending IP, and port number. Sc
 ##### STEP 2 : updated script
 ![[Pasted image 20260330013716.png]]
 ##### STEP 3 : run script
+![[Pasted image 20260330013810.png]]
+### Key Observations
+Script dynamicall
