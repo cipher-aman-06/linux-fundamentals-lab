@@ -73,8 +73,9 @@ I used the renice command to change the priority level of a running process to 1
 ##### STEP 1 : find PID
 ![[Pasted image 20260329173137.png]]
 ##### STEP 2 : change process priority
-
+![[Pasted image 20260329191624.png]]
 ##### STEP 3 : Verify change
+![[Pasted image 20260329191651.png]]
 ### Key Observation
 Lower priority processes receive fewer CPU resources.
 ### What I learned
