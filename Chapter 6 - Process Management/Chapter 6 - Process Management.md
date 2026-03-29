@@ -60,4 +60,5 @@ Processes can be manually stopped to free system resources.
 ## Question 4
 Reduce the priority of a running process
 ### Approach
-I used the renice 
+I used the renice command to change the priority level of a running process to 19 (lowest priority).
+###
