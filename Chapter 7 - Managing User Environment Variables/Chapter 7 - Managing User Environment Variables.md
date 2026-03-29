@@ -10,6 +10,7 @@ I listed all environment variables and piped the output into the more command to
 - `more` → displays output page by page
 ### Output
 ##### STEP 1 : view environment variables
+![[Pasted image 20260329193335.png]]
 ### Key Observations
 Environment variables store system configuration values such as :
 - USER
@@ -29,6 +30,7 @@ I used the echo command to print the value stored in the HOSTNAME variable.
 - `$HOSTNAME` → stores system hostname
 ### Output
 ##### STEP 1 : display hostname variable
+
 ### Key Observations
 HOSTNAME identifies the system name on the network.
 ### What I learned
