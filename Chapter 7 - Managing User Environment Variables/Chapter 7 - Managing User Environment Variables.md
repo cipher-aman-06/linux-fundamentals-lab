@@ -127,3 +127,5 @@ I modified PATH variable to include my home directory.
 ![[Pasted image 20260329210206.png]]
 ##### STEP 2 : verify PATH update
 ![[Pasted image 20260329210343.png]]
+### Key Observations
+New directory is appended to p
