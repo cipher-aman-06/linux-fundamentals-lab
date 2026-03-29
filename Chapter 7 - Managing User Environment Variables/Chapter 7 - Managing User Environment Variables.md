@@ -148,4 +148,7 @@ Terminal prompt text changes immediately.
 PS1 customization helps personalize terminal environment.
 
 ---
-### Security I
+### Security Insights
+1. Environment variables may reveal sensitive system configuration details.
+2. Hostname information can help attackers identify target systems.
+3. PS1 manipulation can 
