@@ -111,4 +111,9 @@ I used echo to display directories stored in the PATH variable.
 ### Key Observations
 PATH contains directories separated by colon (:)
 `/usr/bin:/bon:/usr/sbin`
-### What I learne
+### What I learned
+PATH determines where the system looks for executable files.
+
+---
+## Question 8
+Add home directory to 
