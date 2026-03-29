@@ -101,3 +101,4 @@ Task scheduling helps automate system operations and repetitive activities
 - High resource usage may indicate malware or unauthorized activity.
 - Attackers often terminate security tools to avoid detection.
 - Changing process priority can be used to weaken security software performance.
+- Scheduled scripts can automate attacks or security monitoring tasks.
