@@ -57,4 +57,6 @@ Create a new variable named MYNEWVARIABLE and assign a value
 ### Approach
 I created a custom environment variable and assigned my name as its value.
 ### Commands
-- variable format : `VARIABLE_NAME`
+- variable format : `VARIABLE_NAME=value` 
+### Output
+##### STEP 1 : create variable
