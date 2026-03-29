@@ -88,3 +88,5 @@ Export MYNEWVARIABLE so it is available globally
 I used the export command to make the variable available across different shell environments.
 ### Commands
 -  `export` → makes variable available globally
+### Output
+##### STEP 1 : export variable
