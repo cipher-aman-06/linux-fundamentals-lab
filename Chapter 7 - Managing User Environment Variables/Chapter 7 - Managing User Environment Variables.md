@@ -143,4 +143,9 @@ I customized the PS1 variable to change terminal prompt text.
 ##### STEP 1 : change prompt text
 ![[Pasted image 20260329211415.png]]
 ### Key Observations
-Terminal prompt text chn
+Terminal prompt text changes immediately.
+### What I learned
+PS1 customization helps personalize terminal environment.
+
+---
+### Security I
