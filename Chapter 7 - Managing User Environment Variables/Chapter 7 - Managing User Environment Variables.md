@@ -18,3 +18,7 @@ Environment variables store system configuration values such as :
 - SHELL
 ### What I learned
 Environment variables store important system configuration information.
+
+---
+## Question 2
+Display the HOSTNAME variable usi
