@@ -26,4 +26,8 @@ Display the HOSTNAME variable using echo
 I used the echo command to print the value stored in the HOSTNAME variable.
 ### Commands
 - `echo` → prints variable value
-- `$HOSTN`
+- `$HOSTNAME` → stores system hostname
+### Output
+##### STEP 1 : display hostname variable
+### Key Observations
+HOSTNAME identifies the system name on the network
