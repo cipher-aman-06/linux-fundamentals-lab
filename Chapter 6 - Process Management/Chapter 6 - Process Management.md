@@ -17,4 +17,5 @@ ps aux (last process : )
 Processes are displayed with :
 - PID → process ID
 - CPU usage
-- 
+- memory usage
+- command name
