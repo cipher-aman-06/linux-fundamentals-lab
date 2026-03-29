@@ -37,4 +37,7 @@ Environment variables can be accessed using the `$` symbol.
 ---
 ## Question 3
 Modify the PS1 variable to change forward slash to backslash
-### Approa
+### Approach
+I modified the PS1 environment variable to change the shell prompt appearance.
+### Commands
+- `PS1` → controls terminal prompt appearance.
