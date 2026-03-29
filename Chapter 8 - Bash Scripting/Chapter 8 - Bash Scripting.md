@@ -36,4 +36,4 @@ I created a script that scans IP addresses to check if port 1433 ( Microsoft SQL
 ![[Pasted image 20260330011600.png]]
 ##### STEP 2 : script code
 ![[Pasted image 20260330011824.png]]
-###
+##### STEP 3 : make executable
