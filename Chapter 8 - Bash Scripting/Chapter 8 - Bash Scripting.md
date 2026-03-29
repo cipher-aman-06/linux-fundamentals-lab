@@ -42,4 +42,10 @@ I created a script that scans IP addresses to check if port 1433 ( Microsoft SQL
 ### Key Observations
 Script checks multiple systems automatically.
 ### What I learned
-Port scanning can b
+Port scanning can be automated using bash loops.
+
+---
+## Question 3
+Modify scanner to accept IP range and port from user input
+### Approach
+I modifies the script so user enters s
