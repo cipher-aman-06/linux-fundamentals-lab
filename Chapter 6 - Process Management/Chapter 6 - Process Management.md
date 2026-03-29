@@ -11,7 +11,8 @@ I used the `ps` command with the `aux` option to display all active processes ru
 ##### STEP 1 : Display all running processes
 ![[Pasted image 20260329164347.png]]
 ##### STEP 2 : Identify first and last process
-
+![[Pasted image 20260329170603.png]]
+![[Pasted image 20260329170616.png]]
 ### Key Observations
 Processes are displayed with :
 - PID → process ID
@@ -30,6 +31,7 @@ I used the `top` command to monitor real-time system resource usage and identifi
 - `top` → shows live system process activity
 ### Output
 ##### STEP 1 : open process monitor
+
 ##### STEP 2 : identify highest resource processes
 ### Key Observations
 Processes are dynamically sorted based on CPU usage.
