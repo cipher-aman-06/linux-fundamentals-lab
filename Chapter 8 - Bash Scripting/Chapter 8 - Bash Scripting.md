@@ -37,3 +37,9 @@ I created a script that scans IP addresses to check if port 1433 ( Microsoft SQL
 ##### STEP 2 : script code
 ![[Pasted image 20260330011824.png]]
 ##### STEP 3 : make executable
+![[Pasted image 20260330012122.png]]
+##### STEP 4 : run script
+### Key Observations
+Script checks multiple systems automatically.
+### What I learned
+Port scanning can b
