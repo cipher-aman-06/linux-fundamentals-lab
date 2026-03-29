@@ -10,3 +10,5 @@ I created a basic bash script that prints a greeting message when executed.
 - `chmod +x` → make script executable
 ### Output
 ##### STEP 1 : create script file
+![[Pasted image 20260330010435.png]]
+##### STEP 2 : add script code
