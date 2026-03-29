@@ -124,3 +124,5 @@ I modified PATH variable to include my home directory.
 - `$HOME` → home directory variable
 ### Output
 ##### STEP 1  : add home directory to PATH
+![[Pasted image 20260329210206.png]]
+##### STEP 2 : verify PATH update
