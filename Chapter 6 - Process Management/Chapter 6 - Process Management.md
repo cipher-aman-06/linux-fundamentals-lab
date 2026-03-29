@@ -27,3 +27,6 @@ Linux allows monitoring of all running processes including system and user proce
 Identify the two processes consuming the most system resources
 ### Approach
 I used the `top` command to monitor real-time system resource usage and identified the two processes using the highest CPU or memory.
+### Commands
+- `top` → shows live system process activity
+- 
