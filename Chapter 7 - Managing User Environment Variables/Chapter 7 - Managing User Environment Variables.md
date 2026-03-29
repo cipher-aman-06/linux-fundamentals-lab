@@ -85,4 +85,6 @@ Variables store reusable values accessible throughout the session.
 ## Question 6
 Export MYNEWVARIABLE so it is available globally
 ### Approach
-I used the 
+I used the export command to make the variable available across different shell environments.
+### Commands
+-  `export` → makes variable available globally
