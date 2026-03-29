@@ -90,3 +90,7 @@ I used the export command to make the variable available across different shell 
 -  `export` → makes variable available globally
 ### Output
 ##### STEP 1 : export variable
+![[Pasted image 20260329202441.png]]
+##### STEP 2 : verify export
+![[Pasted image 20260329202507.png]]
+
