@@ -44,3 +44,7 @@ Some processes consume more resource and may affect system performance.
 Terminate the process consuming the most resources
 ### Approach
 I identified the process ID (PID) of the resource-heavy process and terminated it using the kill command.
+### Commands
+- `kill` → stops a process
+- `-9` → force stop process
+### Output
