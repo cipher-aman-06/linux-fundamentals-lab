@@ -20,4 +20,8 @@ Processes are displayed with :
 - memory usage
 - command name
 ### What I learned
-Linux allows monitoring of all running 
+Linux allows monitoring of all running processes including system and user processes.
+
+---
+## Question 2
+Identify 
