@@ -36,3 +36,5 @@ top
 
 ### Key Observations
 Processes are dynamically sorted based on CPU usage.
+### What I learned
+Some processes consume more resource
