@@ -93,4 +93,10 @@ I used the export command to make the variable available across different shell 
 ![[Pasted image 20260329202441.png]]
 ##### STEP 2 : verify export
 ![[Pasted image 20260329202507.png]]
+### Key Observations
+Exported variables can be accessed by child processes.
 
+### What I learned
+Export allows variables to persist across different shell sessions.
+
+---
