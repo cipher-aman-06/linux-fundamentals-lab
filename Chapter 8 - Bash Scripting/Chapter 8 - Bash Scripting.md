@@ -39,6 +39,7 @@ I created a script that scans IP addresses to check if port 1433 ( Microsoft SQL
 ##### STEP 3 : make executable
 ![[Pasted image 20260330012122.png]]
 ##### STEP 4 : run script
+
 ### Key Observations
 Script checks multiple systems automatically.
 ### What I learned
@@ -52,4 +53,6 @@ I modifies the script so user enters starting IP, ending IP, and port number. Sc
 ### Commands
 - `read` → take user input
 - `seq` → generate number range
-- `nc` → test port connectiv
+- `nc` → test port connectivity
+### Output
+##### STEP 1 : edit script
