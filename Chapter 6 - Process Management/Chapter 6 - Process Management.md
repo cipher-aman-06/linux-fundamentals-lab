@@ -10,8 +10,6 @@ I used the `ps` command with the `aux` option to display all active processes ru
 ### Output
 ##### STEP 1 : Display all running processes
 ##### STEP 2 : Identify first and last process
-systemd (first process usually : )
-ps aux (last process : )
 ### Key Observations
 Processes are displayed with :
 - PID → process ID
@@ -30,9 +28,7 @@ I used the `top` command to monitor real-time system resource usage and identifi
 - `top` → shows live system process activity
 ### Output
 ##### STEP 1 : open process monitor
-top
 ##### STEP 2 : identify highest resource processes
-
 ### Key Observations
 Processes are dynamically sorted based on CPU usage.
 ### What I learned
