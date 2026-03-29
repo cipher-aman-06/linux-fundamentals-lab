@@ -104,3 +104,5 @@ Export allows variables to persist across different shell sessions.
 Display the PATH variable
 ### Approach
 I used echo to display directories stored in the PATH variable.
+### Commands
+-  `PATH` 
