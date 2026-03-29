@@ -39,7 +39,7 @@ I created a script that scans IP addresses to check if port 1433 ( Microsoft SQL
 ##### STEP 3 : make executable
 ![[Pasted image 20260330012122.png]]
 ##### STEP 4 : run script
-
+![[Pasted image 20260330012751.png]]
 ### Key Observations
 Script checks multiple systems automatically.
 ### What I learned
