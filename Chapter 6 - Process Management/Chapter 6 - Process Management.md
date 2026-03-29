@@ -10,4 +10,7 @@ I used the `ps` command with the `aux` option to display all active processes ru
 ### Output
 ##### STEP 1 : Display all running processes
 ps aux
-##### STEP 2 : Identify first
+##### STEP 2 : Identify first and last process
+systemd (first process usually : )
+ps aux (last process : )
+##### STEP 3 : 
