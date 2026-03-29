@@ -55,3 +55,7 @@ I identified the process ID (PID) of the resource-heavy process and terminated i
 Process disappears from the process list after termination.
 ### What I learned
 Processes can be manually stopped to free system resources.
+
+---
+## Question 4
+Reduce the priority of a running process
