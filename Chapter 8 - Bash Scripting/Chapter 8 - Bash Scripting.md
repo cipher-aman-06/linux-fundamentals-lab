@@ -19,4 +19,11 @@ I created a basic bash script that prints a greeting message when executed.
 ![[Pasted image 20260330011041.png]]
 ### Key Observations
 Script executes commands automatically when run.
-### What I le
+### What I learned
+Bash scripts automate repeated tasks.
+
+---
+## Question 2
+Create script to scan systems for MSSQL service on port 1433
+### Approach
+I create
