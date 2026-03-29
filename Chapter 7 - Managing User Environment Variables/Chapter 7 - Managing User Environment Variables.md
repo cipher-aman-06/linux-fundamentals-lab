@@ -151,4 +151,8 @@ PS1 customization helps personalize terminal environment.
 ### Security Insights
 1. Environment variables may reveal sensitive system configuration details.
 2. Hostname information can help attackers identify target systems.
-3. PS1 manipulation can 
+3. PS1 manipulation can disguise malicious terminal environments.
+4. Custom variables can store sensitive or malicious values.
+5. Viewing variable contents helps identify exposed secrets.
+6. Exported variables may affect multiple programs and sessions.
+7. PATH 
