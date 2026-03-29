@@ -13,4 +13,8 @@ ps aux
 ##### STEP 2 : Identify first and last process
 systemd (first process usually : )
 ps aux (last process : )
-##### STEP 3 : 
+### Key Observations
+Processes are displayed with :
+- PID → process ID
+- CPU usage
+- 
