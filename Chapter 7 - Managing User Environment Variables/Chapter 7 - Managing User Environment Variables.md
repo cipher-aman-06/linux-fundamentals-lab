@@ -60,3 +60,4 @@ I created a custom environment variable and assigned my name as its value.
 - variable format : `VARIABLE_NAME=value` 
 ### Output
 ##### STEP 1 : create variable
+![[Pasted image 20260329201330.png]]
