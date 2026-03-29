@@ -32,3 +32,4 @@ I created a script that scans IP addresses to check if port 1433 ( Microsoft SQL
 - `nc` → check open port
 - port 1433 → MSSQL default port
 ### Output
+##### STEP 1 : create script
