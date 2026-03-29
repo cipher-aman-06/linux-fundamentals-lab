@@ -67,3 +67,7 @@ Script dynamically scans based on user input.
 Scripts can interact with users and adapt behaviour dynamically.
 
 ---
+### Security Insights
+1. Scripts can automate repetitive hacking or admin tasks.
+2. Port scanning helps identify exposed services like databases.
+3. 
