@@ -41,3 +41,4 @@ Modify the PS1 variable to change forward slash to backslash
 I modified the PS1 environment variable to change the shell prompt appearance.
 ### Commands
 - `PS1` → controls terminal prompt appearance.
+### Output
