@@ -82,3 +82,5 @@ Create a script and schedule it to run automatically at a specific time
 I created a simple bash script and scheduled it using the at command to execute at a specific time.
 ### Commands
 - `nano` → create scrip
+- `chmod` → make script executable
+- ``
