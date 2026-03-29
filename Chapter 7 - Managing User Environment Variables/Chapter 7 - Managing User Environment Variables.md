@@ -120,3 +120,7 @@ PATH determines where the system looks for executable files.
 Add home directory to PATH variable
 ### Approach
 I modified PATH variable to include my home directory.
+### Commands
+- `$HOME` → home directory variable
+### Output
+##### STEP 1  : add home directory to PATH
