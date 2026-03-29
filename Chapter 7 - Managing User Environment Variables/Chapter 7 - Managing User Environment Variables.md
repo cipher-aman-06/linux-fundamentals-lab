@@ -35,3 +35,5 @@ HOSTNAME identifies the system name on the network.
 Environment variables can be accessed using the `$` symbol.
 
 ---
+## Question 3
+Modif
