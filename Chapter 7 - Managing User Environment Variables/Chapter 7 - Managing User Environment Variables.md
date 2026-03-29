@@ -101,4 +101,6 @@ Export allows variables to persist across different shell sessions.
 
 ---
 ## Question 7
-Display
+Display the PATH variable
+### Approach
+I used echo to display directories stored in the PATH variable.
