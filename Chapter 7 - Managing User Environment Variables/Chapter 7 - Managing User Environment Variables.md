@@ -54,3 +54,8 @@ PS1 variable customizes command line appearance.
 ---
 ## Question 4
 Create a new variable named MYNEWVARIABLE and assign a value
+### Approach
+I created a custom environment variable and assigned my name as its value.
+### Commands
+- variable format : 
+- 
