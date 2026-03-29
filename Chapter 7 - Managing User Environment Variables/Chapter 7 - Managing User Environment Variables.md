@@ -155,4 +155,5 @@ PS1 customization helps personalize terminal environment.
 4. Custom variables can store sensitive or malicious values.
 5. Viewing variable contents helps identify exposed secrets.
 6. Exported variables may affect multiple programs and sessions.
-7. PATH 
+7. PATH manipulation can allow execution of malicious binaries.
+8. Attackers may add hidden directories to PATH for persist
