@@ -33,3 +33,5 @@ I created a script that scans IP addresses to check if port 1433 ( Microsoft SQL
 - port 1433 → MSSQL default port
 ### Output
 ##### STEP 1 : create script
+![[Pasted image 20260330011600.png]]
+##### STEP 2 : script code
