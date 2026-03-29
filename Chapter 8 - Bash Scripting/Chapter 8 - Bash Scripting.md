@@ -16,3 +16,7 @@ I created a basic bash script that prints a greeting message when executed.
 ##### STEP 3 : make executable
 ![[Pasted image 20260330010936.png]]
 ##### STEP 4 : run script
+![[Pasted image 20260330011041.png]]
+### Key Observations
+Script executes commands automatically when run.
+### What I le
