@@ -49,7 +49,7 @@ I identified the process ID (PID) of the resource-heavy process and terminated i
 - `-9` → force stop process
 ### Output
 ##### STEP 1 : find PID using top
-
+![[Pasted image 20260329171959.png]]
 ##### STEP 2 : terminate process
 ##### STEP 3 : confirm process stopped
 ### Key Observations
