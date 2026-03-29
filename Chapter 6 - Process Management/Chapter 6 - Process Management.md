@@ -51,4 +51,4 @@ I identified the process ID (PID) of the resource-heavy process and terminated i
 ##### STEP 1 : find PID using top
 ##### STEP 2 : terminate process
 ##### STEP 3 : confirm process stopped
-### K
+### Key Observations
