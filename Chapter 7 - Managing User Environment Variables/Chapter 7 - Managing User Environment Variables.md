@@ -72,4 +72,10 @@ Display the value stored in MYNEWVARIABLE
 ### Approach
 I used echo command to display the stored value.
 ### Commands
-- `$VARIABLE_NAME`  retrieves stored value
+- `$VARIABLE_NAME` → retrieves stored value
+### Output
+##### STEP 1 : display variable value
+![[Pasted image 20260329201343.png]]
+### Key Observations
+Echo prints the stored variable value.
+### What 
