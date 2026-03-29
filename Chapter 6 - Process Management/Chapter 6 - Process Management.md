@@ -33,3 +33,5 @@ I used the `top` command to monitor real-time system resource usage and identifi
 ##### STEP 1 : open process monitor
 top
 ##### STEP 2 : identify highest resource processes
+
+#
