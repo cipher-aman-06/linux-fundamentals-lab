@@ -65,4 +65,7 @@ I used the renice command to change the priority level of a running process to 1
 - `renice` → modifies process priority
 - nice values range :
 	- -20 → highest priority
-	- 19 → lowest 
+	- 19 → lowest priority
+### Output
+##### STEP 1 : find PID
+##### STEP 2 : change process priority
