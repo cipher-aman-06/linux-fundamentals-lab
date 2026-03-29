@@ -141,3 +141,6 @@ I customized the PS1 variable to change terminal prompt text.
 -  PS1 → controls terminal prompt format
 ### Output
 ##### STEP 1 : change prompt text
+![[Pasted image 20260329211415.png]]
+### Key Observations
+Terminal prompt text chn
