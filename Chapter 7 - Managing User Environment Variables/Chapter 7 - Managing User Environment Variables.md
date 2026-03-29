@@ -13,4 +13,8 @@ I listed all environment variables and piped the output into the more command to
 ### Key Observations
 Environment variables store system configuration values such as :
 - USER
-- 
+- HOME
+- PATH
+- SHELL
+### What I learned
+Environment variables store important system configuration information.
