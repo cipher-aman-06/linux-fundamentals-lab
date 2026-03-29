@@ -19,3 +19,5 @@ Processes are displayed with :
 - CPU usage
 - memory usage
 - command name
+### What I learned
+Linux allows monitoring of all running 
