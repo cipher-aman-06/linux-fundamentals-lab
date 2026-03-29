@@ -106,3 +106,6 @@ Display the PATH variable
 I used echo to display directories stored in the PATH variable.
 ### Commands
 -  `PATH` → list of executable directories
+### Output
+##### STEP 1 : display PATH variable
+### Key 
