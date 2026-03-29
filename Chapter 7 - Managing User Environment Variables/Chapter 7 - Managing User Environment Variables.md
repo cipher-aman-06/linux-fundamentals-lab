@@ -52,3 +52,5 @@ Changing PS1 alters how the terminal prompt is displayed.
 PS1 variable customizes command line appearance.
 
 ---
+## Question 4
+Create a new variable named MYNEWVARIABLE and assign a value
