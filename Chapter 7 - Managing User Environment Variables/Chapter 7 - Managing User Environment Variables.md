@@ -36,4 +36,5 @@ Environment variables can be accessed using the `$` symbol.
 
 ---
 ## Question 3
-Modify the PS1 variable to change forward 
+Modify the PS1 variable to change forward slash to backslash
+### Approa
