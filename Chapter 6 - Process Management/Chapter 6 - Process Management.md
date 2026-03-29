@@ -43,3 +43,4 @@ Some processes consume more resource and may affect system performance.
 ## Question 3
 Terminate the process consuming the most resources
 ### Approach
+I identified the process ID (PID) of the resource-heavy process and terminated it using the kill command.
