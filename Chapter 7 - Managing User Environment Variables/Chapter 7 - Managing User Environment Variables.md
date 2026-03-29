@@ -33,3 +33,5 @@ I used the echo command to print the value stored in the HOSTNAME variable.
 HOSTNAME identifies the system name on the network.
 ### What I learned
 Environment variables can be accessed using the `$` symbol.
+
+---
