@@ -1,4 +1,4 @@
 
 ---
 ## Question 1
-S
+Display all environment variables using the more command
