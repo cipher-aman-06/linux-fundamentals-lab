@@ -118,3 +118,5 @@ PATH determines where the system looks for executable files.
 ---
 ## Question 8
 Add home directory to PATH variable
+### Approach
+I modified PATH variable to include my home directory.
