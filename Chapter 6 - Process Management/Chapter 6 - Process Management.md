@@ -33,6 +33,7 @@ I used the `top` command to monitor real-time system resource usage and identifi
 ##### STEP 1 : open process monitor
 ![[Pasted image 20260329171059.png]]
 ##### STEP 2 : identify highest resource processes
+
 ### Key Observations
 Processes are dynamically sorted based on CPU usage.
 ### What I learned
