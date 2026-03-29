@@ -137,3 +137,5 @@ PATH can be modified to allow execution of programs from custom directories.
 Modify PS1 variable to display custom prompt message
 ### Approach
 I customized the PS1 variable to change terminal prompt text.
+### Commands
+-  PS1 → 
