@@ -85,4 +85,5 @@ I created a simple bash script and scheduled it using the at command to execute 
 - `chmod` → make script executable
 - `at` → schedule task
 - `atq` → view scheduled jobs
-##
+### Output
+##### STEP 1 : create script file
