@@ -138,4 +138,6 @@ Modify PS1 variable to display custom prompt message
 ### Approach
 I customized the PS1 variable to change terminal prompt text.
 ### Commands
--  PS1 → 
+-  PS1 → controls terminal prompt format
+### Output
+##### STEP 1 : change prompt text
