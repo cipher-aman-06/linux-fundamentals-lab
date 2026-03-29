@@ -131,3 +131,7 @@ I modified PATH variable to include my home directory.
 New directory is appended to PATH variable.
 ### What I learned
 PATH can be modified to allow execution of programs from custom directories.
+
+---
+## Question 9
+Modify PS1 variable 
