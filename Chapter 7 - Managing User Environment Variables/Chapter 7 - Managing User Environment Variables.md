@@ -128,4 +128,6 @@ I modified PATH variable to include my home directory.
 ##### STEP 2 : verify PATH update
 ![[Pasted image 20260329210343.png]]
 ### Key Observations
-New directory is appended to p
+New directory is appended to PATH variable.
+### What I learned
+PATH can be modified to allow execution of programs from custom directories.
