@@ -53,7 +53,7 @@ I identified the process ID (PID) of the resource-heavy process and terminated i
 ##### STEP 2 : terminate process
 ![[Pasted image 20260329172727.png]]
 ##### STEP 3 : confirm process stopped
-
+![[Pasted image 20260329172910.png]]
 ### Key Observations
 Process disappears from the process list after termination.
 ### What I learned
