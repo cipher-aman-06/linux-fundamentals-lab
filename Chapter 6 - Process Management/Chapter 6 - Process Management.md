@@ -29,4 +29,7 @@ Identify the two processes consuming the most system resources
 I used the `top` command to monitor real-time system resource usage and identified the two processes using the highest CPU or memory.
 ### Commands
 - `top` → shows live system process activity
-- 
+### Output
+##### STEP 1 : open process monitor
+top
+##### STEP 2 : identify highest resource processes
