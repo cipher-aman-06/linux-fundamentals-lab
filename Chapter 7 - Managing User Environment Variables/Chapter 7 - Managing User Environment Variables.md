@@ -108,7 +108,7 @@ I used echo to display directories stored in the PATH variable.
 -  `PATH` → list of executable directories
 ### Output
 ##### STEP 1 : display PATH variable
-
+![[Pasted image 20260329204705.png]]
 ### Key Observations
 PATH contains directories separated by colon (:)
 `/usr/bin:/bon:/usr/sbin`
