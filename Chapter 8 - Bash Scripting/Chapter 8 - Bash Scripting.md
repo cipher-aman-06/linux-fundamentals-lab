@@ -26,4 +26,6 @@ Bash scripts automate repeated tasks.
 ## Question 2
 Create script to scan systems for MSSQL service on port 1433
 ### Approach
-I create
+I created a script that scans IP addresses to check if port 1433 ( Microsoft SQL Server is open. )
+### Commands
+- `for` 
