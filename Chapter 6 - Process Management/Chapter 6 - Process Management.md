@@ -2,4 +2,5 @@
 ---
 ## Question 1
 Display running processes and identify the first and last process in the list
-### App
+### Approach
+I used the `ps` command with the `aux` option to display all active processes running on the system and observed 
