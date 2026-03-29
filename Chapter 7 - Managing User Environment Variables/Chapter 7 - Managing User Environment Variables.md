@@ -24,3 +24,6 @@ Environment variables store important system configuration information.
 Display the HOSTNAME variable using echo
 ### Approach
 I used the echo command to print the value stored in the HOSTNAME variable.
+### Commands
+- `echo` → prints variable value
+- `$HOSTN`
