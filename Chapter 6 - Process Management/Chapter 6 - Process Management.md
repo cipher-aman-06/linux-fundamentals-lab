@@ -95,8 +95,9 @@ I created a simple bash script and scheduled it using the at command to execute 
 ##### STEP 1 : create script file
 ![[Pasted image 20260329192238.png]]
 ##### STEP 2 : make script executable
-
+![[Pasted image 20260329192418.png]]
 ##### STEP 3 : schedule script
+
 ##### STEP 4 : verify scheduled job
 ### Key Observations
 Scheduled tasks run automatically without manual execution
