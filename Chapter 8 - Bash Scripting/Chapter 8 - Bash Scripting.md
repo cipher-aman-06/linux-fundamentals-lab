@@ -13,4 +13,6 @@ I created a basic bash script that prints a greeting message when executed.
 ![[Pasted image 20260330010435.png]]
 ##### STEP 2 : add script code
 ![[Pasted image 20260330010844.png]]
-##### STEP 3 : make excutable
+##### STEP 3 : make executable
+![[Pasted image 20260330010936.png]]
+##### STEP 4 : run script
