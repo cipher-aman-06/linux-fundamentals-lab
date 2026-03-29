@@ -61,3 +61,8 @@ I created a custom environment variable and assigned my name as its value.
 ### Output
 ##### STEP 1 : create variable
 ![[Pasted image 20260329201330.png]]
+![[Pasted image 20260329201343.png]]
+### Key Observations
+Variables are created without spaces around the equals sign.
+### What I learned
+Custom variables can store user-defined valurs
