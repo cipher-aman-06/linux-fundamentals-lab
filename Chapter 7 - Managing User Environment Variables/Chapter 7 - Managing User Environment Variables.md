@@ -46,4 +46,6 @@ I modified the PS1 environment variable to change the shell prompt appearance.
 ### Key Observations
 Changing PS1 alters how the terminal prompt is displayed.
 ### What I learned
-PS1 variable 
+PS1 variable customizes command line appearance.
+
+---
