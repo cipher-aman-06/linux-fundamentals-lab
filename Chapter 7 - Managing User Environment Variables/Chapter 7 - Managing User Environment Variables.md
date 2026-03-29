@@ -30,7 +30,7 @@ I used the echo command to print the value stored in the HOSTNAME variable.
 - `$HOSTNAME` → stores system hostname
 ### Output
 ##### STEP 1 : display hostname variable
-
+![[Pasted image 20260329193639.png]]
 ### Key Observations
 HOSTNAME identifies the system name on the network.
 ### What I learned
@@ -45,6 +45,7 @@ I modified the PS1 environment variable to change the shell prompt appearance.
 - `PS1` → controls terminal prompt appearance.
 ### Output
 ##### STEP 1 : modify PS1 prompt
+
 ### Key Observations
 Changing PS1 alters how the terminal prompt is displayed.
 ### What I learned
