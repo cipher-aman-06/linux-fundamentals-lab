@@ -91,4 +91,8 @@ I created a simple bash script and scheduled it using the at command to execute 
 ##### STEP 3 : schedule script
 ##### STEP 4 : verify scheduled job
 ### Key Observations
-Scheduled tasks run automatically without man
+Scheduled tasks run automatically without manual execution
+### What I learned
+Task scheduling helps automate system operations and repetitive activities
+
+---
