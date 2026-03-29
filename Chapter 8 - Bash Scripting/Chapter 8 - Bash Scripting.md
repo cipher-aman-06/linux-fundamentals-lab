@@ -28,4 +28,7 @@ Create script to scan systems for MSSQL service on port 1433
 ### Approach
 I created a script that scans IP addresses to check if port 1433 ( Microsoft SQL Server is open. )
 ### Commands
-- `for` 
+- `for` → loop through IP addresses
+- `nc` → check open port
+- port 1433 → MSSQL default port
+### Output
