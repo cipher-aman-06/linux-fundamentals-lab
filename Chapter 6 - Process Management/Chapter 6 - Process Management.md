@@ -91,4 +91,4 @@ I created a simple bash script and scheduled it using the at command to execute 
 ##### STEP 3 : schedule script
 ##### STEP 4 : verify scheduled job
 ### Key Observations
-Schdule
+Scheduled tasks run automatically without man
