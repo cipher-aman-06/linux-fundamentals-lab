@@ -21,4 +21,4 @@ Environment variables store important system configuration information.
 
 ---
 ## Question 2
-Display the HOSTNAME variable usi
+Display the HOSTNAME variable using echo
