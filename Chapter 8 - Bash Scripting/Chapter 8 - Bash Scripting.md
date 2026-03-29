@@ -48,4 +48,5 @@ Port scanning can be automated using bash loops.
 ## Question 3
 Modify scanner to accept IP range and port from user input
 ### Approach
-I modifies the script so user enters s
+I modifies the script so user enters starting IP, ending IP, and port number. Script displays only open ports.
+### 
