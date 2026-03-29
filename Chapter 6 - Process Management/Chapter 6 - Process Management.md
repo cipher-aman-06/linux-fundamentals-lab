@@ -9,8 +9,9 @@ I used the `ps` command with the `aux` option to display all active processes ru
 - `aux` → displays all processes for all users with detailed information
 ### Output
 ##### STEP 1 : Display all running processes
-
+![[Pasted image 20260329164347.png]]
 ##### STEP 2 : Identify first and last process
+
 ### Key Observations
 Processes are displayed with :
 - PID → process ID
