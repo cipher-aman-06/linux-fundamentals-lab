@@ -100,3 +100,5 @@ Exported variables can be accessed by child processes.
 Export allows variables to persist across different shell sessions.
 
 ---
+## Question 7
+Display
