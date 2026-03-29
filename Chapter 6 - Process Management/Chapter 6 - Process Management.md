@@ -87,3 +87,4 @@ I created a simple bash script and scheduled it using the at command to execute 
 - `atq` → view scheduled jobs
 ### Output
 ##### STEP 1 : create script file
+##### STEP 2 : make script 
