@@ -85,4 +85,8 @@ I used dd command to create an exact binary copy of a storage device.
 ### Key Observations
 dd copies entire disk including deleted data.
 ### What I learned
-dd createds
+dd creates forensic-level disk images.
+
+---
+## Security Insights
+1. Attackers often bundle tools into arch
