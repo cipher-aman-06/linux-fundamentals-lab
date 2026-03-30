@@ -38,7 +38,7 @@ I combined the three script files into one tar archive file.
 ##### STEP 1 : create tarball
 ![[Pasted image 20260331052643.png]]
 ##### STEP 2 : verify file
-
+![[Pasted image 20260331052653.png]]
 ### Key Observations
 Tar combines multiple files into single archive.
 ### What I learned
@@ -54,6 +54,7 @@ I compressed the tar file using gzip and then restored it.
 - `gunzip` → decompress file
 ### Output
 ##### STEP 1 : compress archive
+
 ##### STEP 2 : check compressed file
 ##### STEP 3 : decompress file
 ### Key Observations
