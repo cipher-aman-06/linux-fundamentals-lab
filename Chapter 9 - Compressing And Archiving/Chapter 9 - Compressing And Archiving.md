@@ -36,7 +36,7 @@ I combined the three script files into one tar archive file.
 - `-f` → specify filename
 ### Output
 ##### STEP 1 : create tarball
-
+![[Pasted image 20260331052643.png]]
 ##### STEP 2 : verify file
 
 ### Key Observations
