@@ -34,3 +34,11 @@ I combined the three script files into one tar archive file.
 Tar combines multiple files into single archive.
 ### What I learned
 Tar simplifies file transfer and storage.
+
+---
+## Question 3
+Compress L4H archive using gzip and then decompress
+### Approach
+I compressed the tar file using gzip and then restored it.
+### Commands
+- `gzip` 
