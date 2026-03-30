@@ -89,4 +89,7 @@ dd creates forensic-level disk images.
 
 ---
 ## Security Insights
-1. Attackers often bundle tools into arch
+1. Attackers often bundle tools into archives for stealth transfer.
+2. Compressed files help hide malicious payloads.
+3. gzip archives may contain hidden scripts or malware.
+4. Strong compression helps evade detection system.
