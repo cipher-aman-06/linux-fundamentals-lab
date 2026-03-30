@@ -41,8 +41,8 @@ Compress L4H archive using gzip and then decompress
 ### Approach
 I compressed the tar file using gzip and then restored it.
 ### Commands
-- `gzip` compress file
-- `gunzip` decompress file
+- `gzip` → compress file
+- `gunzip` → decompress file
 ### Output
 ##### STEP 1 : compress archive
 ##### STEP 2 : check compressed file
@@ -53,3 +53,7 @@ Compression reduces file size.
 gzip helps reduce storage and speeds transfer.
 
 ---
+## Question 4
+Compress L4H archive using bzip2 and compress command
+### Approach
+I used two different 
