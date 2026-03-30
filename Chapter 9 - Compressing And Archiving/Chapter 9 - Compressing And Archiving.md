@@ -65,3 +65,7 @@ I used two different compression tools to compare results.
 ##### STEP 2 : decompress bzip2 file
 ##### STEP 3 : compress using compress tool
 ##### STEP 4 : decompress file
+### Key Observations
+Different tools produce different compression ratios.
+### What I learned
+Multiple compression methods exist for different use cases.
