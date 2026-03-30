@@ -15,3 +15,10 @@ I created three small bash scripts similar to previous chapter script and saved 
 ##### STEP 4 : make scripts executable
 ### Key Observations
 Multiple scripts can be created and prepared for combining
+### What I learned
+Scripts can be grouped for packing or transfer.
+
+---
+## Question 2
+Create tar archive named L4H from the three scripts
+### Approach
