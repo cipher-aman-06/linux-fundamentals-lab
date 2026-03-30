@@ -30,4 +30,5 @@ I combined the three script files into one tar archive file.
 ### Output
 ##### STEP 1 : create tarball
 ##### STEP 2 : verify file
-### Key Observatin
+### Key Observations
+Tar combines multiple files into single archive.
