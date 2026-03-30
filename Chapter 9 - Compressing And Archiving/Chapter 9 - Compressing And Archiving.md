@@ -54,9 +54,11 @@ I compressed the tar file using gzip and then restored it.
 - `gunzip` → decompress file
 ### Output
 ##### STEP 1 : compress archive
-
+![[Pasted image 20260331052846.png]]
 ##### STEP 2 : check compressed file
+![[Pasted image 20260331052902.png]]
 ##### STEP 3 : decompress file
+![[Pasted image 20260331052913.png]]
 ### Key Observations
 Compression reduces file size.
 ### What I learned
