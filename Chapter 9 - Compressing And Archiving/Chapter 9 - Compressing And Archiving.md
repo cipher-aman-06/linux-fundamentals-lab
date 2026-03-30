@@ -22,3 +22,7 @@ Scripts can be grouped for packing or transfer.
 ## Question 2
 Create tar archive named L4H from the three scripts
 ### Approach
+I combined the three script files into one tar archive file.
+### Commands
+- `tar` → combine files
+- `-c` → create arch
