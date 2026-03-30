@@ -74,4 +74,10 @@ Multiple compression methods exist for different use cases.
 ## Question 5
 Create bit-by-bit copy of flash drive using dd command
 ### Approach
-I used dd command to create an exact binary copy of a stora
+I used dd command to create an exact binary copy of a storage device.
+### Commands
+- `dd` → disk duplication tool
+- `if` → input file/device
+- `of` → output file
+### Output
+##### STEP 1 : identify drive
