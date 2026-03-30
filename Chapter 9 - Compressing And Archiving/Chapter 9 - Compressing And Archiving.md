@@ -10,6 +10,7 @@ I created three small bash scripts similar to previous chapter script and saved 
 - `chmod +x` → make executable
 ### Output
 ##### STEP 1 : create first script
+
 ##### STEP 2 : create second script
 ##### STEP 3 : create third script
 ##### STEP 4 : make scripts executable
@@ -92,4 +93,7 @@ dd creates forensic-level disk images.
 1. Attackers often bundle tools into archives for stealth transfer.
 2. Compressed files help hide malicious payloads.
 3. gzip archives may contain hidden scripts or malware.
-4. Strong compression helps evade detection system.
+4. Strong compression helps evade detection systems.
+5. dd can copy sensitive data including deleted files.
+
+---
