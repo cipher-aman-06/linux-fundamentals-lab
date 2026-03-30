@@ -46,4 +46,10 @@ I compressed the tar file using gzip and then restored it.
 ### Output
 ##### STEP 1 : compress archive
 ##### STEP 2 : check compressed file
-##### STEP 3 : 
+##### STEP 3 : decompress file
+### Key Observations
+Compression reduces file size.
+### What I learned
+gzip helps reduce storage and speeds transfer.
+
+---
