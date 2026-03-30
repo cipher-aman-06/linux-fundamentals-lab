@@ -25,4 +25,9 @@ Create tar archive named L4H from the three scripts
 I combined the three script files into one tar archive file.
 ### Commands
 - `tar` → combine files
-- `-c` → create arch
+- `-c` → create archive
+- `-f` → specify filename
+### Output
+##### STEP 1 : create tarball
+##### STEP 2 : verify file
+### Key Observatin
