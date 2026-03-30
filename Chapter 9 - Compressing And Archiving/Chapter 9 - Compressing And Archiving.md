@@ -10,4 +10,8 @@ I created three small bash scripts similar to previous chapter script and saved 
 - `chmod +x` → make executable
 ### Output
 ##### STEP 1 : create first script
-##### STEP 2 : create second scri
+##### STEP 2 : create second script
+##### STEP 3 : create third script
+##### STEP 4 : make scripts executable
+### Key Observations
+Multiple scripts can be created and prepared for combining
