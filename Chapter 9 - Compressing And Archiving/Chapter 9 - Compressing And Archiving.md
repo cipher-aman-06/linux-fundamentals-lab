@@ -10,15 +10,16 @@ I created three small bash scripts similar to previous chapter script and saved 
 - `chmod +x` → make executable
 ### Output
 ##### STEP 1 : create first script
-
+![[Pasted image 20260331052236.png]]
 ![[Pasted image 20260331052004.png]]
 ##### STEP 2 : create second script
-
+![[Pasted image 20260331052246.png]]
 ![[Pasted image 20260331052036.png]]
 ##### STEP 3 : create third script
-
+![[Pasted image 20260331052255.png]]
 ![[Pasted image 20260331052124.png]]
 ##### STEP 4 : make scripts executable
+
 ### Key Observations
 Multiple scripts can be created and prepared for combining
 ### What I learned
