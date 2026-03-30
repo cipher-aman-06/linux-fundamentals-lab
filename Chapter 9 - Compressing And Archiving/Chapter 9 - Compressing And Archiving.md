@@ -13,7 +13,11 @@ I created three small bash scripts similar to previous chapter script and saved 
 
 ![[Pasted image 20260331052004.png]]
 ##### STEP 2 : create second script
+
+![[Pasted image 20260331052036.png]]
 ##### STEP 3 : create third script
+
+
 ##### STEP 4 : make scripts executable
 ### Key Observations
 Multiple scripts can be created and prepared for combining
