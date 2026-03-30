@@ -69,3 +69,9 @@ I used two different compression tools to compare results.
 Different tools produce different compression ratios.
 ### What I learned
 Multiple compression methods exist for different use cases.
+
+---
+## Question 5
+Create bit-by-bit copy of flash drive using dd command
+### Approach
+I used dd command to create an exact binary copy of a stora
