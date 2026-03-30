@@ -61,4 +61,7 @@ I used two different compression tools to compare results.
 - `bzip2` → stronger compression
 - `compress` → traditional compression
 ### Output
-##### STEP 1 : comrpess using
+##### STEP 1 : compress using bzip2
+##### STEP 2 : decompress bzip2 file
+##### STEP 3 : compress using compress tool
+##### STEP 4 : decompress file
