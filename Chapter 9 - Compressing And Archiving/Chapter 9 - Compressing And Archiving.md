@@ -41,4 +41,9 @@ Compress L4H archive using gzip and then decompress
 ### Approach
 I compressed the tar file using gzip and then restored it.
 ### Commands
-- `gzip` 
+- `gzip` compress file
+- `gunzip` decompress file
+### Output
+##### STEP 1 : compress archive
+##### STEP 2 : check compressed file
+##### STEP 3 : 
