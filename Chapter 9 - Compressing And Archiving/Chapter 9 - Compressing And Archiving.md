@@ -32,3 +32,5 @@ I combined the three script files into one tar archive file.
 ##### STEP 2 : verify file
 ### Key Observations
 Tar combines multiple files into single archive.
+### What I learned
+Tar simplifies file transfer and storage.
