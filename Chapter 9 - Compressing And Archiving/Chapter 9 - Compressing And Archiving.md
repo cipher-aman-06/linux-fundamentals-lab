@@ -19,7 +19,7 @@ I created three small bash scripts similar to previous chapter script and saved 
 ![[Pasted image 20260331052255.png]]
 ![[Pasted image 20260331052124.png]]
 ##### STEP 4 : make scripts executable
-
+![[Pasted image 20260331052408.png]]
 ### Key Observations
 Multiple scripts can be created and prepared for combining
 ### What I learned
@@ -36,7 +36,9 @@ I combined the three script files into one tar archive file.
 - `-f` → specify filename
 ### Output
 ##### STEP 1 : create tarball
+
 ##### STEP 2 : verify file
+
 ### Key Observations
 Tar combines multiple files into single archive.
 ### What I learned
