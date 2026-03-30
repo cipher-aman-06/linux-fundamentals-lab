@@ -81,3 +81,8 @@ I used dd command to create an exact binary copy of a storage device.
 - `of` → output file
 ### Output
 ##### STEP 1 : identify drive
+##### STEP 2 : create disk image
+### Key Observations
+dd copies entire disk including deleted data.
+### What I learned
+dd createds
