@@ -56,4 +56,9 @@ gzip helps reduce storage and speeds transfer.
 ## Question 4
 Compress L4H archive using bzip2 and compress command
 ### Approach
-I used two different 
+I used two different compression tools to compare results.
+### Commands
+- `bzip2` → stronger compression
+- `compress` → traditional compression
+### Output
+##### STEP 1 : comrpess using
