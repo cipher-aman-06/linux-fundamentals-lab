@@ -74,8 +74,11 @@ I used two different compression tools to compare results.
 - `compress` → traditional compression
 ### Output
 ##### STEP 1 : compress using bzip2
-
+![[Pasted image 20260331053107.png]]
+![[Pasted image 20260331053119.png]]
 ##### STEP 2 : decompress bzip2 file
+![[Pasted image 20260331053129.png]]
+![[Pasted image 20260331053142.png]]
 ##### STEP 3 : compress using compress tool
 ##### STEP 4 : decompress file
 ### Key Observations
