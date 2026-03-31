@@ -49,4 +49,4 @@ Use filesystem check utility on the device after unmounting it.
 fsck should not run on mounted partitions.
 It can detect corrupted filesystem structures.
 ### What I learned
-Filesystem errors can be fixed 
+Filesystem errors can be fixed using built-in Linux tools.
