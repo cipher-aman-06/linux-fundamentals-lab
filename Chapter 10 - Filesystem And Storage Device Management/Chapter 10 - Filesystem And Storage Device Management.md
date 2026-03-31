@@ -33,3 +33,6 @@ Primary disk usually mounted on root(/).
 -h flag shows size in GB/MB.
 ### What I learned
 Disk usage monitoring helps prevent storage exhaustion.
+
+---
+## Question 3
