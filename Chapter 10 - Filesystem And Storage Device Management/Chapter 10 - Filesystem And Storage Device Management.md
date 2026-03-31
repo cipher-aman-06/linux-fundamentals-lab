@@ -50,3 +50,7 @@ fsck should not run on mounted partitions.
 It can detect corrupted filesystem structures.
 ### What I learned
 Filesystem errors can be fixed using built-in Linux tools.
+
+---
+## Question 4
+Clone full data from one USB device to another
