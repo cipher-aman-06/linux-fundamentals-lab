@@ -24,4 +24,8 @@ Find how much storage space is available on the main disk.
 ### Approach
 Use a command that displays disk usage and free space in readable format.
 ### Commands
-- `df` 
+- `df` → shows disk free space
+- `df -h` → human readable format
+### Output
+##### STEP 1 : check disk free space
+### Key Obs
