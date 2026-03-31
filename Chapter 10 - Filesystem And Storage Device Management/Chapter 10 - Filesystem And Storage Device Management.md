@@ -13,4 +13,9 @@ First identify the USB device path, mount it to a directory, then unmount it aft
 ##### STEP 2 : mount usb drive
 ##### STEP 3 : unmount usb drive
 ### Key Observations
-Linux treats 
+Linux treats USB drives as block devices like /dev/sbd.
+Unmounting prevents data corruption.
+### What I learned
+Devices must be mounted before accessing their files.
+
+---
