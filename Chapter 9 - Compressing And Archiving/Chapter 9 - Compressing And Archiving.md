@@ -103,7 +103,7 @@ I used dd command to create an exact binary copy of a storage device.
 ##### STEP 1 : identify drive
 ![[Pasted image 20260331053707.png]]
 ##### STEP 2 : create disk image
-
+![[Pasted image 20260331055714.png]]
 ### Key Observations
 dd copies entire disk including deleted data.
 ### What I learned
