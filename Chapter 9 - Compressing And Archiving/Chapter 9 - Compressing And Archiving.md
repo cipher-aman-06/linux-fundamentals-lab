@@ -80,8 +80,11 @@ I used two different compression tools to compare results.
 ![[Pasted image 20260331053129.png]]
 ![[Pasted image 20260331053142.png]]
 ##### STEP 3 : compress using compress tool
-
+![[Pasted image 20260331053325.png]]
+![[Pasted image 20260331053335.png]]
 ##### STEP 4 : decompress file
+![[Pasted image 20260331053349.png]]
+
 ### Key Observations
 Different tools produce different compression ratios.
 ### What I learned
