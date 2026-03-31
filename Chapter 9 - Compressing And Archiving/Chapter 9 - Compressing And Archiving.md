@@ -84,7 +84,7 @@ I used two different compression tools to compare results.
 ![[Pasted image 20260331053335.png]]
 ##### STEP 4 : decompress file
 ![[Pasted image 20260331053349.png]]
-
+![[Pasted image 20260331053403.png]]
 ### Key Observations
 Different tools produce different compression ratios.
 ### What I learned
@@ -101,6 +101,7 @@ I used dd command to create an exact binary copy of a storage device.
 - `of` → output file
 ### Output
 ##### STEP 1 : identify drive
+
 ##### STEP 2 : create disk image
 ### Key Observations
 dd copies entire disk including deleted data.
