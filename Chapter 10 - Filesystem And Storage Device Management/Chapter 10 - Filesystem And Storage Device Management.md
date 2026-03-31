@@ -19,3 +19,9 @@ Unmounting prevents data corruption.
 Devices must be mounted before accessing their files.
 
 ---
+## Question 2
+Find how much storage space is available on the main disk.
+### Approach
+Use a command that displays disk usage and free space in readable format.
+### Commands
+- `df` 
