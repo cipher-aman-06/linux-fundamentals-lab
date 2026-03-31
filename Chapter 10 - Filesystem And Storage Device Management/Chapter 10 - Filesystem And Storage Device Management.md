@@ -39,3 +39,5 @@ Disk usage monitoring helps prevent storage exhaustion.
 Scan the USB drive for file system issues and repair them.
 ### Approach
 Use filesystem check utility on the device after unmounting it.
+### Commands
+- `fsck` → checks and reapirs
