@@ -32,4 +32,4 @@ Use a command that displays disk usage and free space in readable format.
 Primary disk usually mounted on root(/).
 -h flag shows size in GB/MB.
 ### What I learned
-Disk usage monitoring helps prevent 
+Disk usage monitoring helps prevent storage exhaustion.
