@@ -48,8 +48,9 @@ Use low-level copy command to duplicate raw disk blocks.
 - `lsblk` → identify device names
 #### Output
 ##### STEP 1 : identify devices
-
+![[Pasted image 20260401075308.png]]
 ##### STEP 2 : copy disk content
+
 ### Key Observations
 dd copies raw blocks, not files.
 Deleted data may still exist in disk sectors.
