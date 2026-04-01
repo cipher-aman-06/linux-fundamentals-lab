@@ -64,4 +64,9 @@ Use low-level copy command to duplicate raw disk blocks.
 ##### STEP 2 : copy disk content
 ### Key Observations
 dd copies raw blocks, not files.
-Deleted data may still exist in 
+Deleted data may still exist in disk sectors.
+### What I learned
+Bit-level cloning is useful in digital forensics.
+
+---
+## Question 
