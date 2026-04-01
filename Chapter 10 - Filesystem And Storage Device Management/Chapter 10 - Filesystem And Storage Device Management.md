@@ -48,7 +48,7 @@ Use filesystem check utility on the device after unmounting it.
 - `umount` → required before running fsck
 ### Output
 ##### STEP 1 : unmount device
-sudo 
+
 ##### STEP 2 : scan for errors
 ### Key Observations
 fsck should not run on mounted partitions.
