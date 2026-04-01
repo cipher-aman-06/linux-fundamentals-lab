@@ -81,4 +81,10 @@ Use a command that lists block devices and partitions.
 ##### STEP 2 : view filesystem details
 ### Key Observations
 Block devices include disks, USB, partitions.
-Shows mount point and filesystem t
+Shows mount point and filesystem type.
+### What I learned
+Understanding storage layout helps in system administration.
+
+---
+### Security Insights
+1. Improper 
