@@ -88,4 +88,7 @@ Understanding storage layout helps in system administration.
 ---
 ### Security Insights
 1. Improper mounting/unmounting can expose data corruption risks.
-2. Monitoring disk usage prevents denial-of-service via storage exha
+2. Monitoring disk usage prevents denial-of-service via storage exhaustion.
+3. Filesystem corruption may indicate tampering of malware activity.
+4. Raw disk cloning allows forensic recovery of deleted evidence.
+5. Block devi
