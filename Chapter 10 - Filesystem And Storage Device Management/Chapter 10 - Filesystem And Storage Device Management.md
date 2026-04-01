@@ -38,23 +38,7 @@ Primary disk usually mounted on root(/).
 ### What I learned
 Disk usage monitoring helps prevent storage exhaustion.
 
----
-## Question 3
-Scan the USB drive for file system issues and repair them.
-### Approach
-Use filesystem check utility on the device after unmounting it.
-### Commands
-- `fsck` → checks and repairs filesystem errors
-- `umount` → required before running fsck
-### Output
-##### STEP 1 : unmount device
-
-##### STEP 2 : scan for errors
-### Key Observations
-fsck should not run on mounted partitions.
-It can detect corrupted filesystem structures.
-### What I learned
-Filesystem errors can be fixed using built-in Linux tools.
+-
 
 ---
 ## Question 4
