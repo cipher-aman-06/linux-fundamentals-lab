@@ -38,10 +38,8 @@ Primary disk usually mounted on root(/).
 ### What I learned
 Disk usage monitoring helps prevent storage exhaustion.
 
--
-
 ---
-## Question 4
+## Question 3
 Clone full data from one USB device to another including hidden or deleted content.
 ### Approach
 Use low-level copy command to duplicate raw disk blocks.
@@ -50,6 +48,7 @@ Use low-level copy command to duplicate raw disk blocks.
 - `lsblk` → identify device names
 #### Output
 ##### STEP 1 : identify devices
+
 ##### STEP 2 : copy disk content
 ### Key Observations
 dd copies raw blocks, not files.
@@ -58,7 +57,7 @@ Deleted data may still exist in disk sectors.
 Bit-level cloning is useful in digital forensics.
 
 ---
-## Question 5
+## Question 4
 Display structure and details of storage devices connected to the system.
 ### Approach
 Use a command that lists block devices and partitions.
@@ -78,8 +77,7 @@ Understanding storage layout helps in system administration.
 ### Security Insights
 1. Improper mounting/unmounting can expose data corruption risks.
 2. Monitoring disk usage prevents denial-of-service via storage exhaustion.
-3. Filesystem corruption may indicate tampering of malware activity.
-4. Raw disk cloning allows forensic recovery of deleted evidence.
-5. Block device enumeration reveals system storage attack surface.
+3. Raw disk cloning allows forensic recovery of deleted evidence.
+4. Block device enumeration reveals system storage attack surface.
 
 ---
