@@ -31,6 +31,7 @@ Use a command that displays disk usage and free space in readable format.
 - `df -h` → human readable format
 ### Output
 ##### STEP 1 : check disk free space
+
 ### Key Observations
 Primary disk usually mounted on root(/).
 -h flag shows size in GB/MB.
