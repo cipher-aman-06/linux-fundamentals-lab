@@ -75,4 +75,7 @@ Display structure and details of storage devices connected to the system.
 Use a command that lists block devices and partitions.
 ### Commands
 - `lsblk` → lists block devices
-- `lsblk `
+- `lsblk -f` → shows filesystem type
+### Output
+##### STEP 1 : view block devices
+##### S
