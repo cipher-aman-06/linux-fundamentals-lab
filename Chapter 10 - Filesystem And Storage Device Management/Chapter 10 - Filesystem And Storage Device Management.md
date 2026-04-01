@@ -87,4 +87,5 @@ Understanding storage layout helps in system administration.
 
 ---
 ### Security Insights
-1. Improper 
+1. Improper mounting/unmounting can expose data corruption risks.
+2. Monitoring disk usage prevents denial-of-service via storage exha
