@@ -74,3 +74,5 @@ Display structure and details of storage devices connected to the system.
 ### Approach
 Use a command that lists block devices and partitions.
 ### Commands
+- `lsblk` → lists block devices
+- `lsblk `
