@@ -71,3 +71,6 @@ Bit-level cloning is useful in digital forensics.
 ---
 ## Question 5
 Display structure and details of storage devices connected to the system.
+### Approach
+Use a command that lists block devices and partitions.
+### Commands
