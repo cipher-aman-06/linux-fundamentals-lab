@@ -60,3 +60,8 @@ Use low-level copy command to duplicate raw disk blocks.
 - `dd` → copies raw data bit-by-bit
 - `lsblk` → identify device names
 #### Output
+##### STEP 1 : identify devices
+##### STEP 2 : copy disk content
+### Key Observations
+dd copies raw blocks, not files.
+Deleted data may still exist in 
