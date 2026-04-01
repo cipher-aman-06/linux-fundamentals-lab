@@ -69,4 +69,5 @@ Deleted data may still exist in disk sectors.
 Bit-level cloning is useful in digital forensics.
 
 ---
-## Question 
+## Question 5
+Display structure and details of storage devices connected to the system.
