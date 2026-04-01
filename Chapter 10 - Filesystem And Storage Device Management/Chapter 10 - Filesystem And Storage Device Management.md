@@ -10,8 +10,9 @@ First identify the USB device path, mount it to a directory, then unmount it aft
 - `unmount` → safely detach device
 ### Output
 ##### STEP 1 : identify usb device
-
+![[Pasted image 20260401072343.png]]
 ##### STEP 2 : mount usb drive
+
 ##### STEP 3 : unmount usb drive
 ### Key Observations
 Linux treats USB drives as block devices like /dev/sbd.
