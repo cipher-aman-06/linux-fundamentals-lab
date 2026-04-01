@@ -56,3 +56,7 @@ Filesystem errors can be fixed using built-in Linux tools.
 Clone full data from one USB device to another including hidden or deleted content.
 ### Approach
 Use low-level copy command to duplicate raw disk blocks.
+### Commands
+- `dd` → copies raw data bit-by-bit
+- `lsblk` → identify device names
+#### Output
