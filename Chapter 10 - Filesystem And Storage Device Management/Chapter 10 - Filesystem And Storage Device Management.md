@@ -10,6 +10,7 @@ First identify the USB device path, mount it to a directory, then unmount it aft
 - `unmount` → safely detach device
 ### Output
 ##### STEP 1 : identify usb device
+
 ##### STEP 2 : mount usb drive
 ##### STEP 3 : unmount usb drive
 ### Key Observations
