@@ -12,8 +12,9 @@ First identify the USB device path, mount it to a directory, then unmount it aft
 ##### STEP 1 : identify usb device
 ![[Pasted image 20260401072343.png]]
 ##### STEP 2 : mount usb drive
-
+![[Pasted image 20260401072720.png]]
 ##### STEP 3 : unmount usb drive
+![[Pasted image 20260401072759.png]]
 ### Key Observations
 Linux treats USB drives as block devices like /dev/sbd.
 Unmounting prevents data corruption.
