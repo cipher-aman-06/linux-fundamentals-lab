@@ -13,3 +13,8 @@ Use service manager to start Apache and verify it is running.
 ##### STEP 2 : verify service status
 ### Key Observations
 Apache runs on port 80 by default.
+Service must be active to host webpages.
+### What I learned
+Web servers are controlled using system services.
+
+---
