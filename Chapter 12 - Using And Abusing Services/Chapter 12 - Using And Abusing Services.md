@@ -42,4 +42,8 @@ Enable SSH service and remotely connect to kali machine from another device in s
 ### Approach
 Start SSH server then connect using IP address from another system.
 ### Commands
-- `systemctl` → manage services 
+- `systemctl` → manage services
+- `ssh` → remote login
+- `ip a` → find IP address
+### Output
+##### STEP 1 : start ssh service
