@@ -34,4 +34,7 @@ Edit index.html file in Apache root directory and add custom text.
 Apache serves files from /var/www/html directory.
 index.html is default homepage file.
 ### What I learned
-Website content can be controlled by edit
+Website content can be controlled by editing HTML files.
+
+---
+## Question 3
