@@ -35,3 +35,6 @@ Rotation frequency affects forensic data availability.
 Log retention policies control how long system evidence exists.
 
 ---
+## Question 3
+Turn off logging service and observe entries generated in syslog file.
+### 
