@@ -23,4 +23,8 @@ Modify log configuration so logs are rotated every 7 days.
 Open rsyslog configuration file and change rotation policy to weekly.
 ### Commands
 - `nano` → terminal text editor
-- ``
+- `vim` → advanced editor
+- `cat` → view file contents
+### Output
+##### STEP 1 : open configuration file
+##### STEP 2 : set weekly rotation
