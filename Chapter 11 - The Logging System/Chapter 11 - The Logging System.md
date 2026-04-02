@@ -43,4 +43,9 @@ Stop logging daemon and monitor syslog behavior.
 - `systemctl` → manage system services
 - `cat` → read file contents
 - `tail` → monitor log updates
-###
+### Output
+##### STEP 1 : stop logging service
+##### STEP 2 : check syslog activity
+##### STEP 3 : monitor log changes
+### Key Observations
+Stopping rsyslog 
