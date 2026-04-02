@@ -50,7 +50,7 @@ Use low-level copy command to duplicate raw disk blocks.
 ##### STEP 1 : identify devices
 ![[Pasted image 20260401075308.png]]
 ##### STEP 2 : copy disk content
-
+![[Pasted image 20260402222006.png]]
 ### Key Observations
 dd copies raw blocks, not files.
 Deleted data may still exist in disk sectors.
@@ -67,6 +67,7 @@ Use a command that lists block devices and partitions.
 - `lsblk -f` → shows filesystem type
 ### Output
 ##### STEP 1 : view block devices
+
 ##### STEP 2 : view filesystem details
 ### Key Observations
 Block devices include disks, USB, partitions.
