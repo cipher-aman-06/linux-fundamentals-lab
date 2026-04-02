@@ -52,8 +52,9 @@ Stop logging daemon and monitor syslog behavior.
 ##### STEP 1 : stop logging service
 ![[Pasted image 20260402232022.png]]
 ##### STEP 2 : check syslog activity
-
+![[Pasted image 20260402232113.png]]
 ##### STEP 3 : monitor log changes
+![[Pasted image 20260402232139.png]]
 ### Key Observations
 Stopping rsyslog reduces logging events.
 System may record service stop event before logging halts.
