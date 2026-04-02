@@ -38,4 +38,8 @@ Website content can be controlled by editing HTML files.
 
 ---
 ## Question 3
-Enable SSH service and remotely connect to kali machine from another device in same network
+Enable SSH service and remotely connect to kali machine from another device in same network.
+### Approach
+Start SSH server then connect using IP address from another system.
+### Commands
+- `systemctl` → manage services 
