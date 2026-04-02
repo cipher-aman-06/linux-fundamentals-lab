@@ -74,4 +74,6 @@ Secure deletion prevents forensic recovery of sensitive logs.
 ---
 ### Security Insights
 1. Location log files helps attackers identify evidence storage paths.
-2. 
+2. Log rotation settings influence how long activity traces remain.
+3. Disabling logging reduces detection visibility of malicious actions.
+4. Secure deletion 
