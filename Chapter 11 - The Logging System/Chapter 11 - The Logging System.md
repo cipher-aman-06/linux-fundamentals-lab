@@ -19,3 +19,5 @@ Fast file searching helps identify log storage locations quickly.
 ---
 ## Question 2
 Modify log configuration so logs are rotated every 7 days.
+### Approach
+Open rsyslog configuration file and change rotation policy to weekly
