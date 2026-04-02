@@ -13,4 +13,9 @@ Use file indexing search tool to quickly locate rsyslog-related files.
 ### Key Observations
 locate searches from indexed database, not live scan.
 rsyslog files usually exist in /etc and /var/log directories.
-### What I
+### What I learned
+Fast file searching helps identify log storage locations quickly.
+
+---
+## Question 2
+Modify log configuration so logs are rotated every 7 days.
