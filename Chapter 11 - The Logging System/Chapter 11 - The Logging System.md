@@ -69,3 +69,9 @@ Use secure deletion tool that overwrites data before removing files.
 shred overwrites file multiple times.
 Recovery becomes extremely difficult after shredding.
 ### What I learned
+Secure deletion prevents forensic recovery of sensitive logs.
+
+---
+### Security Insights
+1. Location log files helps attackers identify evidence storage paths.
+2. 
