@@ -29,6 +29,7 @@ Open rsyslog configuration file and change rotation policy to weekly.
 - `cat` → view file contents
 ### Output
 ##### STEP 1 : open configuration file
+![[Pasted image 20260402230632.png]]
 ##### STEP 2 : set weekly rotation
 ### Key Observations
 Log rotation prevents log files from growing too large.
