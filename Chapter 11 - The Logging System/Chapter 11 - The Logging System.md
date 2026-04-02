@@ -29,6 +29,7 @@ Open rsyslog configuration file and change rotation policy to weekly.
 - `cat` → view file contents
 ### Output
 ##### STEP 1 : open configuration file
+![[Pasted image 20260402230834.png]]
 ![[Pasted image 20260402230632.png]]
 ##### STEP 2 : set weekly rotation
 ![[Pasted image 20260402230723.png]]
@@ -49,6 +50,7 @@ Stop logging daemon and monitor syslog behavior.
 - `tail` → monitor log updates
 ### Output
 ##### STEP 1 : stop logging service
+
 ##### STEP 2 : check syslog activity
 ##### STEP 3 : monitor log changes
 ### Key Observations
