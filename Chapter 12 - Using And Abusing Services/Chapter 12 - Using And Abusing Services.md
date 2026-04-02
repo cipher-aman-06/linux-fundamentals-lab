@@ -38,3 +38,4 @@ Website content can be controlled by editing HTML files.
 
 ---
 ## Question 3
+Enable SSH service and remotely connect to kali machine from another device in same network
