@@ -31,3 +31,5 @@ Open rsyslog configuration file and change rotation policy to weekly.
 ### Key Observations
 Log rotation prevents log files from growing too large.
 Rotation frequency affects forensic data availability.
+### What I learned
+Log r
