@@ -21,4 +21,9 @@ Web servers are controlled using system services.
 ## Question 2
 Modify the default webpage file to display a message about entering hacking field.
 ### Approach
-Edit in
+Edit index.html file in Apache root directory and add custom text.
+### Commands
+- `nano` → edit file
+- `echo` → insert text
+- `cat` → display file
+### 
