@@ -67,8 +67,9 @@ Use a command that lists block devices and partitions.
 - `lsblk -f` → shows filesystem type
 ### Output
 ##### STEP 1 : view block devices
-
+![[Pasted image 20260402222054.png]]
 ##### STEP 2 : view filesystem details
+![[Pasted image 20260402222111.png]]
 ### Key Observations
 Block devices include disks, USB, partitions.
 Shows mount point and filesystem type.
