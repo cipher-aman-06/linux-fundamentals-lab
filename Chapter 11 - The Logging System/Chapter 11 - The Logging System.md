@@ -52,3 +52,6 @@ Stopping rsyslog reduces logging events.
 System may record service stop event before logging halts.
 ### What I learned
 Disabling logs can reduce traces of system activity.
+
+---
+## Question 4
