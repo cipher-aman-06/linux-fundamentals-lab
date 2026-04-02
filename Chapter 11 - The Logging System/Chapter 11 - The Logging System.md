@@ -41,4 +41,6 @@ Turn off logging service and observe entries generated in syslog file.
 Stop logging daemon and monitor syslog behavior.
 ### Commands
 - `systemctl` → manage system services
-- ``
+- `cat` → read file contents
+- `tail` → monitor log updates
+###
