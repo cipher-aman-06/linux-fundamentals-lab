@@ -6,4 +6,7 @@ Search the system to identify every file related to rsyslog.
 Use file indexing search tool to quickly locate rsyslog-related files.
 ### Commands
 - locate → fast file search using database
-- updatedb
+- updatedb → update locate database
+### Output
+##### STEP 1 : update file database
+##### STEP 2 : find rsyslog files
