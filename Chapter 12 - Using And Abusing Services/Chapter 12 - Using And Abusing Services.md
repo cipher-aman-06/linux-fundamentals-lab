@@ -47,3 +47,8 @@ Start SSH server then connect using IP address from another system.
 - `ip a` → find IP address
 ### Output
 ##### STEP 1 : start ssh service
+##### STEP 2 : find system IP
+##### STEP 3 : connect remotely
+### Key Observations
+SSH uses port 22 by default.
+Remote login requires correct username and IP.
