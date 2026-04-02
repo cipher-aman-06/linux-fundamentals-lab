@@ -72,7 +72,9 @@ Use secure deletion tool that overwrites data before removing files.
 - `Is` → verify deletion
 ### Output
 ##### STEP 1 : locate kern log files
+![[Pasted image 20260402232529.png]]
 ##### STEP 2 : securely delete logs
+
 ### Key Observations
 shred overwrites file multiple times.
 Recovery becomes extremely difficult after shredding.
