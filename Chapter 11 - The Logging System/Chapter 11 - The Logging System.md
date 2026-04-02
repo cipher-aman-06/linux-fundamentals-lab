@@ -67,3 +67,5 @@ Use secure deletion tool that overwrites data before removing files.
 ##### STEP 2 : securely delete logs
 ### Key Observations
 shred overwrites file multiple times.
+Recovery becomes extremely difficult after shredding.
+### What I learned
