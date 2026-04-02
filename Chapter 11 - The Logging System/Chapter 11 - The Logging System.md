@@ -48,4 +48,7 @@ Stop logging daemon and monitor syslog behavior.
 ##### STEP 2 : check syslog activity
 ##### STEP 3 : monitor log changes
 ### Key Observations
-Stopping rsyslog 
+Stopping rsyslog reduces logging events.
+System may record service stop event before logging halts.
+### What I learned
+Disabling logs can reduce 
