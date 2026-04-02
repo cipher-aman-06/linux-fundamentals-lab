@@ -63,3 +63,7 @@ Use secure deletion tool that overwrites data before removing files.
 - `rm` → remove files
 - `Is` → verify deletion
 ### Output
+##### STEP 1 : locate kern log files
+##### STEP 2 : securely delete logs
+### Key Observations
+shred overwrites file multiple times.
