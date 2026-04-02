@@ -37,4 +37,8 @@ Log retention policies control how long system evidence exists.
 ---
 ## Question 3
 Turn off logging service and observe entries generated in syslog file.
-### 
+### Approach
+Stop logging daemon and monitor syslog behavior.
+### Commands
+- `systemctl` → manage system services
+- ``
