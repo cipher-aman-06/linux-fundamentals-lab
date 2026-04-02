@@ -59,4 +59,7 @@ Securely overwrite and remove kernel log files permanently.
 ### Approach
 Use secure deletion tool that overwrites data before removing files.
 ### Commands
-- ``
+- `shred` → overwrite file data
+- `rm` → remove files
+- `Is` → verify deletion
+### Output
