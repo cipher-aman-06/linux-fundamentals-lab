@@ -55,3 +55,8 @@ Disabling logs can reduce traces of system activity.
 
 ---
 ## Question 4
+Securely overwrite and remove kernel log files permanently.
+### Approach
+Use secure deletion tool that overwrites data before removing files.
+### Commands
+- ``
