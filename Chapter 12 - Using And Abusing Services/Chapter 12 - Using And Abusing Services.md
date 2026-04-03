@@ -10,7 +10,9 @@ Use service manager to start Apache and verify it is running.
 - `status` → verify service state
 ### Output
 ##### STEP 1 : start apache service
+![[Pasted image 20260403054721.png]]
 ##### STEP 2 : verify service status
+![[Pasted image 20260403054735.png]]
 ### Key Observations
 Apache runs on port 80 by default.
 Service must be active to host webpages.
