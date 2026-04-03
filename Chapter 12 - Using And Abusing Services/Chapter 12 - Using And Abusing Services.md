@@ -79,4 +79,6 @@ Database credentials must be properly secured.
 ## Question 5
 Activate PostgreSQL service and configure it for Metasploit usage.
 ### Approach
-Start Po
+Start PostgreSQL database and initialize it for penetration testing tools.
+### Commands
+→`systemctl` → manage service
