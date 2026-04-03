@@ -75,4 +75,6 @@ Create ProtonMail account and send encrypted email message.
 Register secure email account and send message using encrypted platform.
 ### Commands
 - `firefox` →open website
-- `https`
+- `https` → secure wen communication
+### Output
+##### STEP 1: open protonmail website
