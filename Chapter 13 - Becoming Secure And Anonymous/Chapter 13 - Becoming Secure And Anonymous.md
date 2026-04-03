@@ -13,4 +13,8 @@ Use network diagnostic tool to view packet route and identify hop count.
 Each hop represents a router between source and destination.
 Higher hops may indicate longer routing path.
 ### What I learned
-Network paths reev
+Network paths reveal infrastructure between user and website.
+
+---
+## Question 2
+Install Tor browser and compare browsing speed with normal
