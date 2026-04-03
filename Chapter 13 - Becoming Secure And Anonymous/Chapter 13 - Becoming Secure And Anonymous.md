@@ -36,4 +36,8 @@ Anonymity networks trade speed for privacy.
 ## Question 3
 Configure proxychains with Firefox and browse a website through proxy routing.
 ### Approach
-Use proxychains tool to rout
+Use proxychains tool to route browser traffic through chained proxies.
+### Commands
+- `proxychains` → route traffic through proxy
+- `firefox` → launch browser
+- `nano` → 
