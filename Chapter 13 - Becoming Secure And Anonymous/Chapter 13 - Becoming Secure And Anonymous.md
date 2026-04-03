@@ -56,4 +56,7 @@ Research VPN providers and test one trial service.
 ### Approach
 Select VPN provider, install client, and connect to secure server.
 ### Commands
-- `open`
+- `openvpn` → VPN client
+- `wget` → download config
+- `systemctl` → manage service
+### Output
