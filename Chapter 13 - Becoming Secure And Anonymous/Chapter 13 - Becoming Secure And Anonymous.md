@@ -33,3 +33,7 @@ Speed is slower due to multiple hops.
 Anonymity networks trade speed for privacy.
 
 ---
+## Question 3
+Configure proxychains with Firefox and browse a website through proxy routing.
+### Approach
+Use proxychains tool to rout
