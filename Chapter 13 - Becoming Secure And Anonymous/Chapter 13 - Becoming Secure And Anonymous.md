@@ -63,4 +63,10 @@ Select VPN provider, install client, and connect to secure server.
 ##### STEP 1 : install vpn client
 ##### STEP 2 : connect vpn
 ### Key Observations
-VPN encrypts traffic between us
+VPN encrypts traffic between user and VPN server.
+IP address changes after connection.
+### What I learned
+VPN protects network traffic from monitoring.
+
+---
+## Qu
