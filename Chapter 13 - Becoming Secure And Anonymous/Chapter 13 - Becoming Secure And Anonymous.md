@@ -8,3 +8,6 @@ Use network diagnostic tool to view packet route and identify hop count.
 - `traceroute` → shows network path
 - `traceroute domain` → displays hop sequence
 ### Output
+##### STEP 1 : run traceroute
+### Key Observations
+Ea
