@@ -57,7 +57,7 @@ Start SSH server then connect using IP address from another system.
 ##### STEP 2 : find system IP
 ![[Pasted image 20260403061008.png]]
 ##### STEP 3 : connect remotely
-
+![[Pasted image 20260403061041.png]]
 ### Key Observations
 SSH uses port 22 by default.
 Remote login requires correct username and IP.
@@ -75,6 +75,7 @@ Start MySQL service, login as root, change password, then switch database.
 - `ALTER USER` → change password
 ### Output
 ##### STEP 1 : start mysql service
+
 ##### STEP 2 : login mysql
 ##### STEP 3 : change password
 ##### STEP 4 : switch database
