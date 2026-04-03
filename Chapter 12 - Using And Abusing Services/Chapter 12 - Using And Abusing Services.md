@@ -30,6 +30,7 @@ Edit index.html file in Apache root directory and add custom text.
 - `cat` → display file
 ### Output
 ##### STEP 1 : open index file
+![[Pasted image 20260403055407.png]]
 
 ##### STEP 2 : add webpage content
 ##### STEP 3 : view webpage
