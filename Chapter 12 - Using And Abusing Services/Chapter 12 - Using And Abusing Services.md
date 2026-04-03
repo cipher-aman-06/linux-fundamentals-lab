@@ -65,4 +65,7 @@ Start MySQL service, login as root, change password, then switch database.
 - `mysql` → database client
 - `ALTER USER` → change password
 ### Output
-##### 
+##### STEP 1 : start mysql service
+##### STEP 2 : login mysql
+##### STEP 3 : change password
+##### S
