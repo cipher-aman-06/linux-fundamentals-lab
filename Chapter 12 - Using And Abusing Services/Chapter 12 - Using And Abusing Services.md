@@ -88,4 +88,7 @@ Start PostgreSQL database and initialize it for penetration testing tools.
 ##### STEP 1 : start postgresql service
 ##### STEP 2 : initialize metasploit database
 ##### STEP 3 : verify database connection
-### Key Obs
+### Key Observations
+Metasploit stores can results in PostgreSQL database.
+Database improves penetration testing workflow.
+### What I learne
