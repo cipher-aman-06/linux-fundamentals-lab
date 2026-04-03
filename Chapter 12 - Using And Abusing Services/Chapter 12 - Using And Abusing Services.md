@@ -75,8 +75,9 @@ Start MySQL service, login as root, change password, then switch database.
 - `ALTER USER` → change password
 ### Output
 ##### STEP 1 : start mysql service
-
+![[Pasted image 20260403061327.png]]
 ##### STEP 2 : login mysql
+
 ##### STEP 3 : change password
 ##### STEP 4 : switch database
 ### Key Observations
