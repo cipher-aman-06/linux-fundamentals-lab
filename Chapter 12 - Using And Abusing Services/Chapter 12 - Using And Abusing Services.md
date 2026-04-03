@@ -81,4 +81,6 @@ Activate PostgreSQL service and configure it for Metasploit usage.
 ### Approach
 Start PostgreSQL database and initialize it for penetration testing tools.
 ### Commands
-→`systemctl` → manage service
+- `systemctl` → manage services
+- `service postgresql start` → start database
+- `msfdb init` →initialize 
