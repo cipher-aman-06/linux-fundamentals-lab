@@ -23,3 +23,8 @@ Install Tor package and open browser to test anonymous browsing performance.
 ### Commands
 - `apt install` → install software
 - `torbrowser-launcher` → launch tor browser
+### Output
+##### STEP 1 : install tor browser
+##### STEP 2 : launch tor browser
+### Key Observations
+Tor routes traffic through multiple encrypted relays.
