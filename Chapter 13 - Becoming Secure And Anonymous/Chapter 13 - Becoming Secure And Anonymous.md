@@ -54,4 +54,6 @@ Traffic obfuscation helps reduce traceability.
 ## Question 4
 Research VPN providers and test one trial service.
 ### Approach
-Select
+Select VPN provider, install client, and connect to secure server.
+### Commands
+- `open`
