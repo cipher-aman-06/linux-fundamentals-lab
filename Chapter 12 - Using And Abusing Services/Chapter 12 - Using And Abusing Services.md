@@ -91,4 +91,10 @@ Start PostgreSQL database and initialize it for penetration testing tools.
 ### Key Observations
 Metasploit stores can results in PostgreSQL database.
 Database improves penetration testing workflow.
-### What I learne
+### What I learned
+Security tools often rely on databases to store findings.
+
+---
+### Security Insights
+1. Running web servers increases exposed attack surface.
+2. Web page content c
