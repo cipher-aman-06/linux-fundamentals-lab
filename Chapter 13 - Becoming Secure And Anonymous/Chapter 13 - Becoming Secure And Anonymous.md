@@ -28,3 +28,6 @@ Install Tor package and open browser to test anonymous browsing performance.
 ##### STEP 2 : launch tor browser
 ### Key Observations
 Tor routes traffic through multiple encrypted relays.
+Speed is slower due to multiple hops.
+### What I learned
+Anonymity networks trade speed for privay.
