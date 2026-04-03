@@ -97,4 +97,6 @@ Security tools often rely on databases to store findings.
 ---
 ### Security Insights
 1. Running web servers increases exposed attack surface.
-2. Web page content c
+2. Web page content can reveal attacker presence if misconfigured.
+3. SSH allows remote control, making brute-force attacks possible.
+4. Weak database credential
