@@ -86,3 +86,11 @@ Encrypted emails protect message confidentiality.
 Secure email reduces risk of interception.
 
 ---
+# Security Insights
+
+1. Traceroute exposes network structure useful for reconnaissance.
+2. Tor hides identity by routing traffic through anonymous nodes.
+3. Proxychains masks IP by chaining multiple proxies.
+4. VPN encrypts traffic to prevent ISP surveillance.
+5. Encrypted email protects communication privacy.
+---
