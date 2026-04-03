@@ -73,4 +73,10 @@ Start MySQL service, login as root, change password, then switch database.
 MySQL root account controls database permissions.
 Weak passwords create security risk.
 ### What I learned
-Database credentials 
+Database credentials must be properly secured.
+
+---
+## Question 5
+Activate PostgreSQL service and configure it for Metasploit usage.
+### Approach
+Start Po
