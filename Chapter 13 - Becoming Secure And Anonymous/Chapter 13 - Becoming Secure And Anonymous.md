@@ -46,4 +46,8 @@ Use proxychains tool to route browser traffic through chained proxies.
 ##### STEP 2 : launch firefox using proxychains
 ### Key Observations
 Proxychains hides original IP address.
-Multiple proxies increase 
+Multiple proxies increase anonymity.
+### What I learned
+Traffic obfuscation helps reduce traceability.
+
+---
