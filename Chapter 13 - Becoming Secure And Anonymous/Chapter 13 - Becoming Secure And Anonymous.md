@@ -51,3 +51,7 @@ Multiple proxies increase anonymity.
 Traffic obfuscation helps reduce traceability.
 
 ---
+## Question 4
+Research VPN providers and test one trial service.
+### Approach
+Select
