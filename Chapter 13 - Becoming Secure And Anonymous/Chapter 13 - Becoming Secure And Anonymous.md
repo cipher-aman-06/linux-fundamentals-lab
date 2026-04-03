@@ -72,4 +72,7 @@ VPN protects network traffic from monitoring.
 ## Question 5
 Create ProtonMail account and send encrypted email message.
 ### Approach
-Register secure email account and send message using encrypted pl
+Register secure email account and send message using encrypted platform.
+### Commands
+- `firefox` →open website
+- `https`
