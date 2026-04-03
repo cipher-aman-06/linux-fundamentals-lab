@@ -78,3 +78,11 @@ Register secure email account and send message using encrypted platform.
 - `https` → secure wen communication
 ### Output
 ##### STEP 1: open protonmail website
+##### STEP 2 : send secure email
+### Key Observations
+ProtonMail provides end-to-end encryption.  
+Encrypted emails protect message confidentiality.
+## What I Learned
+Secure email reduces risk of interception.
+
+---
