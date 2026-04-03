@@ -17,4 +17,7 @@ Network paths reveal infrastructure between user and website.
 
 ---
 ## Question 2
-Install Tor browser and compare browsing speed with normal
+Install Tor browser and compare browsing speed with normal browsing.
+### Approach
+Install Tor package and open browser to test anonymous browsing performance.
+### Commands
