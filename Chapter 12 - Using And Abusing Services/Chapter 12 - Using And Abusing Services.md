@@ -99,6 +99,7 @@ Start PostgreSQL database and initialize it for penetration testing tools.
 - `msfdb init` →initialize metasploit database
 ### Output
 ##### STEP 1 : start postgresql service
+
 ##### STEP 2 : initialize metasploit database
 ##### STEP 3 : verify database connection
 ### Key Observations
