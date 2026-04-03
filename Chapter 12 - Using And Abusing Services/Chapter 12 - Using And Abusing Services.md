@@ -57,4 +57,6 @@ SSH allows secure remote command execution.
 
 ---
 ## Question 4
-Run mYSQL server, update root password, and access internal databa
+Run MySQL server, update root password, and access internal database.
+### Approach
+Start MySQL service, login as root, change password, then switch database
