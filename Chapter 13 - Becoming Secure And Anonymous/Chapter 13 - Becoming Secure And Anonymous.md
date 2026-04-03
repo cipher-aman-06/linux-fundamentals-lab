@@ -10,4 +10,4 @@ Use network diagnostic tool to view packet route and identify hop count.
 ### Output
 ##### STEP 1 : run traceroute
 ### Key Observations
-Ea
+Each hop represents a router between source and destination 
