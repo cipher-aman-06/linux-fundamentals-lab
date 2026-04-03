@@ -59,4 +59,10 @@ SSH allows secure remote command execution.
 ## Question 4
 Run MySQL server, update root password, and access internal database.
 ### Approach
-Start MySQL service, login as root, change password, then switch database
+Start MySQL service, login as root, change password, then switch database.
+### Commands
+- `systemctl` → start database service
+- `mysql` → database client
+- `ALTER USER` → change password
+### Output
+##### 
