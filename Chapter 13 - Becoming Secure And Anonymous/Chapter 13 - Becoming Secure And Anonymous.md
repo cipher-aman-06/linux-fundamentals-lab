@@ -60,3 +60,7 @@ Select VPN provider, install client, and connect to secure server.
 - `wget` → download config
 - `systemctl` → manage service
 ### Output
+##### STEP 1 : install vpn client
+##### STEP 2 : connect vpn
+### Key Observations
+VPN encrypts traffic between us
