@@ -21,3 +21,5 @@ Install Tor browser and compare browsing speed with normal browsing.
 ### Approach
 Install Tor package and open browser to test anonymous browsing performance.
 ### Commands
+- `apt install` → install software
+- `torbrowser-launcher` → launch tor browser
