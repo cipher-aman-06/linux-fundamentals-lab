@@ -103,7 +103,7 @@ Start PostgreSQL database and initialize it for penetration testing tools.
 ##### STEP 2 : initialize metasploit database
 ![[Pasted image 20260403061720.png]]
 ##### STEP 3 : verify database connection
-
+![[Pasted image 20260403061823.png]]
 ### Key Observations
 Metasploit stores can results in PostgreSQL database.
 Database improves penetration testing workflow.
@@ -117,5 +117,4 @@ Security tools often rely on databases to store findings.
 3. SSH allows remote control, making brute-force attacks possible.
 4. Weak database credentials can lead to privilege escalation.
 5. Metasploit databases store sensitive penetration testing data.
-
 ---
