@@ -32,8 +32,10 @@ Edit index.html file in Apache root directory and add custom text.
 ##### STEP 1 : open index file
 ![[Pasted image 20260403055407.png]]
 ##### STEP 2 : add webpage content
-
+![[Pasted image 20260403055938.png]]
 ##### STEP 3 : view webpage
+![[Pasted image 20260403060011.png]]
+![[Pasted image 20260403060035.png]]
 ### Key Observations
 Apache serves files from /var/www/html directory.
 index.html is default homepage file.
