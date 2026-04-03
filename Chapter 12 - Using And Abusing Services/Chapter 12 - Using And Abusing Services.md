@@ -52,3 +52,9 @@ Start SSH server then connect using IP address from another system.
 ### Key Observations
 SSH uses port 22 by default.
 Remote login requires correct username and IP.
+### What I learned
+SSH allows secure remote command execution.
+
+---
+## Question 4
+Run mYSQL server, update root password, and access internal databa
