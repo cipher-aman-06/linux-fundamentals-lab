@@ -77,9 +77,11 @@ Start MySQL service, login as root, change password, then switch database.
 ##### STEP 1 : start mysql service
 ![[Pasted image 20260403061327.png]]
 ##### STEP 2 : login mysql
-
+![[Pasted image 20260403061352.png]]
 ##### STEP 3 : change password
+![[Pasted image 20260403061415.png]]
 ##### STEP 4 : switch database
+![[Pasted image 20260403061447.png]]
 ### Key Observations
 MySQL root account controls database permissions.
 Weak passwords create security risk.
