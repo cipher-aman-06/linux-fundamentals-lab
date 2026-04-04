@@ -9,7 +9,7 @@ Use network diagnostic tool to view packet route and identify hop count.
 - `traceroute domain` → displays hop sequence
 ### Output
 ##### STEP 1 : run traceroute
-
+![[Pasted image 20260404062106.png]]
 ### Key Observations
 Each hop represents a router between source and destination.
 Higher hops may indicate longer routing path.
@@ -26,6 +26,7 @@ Install Tor package and open browser to test anonymous browsing performance.
 - `torbrowser-launcher` → launch tor browser
 ### Output
 ##### STEP 1 : install tor browser
+
 ##### STEP 2 : launch tor browser
 ### Key Observations
 Tor routes traffic through multiple encrypted relays.
