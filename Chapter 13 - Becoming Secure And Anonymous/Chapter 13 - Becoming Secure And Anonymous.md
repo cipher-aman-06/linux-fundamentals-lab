@@ -58,49 +58,9 @@ Multiple proxies increase anonymity.
 Traffic obfuscation helps reduce traceability.
 
 ---
-## Question 4
-Research VPN providers and test one trial service.
-### Approach
-Select VPN provider, install client, and connect to secure server.
-### Commands
-- `openvpn` → VPN client
-- `wget` → download config
-- `systemctl` → manage service
-### Output
-##### STEP 1 : install vpn client
-![[Pasted image 20260404070029.png]]
-##### STEP 2 : connect vpn
-
-### Key Observations
-VPN encrypts traffic between user and VPN server.
-IP address changes after connection.
-### What I learned
-VPN protects network traffic from monitoring.
-
----
-## Question 5
-Create ProtonMail account and send encrypted email message.
-### Approach
-Register secure email account and send message using encrypted platform.
-### Commands
-- `firefox` →open website
-- `https` → secure wen communication
-### Output
-##### STEP 1: open protonmail website
-
-##### STEP 2 : send secure email
-### Key Observations
-ProtonMail provides end-to-end encryption.  
-Encrypted emails protect message confidentiality.
-## What I Learned
-Secure email reduces risk of interception.
-
----
 # Security Insights
 
 1. Traceroute exposes network structure useful for reconnaissance.
 2. Tor hides identity by routing traffic through anonymous nodes.
 3. Proxychains masks IP by chaining multiple proxies.
-4. VPN encrypts traffic to prevent ISP surveillance.
-5. Encrypted email protects communication privacy.
 ---
