@@ -29,7 +29,7 @@ Install Tor package and open browser to test anonymous browsing performance.
 ![[Pasted image 20260404064530.png]]
 ##### STEP 2 : launch tor browser
 ![[Pasted image 20260404064622.png]]
-
+![[Pasted image 20260404064712.png]]
 ### Key Observations
 Tor routes traffic through multiple encrypted relays.
 Speed is slower due to multiple hops.
@@ -47,6 +47,7 @@ Use proxychains tool to route browser traffic through chained proxies.
 - `nano` → edit proxy configuration
 ### Output
 ##### STEP 1 : edit proxychains config
+
 ##### STEP 2 : launch firefox using proxychains
 ### Key Observations
 Proxychains hides original IP address.
