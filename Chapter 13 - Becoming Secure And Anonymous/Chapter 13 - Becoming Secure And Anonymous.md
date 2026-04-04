@@ -66,7 +66,9 @@ Select VPN provider, install client, and connect to secure server.
 - `systemctl` → manage service
 ### Output
 ##### STEP 1 : install vpn client
+![[Pasted image 20260404070029.png]]
 ##### STEP 2 : connect vpn
+
 ### Key Observations
 VPN encrypts traffic between user and VPN server.
 IP address changes after connection.
