@@ -9,6 +9,7 @@ Use network diagnostic tool to view packet route and identify hop count.
 - `traceroute domain` → displays hop sequence
 ### Output
 ##### STEP 1 : run traceroute
+
 ### Key Observations
 Each hop represents a router between source and destination.
 Higher hops may indicate longer routing path.
