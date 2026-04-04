@@ -47,7 +47,7 @@ Use proxychains tool to route browser traffic through chained proxies.
 - `nano` → edit proxy configuration
 ### Output
 ##### STEP 1 : edit proxychains config
-![[Pasted image 20260404070239.png]]
+
 ##### STEP 2 : launch firefox using proxychains
 
 ### Key Observations
