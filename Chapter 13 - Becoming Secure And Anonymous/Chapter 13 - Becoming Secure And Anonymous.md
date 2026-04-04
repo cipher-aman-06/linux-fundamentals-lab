@@ -28,6 +28,7 @@ Install Tor package and open browser to test anonymous browsing performance.
 ##### STEP 1 : install tor browser
 ![[Pasted image 20260404064530.png]]
 ##### STEP 2 : launch tor browser
+![[Pasted image 20260404064622.png]]
 
 ### Key Observations
 Tor routes traffic through multiple encrypted relays.
