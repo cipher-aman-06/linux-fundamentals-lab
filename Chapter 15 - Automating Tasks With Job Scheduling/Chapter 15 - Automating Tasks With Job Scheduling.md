@@ -62,4 +62,7 @@ Configure the script to execute every day at 12 PM using cron shortcut syntax.
 ### Approach
 Use cron predefined expression for daily execution at noon.
 ### Commands
-- `@daily`
+- `@daily` → cron shortcut
+- `crontab -e` → edit cron jobs
+### Output
+##### STEP 1 : open cron 
