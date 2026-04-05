@@ -12,7 +12,9 @@ Adjust socket connection port number from SSH port 22 to FTP port 21.
 ##### STEP 1 : edit script port value
 ![[Pasted image 20260405203123.png]]
 ##### STEP 2 : modify port inside script
+![[Pasted image 20260405203236.png]]
 ##### STEP 3 : run script
+![[Pasted image 20260405203151.png]]
 ### Key Observations
 Different services run on different ports.
 FTP commonly listens on port 21.
@@ -29,7 +31,9 @@ Use input() function to dynamically receive IP address.
 - `python3` → execute script
 ### Output
 ##### STEP 1 : edit script
+
 ##### STEP 2 : add user prompt
+![[Pasted image 20260405203330.png]]
 ##### STEP 3 : run script
 ### Key Observations
 Dynamic input increases script flexibility.
