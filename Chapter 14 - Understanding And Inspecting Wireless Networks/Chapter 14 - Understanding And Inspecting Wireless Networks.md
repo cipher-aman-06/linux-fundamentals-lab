@@ -32,4 +32,9 @@ Wireless adapter information is accessible via terminal tools.
 
 ---
 ## Question 3
-Scan nearby WiFi networks 
+Scan nearby WiFi networks and list available access points.
+### Approach
+Use wireless scanning command to discover nearby networks.
+### Commands
+- `iwlist` → scans WiFi networks
+- 
