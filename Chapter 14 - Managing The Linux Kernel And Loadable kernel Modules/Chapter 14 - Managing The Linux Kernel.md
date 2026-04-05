@@ -26,3 +26,8 @@ Use lsmod to list active kernel modules in memory.
 - `less` → scroll output
 ### Output
 ##### STEP 1 : list kernel modules
+![[Pasted image 20260405142900.png]]
+### Key Observations
+Shows module name, size, dependencies.
+Loaded modules increase attack surface.
+### What I learen
