@@ -76,7 +76,7 @@ Load password list from file and iterate through entries.
 ##### STEP 1 : edit script
 ![[Pasted image 20260405203636.png]]
 ##### STEP 2 : load wordlist
-![[Pasted image 20260405203744.png]]
+
 ##### STEP 3 : run script
 
 ### Key Observations
