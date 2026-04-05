@@ -71,4 +71,10 @@ Use cron predefined expression for daily execution at noon.
 Shortcut expressions simplify cron syntax.
 Noon equals hour value 12.
 ### What I learned
-Cron shortcuts spped up configuration.
+Cron shortcuts speed up configuration.
+
+---
+## Question 5
+Configure PostgreSQL service to automatically start when system boots.
+### Approach
+Use update-rc
