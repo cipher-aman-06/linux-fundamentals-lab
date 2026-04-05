@@ -70,3 +70,9 @@ Load password list from file and iterate through entries.
 ### Key Observations
 Wordlists automate brute force attempts.
 Common passwords increase success probability.
+### What I learned
+Automation significantly speeds password testing.
+
+---
+## Question 5
+Modify banner grabbing script to handle closed ports by printing a mess
