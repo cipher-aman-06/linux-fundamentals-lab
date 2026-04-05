@@ -69,7 +69,7 @@ Use cron predefined expression for daily execution at noon.
 ### Output
 ##### STEP 1 : open cron editor
 ##### STEP 2 : add daily schedule
-
+![[Pasted image 20260405165906.png]]
 ### Key Observations
 Shortcut expressions simplify cron syntax.
 Noon equals hour value 12.
@@ -86,6 +86,7 @@ Use update-rc.d to enable service startup during boot process.
 - `systemctl enable` → alternative method
 ### Output
 ##### STEP 1 : enable PostgreSQL at boot
+
 ### Key Observations
 Service persistence ensures availability after reboot.
 Startup services may expose network ports.
