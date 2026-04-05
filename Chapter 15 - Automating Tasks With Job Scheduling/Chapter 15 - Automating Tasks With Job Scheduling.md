@@ -32,3 +32,8 @@ Define cron job specifying day of month and selected months.
 ![[Pasted image 20260405161626.png]]
 ##### Schedule monthly execution
 ![[Pasted image 20260405161858.png]]
+![[Pasted image 20260405162002.png]]
+### Key Observations
+Multiple months separated by comma.
+Runs once per selected month.
+### What I learned
