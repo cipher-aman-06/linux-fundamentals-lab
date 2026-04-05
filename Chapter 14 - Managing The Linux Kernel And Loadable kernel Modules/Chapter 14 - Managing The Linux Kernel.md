@@ -35,4 +35,8 @@ Kernel modules extend OS functionality dynamically.
 
 ---
 ## Question 3
-Turn on packet forwarding using sc
+Turn on packet forwarding using sysctl command.
+### Approach
+Modify kernel runtime parameter to allow system to forward network packets.
+### Commands
+- `sys`
