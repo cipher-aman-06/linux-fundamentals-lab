@@ -79,4 +79,9 @@ Modify banner grabbing script to handle closed ports by printing a message.
 ### Approach
 Use try-except block to catch connection errors.
 ### Commands
-- `try/except` → error handl
+- `try/except` → error handling
+- `socket.error` → detect failure
+### Output
+##### STEP 1 : edit script
+##### STEP 2 : add exception handling
+##### STEP 3 : run script
