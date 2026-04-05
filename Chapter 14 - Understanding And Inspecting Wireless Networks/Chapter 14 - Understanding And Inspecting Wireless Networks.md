@@ -51,6 +51,22 @@ WiFi reconnaissance reveals nearby targets.
 
 ---
 ## Question 4
+List available WiFi networks using nmcli and compare usability with iwlist.
+### Approach
+Use network manager CLI tool to scan networks and compare output readability.
+### Commands
+- `nmcli` → network manager command tool
+### Output
+##### STEP 1 : scan wifi networks
+
+### Key Observations
+nmcli output is structured and easier to read.
+Shows signal strength and security type clearly.
+### What I learned
+nmcli provides user-friendly network scanning results.
+
+---
+## Question 5
 Connect to a wireless network using nmcli command.
 ### Approach
 Use nmcli to connect to WiFi using SSID and password.
@@ -65,7 +81,7 @@ Connection stored for future use.
 WiFi connections can be managed fully via terminal.
 
 ---
-## Question 5
+## Question 6
 Enable Bluetooth interface and search for nearby Bluetooth devices.
 ### Approach
 Activate bluetooth adapter then scan for devices using Bluetooth tools.
@@ -82,7 +98,7 @@ Devices must be discoverable.
 Bluetooth scanning can detect nearby smart devices.
 
 ---
-## Question 6
+## Question 7
 Verify if detected Bluetooth devices are reachable using 12ping.
 ### Approach
 Use Bluetooth ping tool to check connectivity with device MAC address.
@@ -101,8 +117,9 @@ Bluetooth reachability testing helps confirm device presence.
 1. Network interface data reveals attack surface information.
 2. Wireless adapter details help attackers identify WiFi capabilities.
 3. WiFi scanning enables reconnaissance of nearby networks.
-4. Command-line WiFi connection can automate attack setups.
-5. Bluetooth scanning identifies nearby vulnerable devices.
-6. Bluetooth ping confirms device proximity for exploitation.
+4. nmcli simplifies network discovery for faster targeting.
+5. Command-line WiFi connection can automate attack setups.
+6. Bluetooth scanning identifies nearby vulnerable devices.
+7. Bluetooth ping confirms device proximity for exploitation.
 
 ---
