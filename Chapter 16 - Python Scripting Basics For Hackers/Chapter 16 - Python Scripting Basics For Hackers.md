@@ -58,4 +58,9 @@ Dynamic configuration improves network tool adaptability.
 ## Question 4
 Create the FTP password cracking script and modify it to read passwords from a wordlist variable.
 ### Approach
-Load password 
+Load password list from file and iterate through entries.
+### Commands
+- `open()` → read file
+- `for loop` → iterate passwords
+- `python3` → run script
+### Output
