@@ -21,3 +21,6 @@ Port targeting changes reconnaissance results.
 ---
 ## Question 2
 Modify the banner grabbing script so the user enters the target IP instead of hardcoding it.
+### Approach
+Use input() function to dynamically receive IP address.
+### Commands
