@@ -68,4 +68,7 @@ Use cron predefined expression for daily execution at noon.
 ##### STEP 1 : open cron editor
 ##### STEP 2 : add daily schedule
 ### Key Observations
-Shortcut expressions simpl
+Shortcut expressions simplify cron syntax.
+Noon equals hour value 12.
+### What I learned
+Cron shortcuts spped up configuration.
