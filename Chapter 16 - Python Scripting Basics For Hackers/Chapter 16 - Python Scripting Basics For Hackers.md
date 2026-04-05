@@ -40,4 +40,7 @@ User input improves tool usability.
 ## Question 3
 Modify tcp_server.py so the listening port is provided by the user.
 ### Approach
-Prompt for 
+Prompt for port number and convert input to integer.
+### Commands
+- `input()` → accept user data
+- `int()` → convert string to numbe
