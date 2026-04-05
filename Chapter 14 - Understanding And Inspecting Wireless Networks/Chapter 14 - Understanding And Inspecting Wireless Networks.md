@@ -37,4 +37,9 @@ Scan nearby WiFi networks and list available access points.
 Use wireless scanning command to discover nearby networks.
 ### Commands
 - `iwlist` → scans WiFi networks
-- 
+- `grep` → filter output
+### Output
+##### STEP 1 : scan available wifi networks
+### Key Observations
+Shows SSID, encryption type, signal level.
+Requires sudo privi
