@@ -87,3 +87,8 @@ Shows module parameters and description.
 Useful for understanding kernel features.
 ### What I learned
 kernel modules include metadata helpful for analysis.
+
+---
+## Security Insights
+1. Kernel version helps attackers identify exploitable vulnerabilities.
+2. Loaded modules reveal potential privilege es
