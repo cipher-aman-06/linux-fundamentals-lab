@@ -30,4 +30,9 @@ Use lsmod to list active kernel modules in memory.
 ### Key Observations
 Shows module name, size, dependencies.
 Loaded modules increase attack surface.
-### What I learen
+### What I learned
+Kernel modules extend OS functionality dynamically.
+
+---
+## Question 3
+Turn on packet forwarding using sc
