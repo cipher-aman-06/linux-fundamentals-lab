@@ -105,3 +105,5 @@ GUI simplifies service management.
 Database services often enabled at boot.
 ### What I learned
 Service startup configuration affects attack surface.
+
+---
