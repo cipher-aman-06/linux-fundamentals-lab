@@ -112,4 +112,5 @@ Service startup configuration affects attack surface.
 2. Time-based execution helps evade monitoring patterns.
 3. Multi-day scheduling supports repeated data collection.
 4. Daily automation ensures continuous system interaction.
-5. 
+5. Boot services can maintain persistence after reboot.
+6. Startup services i
