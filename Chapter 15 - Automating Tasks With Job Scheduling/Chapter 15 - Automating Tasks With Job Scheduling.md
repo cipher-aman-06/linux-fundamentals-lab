@@ -49,4 +49,9 @@ Specify weekday range in cron expression.
 - `2-4` → Tuesday to Thursday
 ### Output
 ##### STEP 1 : open cron editor
-##### STEP 2 : add 
+##### STEP 2 : add weekday schedule
+
+### Key Observations
+Weekday numbering starts from Sunday=0.
+Range simplifies multi-day scheduling.
+### What I learned
