@@ -20,3 +20,5 @@ Day value 3 represents Wednesday.
 Cron enables precise automation of security scripts.
 
 ---
+## Question 2
+Schedule the MySQLscanner script to execute on the 10th day of April, June, and 
