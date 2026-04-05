@@ -82,4 +82,9 @@ Enable Bluetooth interface and search for nearby Bluetooth devices.
 ### Approach
 Activate bluetooth adapter then scan for devices using Bluetooth tools.
 ### Commands
-- `hciconfig`
+- `hciconfig` → manage bluetooth device
+- `hcitool` → scan bluetooth devices
+### Output
+##### STEP 1 : enable bluetooth adapter
+##### STEP 2 : scan bluetooth devices
+### Key O
