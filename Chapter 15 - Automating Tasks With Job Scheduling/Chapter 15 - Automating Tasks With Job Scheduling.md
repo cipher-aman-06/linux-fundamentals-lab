@@ -84,4 +84,7 @@ Use update-rc.d to enable service startup during boot process.
 ### Output
 ##### STEP 1 : enable PostgreSQL at boot
 ### Key Observations
-Service persistence ensures 
+Service persistence ensures availability after reboot.
+Startup services may expose network ports.
+### What I learned
+Boot persistence is crit
