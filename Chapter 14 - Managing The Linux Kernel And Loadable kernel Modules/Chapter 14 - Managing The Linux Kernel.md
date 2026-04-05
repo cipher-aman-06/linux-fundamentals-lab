@@ -81,3 +81,9 @@ Use modinfo to retrieve metadata about module such as author and dependencies.
 - `modinfo` → shows module details
 ### Output
 ##### STEP 1 : get module information
+![[Pasted image 20260405144527.png]]
+### Key Observations
+Shows module parameters and description.
+Useful for understanding kernel features.
+### What I learned
+kernel modules include metadata helpful for analysis.
