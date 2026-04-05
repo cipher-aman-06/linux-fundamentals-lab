@@ -95,4 +95,10 @@ Bluetooth scanning can detect nearby smart devices.
 
 ---
 ## Question 7
-Verify if detected 
+Verify if detected Bluetooth devices are reachable using 12ping.
+### Approach
+Use Bluetooth ping tool to check connectivity with device MAC address.
+### Commands
+- `12ping` → test bluetooth connectivity
+### Output
+##### 
