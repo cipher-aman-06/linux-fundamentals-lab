@@ -10,6 +10,7 @@ Adjust socket connection port number from SSH port 22 to FTP port 21.
 - `port 21` → FTP service port
 ### Output
 ##### STEP 1 : edit script port value
+
 ##### STEP 2 : modify port inside script
 ##### STEP 3 : run script
 ### Key Observations
@@ -85,3 +86,18 @@ Use try-except block to catch connection errors.
 ##### STEP 1 : edit script
 ##### STEP 2 : add exception handling
 ##### STEP 3 : run script
+### Key Observations
+Closed ports trigger connection errors.  
+Error handling prevents script crashes.
+### What I learned
+Exception handling improves tool reliability.
+
+---
+### Security Insights
+1. Changing ports enables enumeration of different services.
+2. User-supplied IPs allow flexible target selection.
+3. Custom port listeners help simulate vulnerable services.
+4. Wordlists enable scalable brute force attacks.
+5. Error handling avoids detection through crashes.
+
+---
