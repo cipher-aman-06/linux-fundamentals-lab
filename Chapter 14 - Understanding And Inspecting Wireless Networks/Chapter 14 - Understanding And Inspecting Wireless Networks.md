@@ -25,7 +25,7 @@ Use iwconfig to check wireless interface properties.
 - `iwconfig` → shows wireless interface details
 ### Output
 ##### STEP 1 : check wireless adapters
-
+![[Pasted image 20260405123739.png]]
 ### Key Observations
 Displays ESSID, frequency, signal strength.
 Non-wireless interfaces show "no wireless extensions".
@@ -42,6 +42,7 @@ Use wireless scanning command to discover nearby networks.
 - `grep` → filter output
 ### Output
 ##### STEP 1 : scan available wifi networks
+
 ### Key Observations
 Shows SSID, encryption type, signal level.
 Requires sudo privileges.
