@@ -24,3 +24,7 @@ Modify the banner grabbing script so the user enters the target IP instead of ha
 ### Approach
 Use input() function to dynamically receive IP address.
 ### Commands
+- `input()` → receive user input
+- `python3` → execute script
+### Output
+##### STEP 1 : edit script
