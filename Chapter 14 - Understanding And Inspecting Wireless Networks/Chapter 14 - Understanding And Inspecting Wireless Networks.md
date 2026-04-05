@@ -80,4 +80,6 @@ WiFi connections can be managed fully via terminal.
 ## Question 6
 Enable Bluetooth interface and search for nearby Bluetooth devices.
 ### Approach
-Activate bluetooth 
+Activate bluetooth adapter then scan for devices using Bluetooth tools.
+### Commands
+- `hciconfig`
