@@ -42,8 +42,11 @@ https://github.com/cipher-aman-06/linux-fundamentals-lab/tree/662747aabfb377215c
 #### Chapter 11 - The Logging System
 https://github.com/cipher-aman-06/linux-fundamentals-lab/tree/ab52f343fd15ce902e1be38f9a72c764b7b8cf1a/Chapter%2011%20-%20The%20Logging%20System
 #### Chapter 12 - Using And Abusing Services
-
+https://github.com/cipher-aman-06/linux-fundamentals-lab/tree/ab52f343fd15ce902e1be38f9a72c764b7b8cf1a/Chapter%2012%20-%20Using%20And%20Abusing%20Services
 #### Chapter 13 - Becoming Secure And Anonymous
-#### Chapter 14 - Managing The Linux Kernel And Loadable Kernel Modules
+https://github.com/cipher-aman-06/linux-fundamentals-lab/tree/959a8dd34179a3e14761a5a506f1effc429cc9bd/Chapter%2013%20-%20Becoming%20Secure%20And%20Anonymous
+#### Chapter 14 - Managing The Linux Kernel
+https://github.com/cipher-aman-06/linux-fundamentals-lab/tree/959a8dd34179a3e14761a5a506f1effc429cc9bd/Chapter%2014%20-%20Managing%20The%20Linux%20Kernel%20And%20Loadable%20kernel%20Modules
 #### Chapter 15 - Automating Tasks With Job Scheduling
+https://github.com/cipher-aman-06/linux-fundamentals-lab/tree/959a8dd34179a3e14761a5a506f1effc429cc9bd/Chapter%2015%20-%20Automating%20Tasks%20With%20Job%20Scheduling
 #### Chapter 16 - Python Scripting Basics For Hackers
