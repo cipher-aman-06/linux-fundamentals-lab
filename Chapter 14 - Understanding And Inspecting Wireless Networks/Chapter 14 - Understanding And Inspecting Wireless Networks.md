@@ -9,3 +9,8 @@ Use network configuration tool to list interfaces and check wireless capability.
 - `ifconfig -a` → shows all interfaces
 ### Output
 ##### STEP 1 : list network interfaces
+### Key Observations
+Wireless interfaces often named wlan0.
+Shows IP, MAC address, and status.
+### What I learned
+Network interface details reveal connectivity options.
