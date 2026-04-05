@@ -25,6 +25,7 @@ Use iwconfig to check wireless interface properties.
 - `iwconfig` → shows wireless interface details
 ### Output
 ##### STEP 1 : check wireless adapters
+
 ### Key Observations
 Displays ESSID, frequency, signal strength.
 Non-wireless interfaces show "no wireless extensions".
