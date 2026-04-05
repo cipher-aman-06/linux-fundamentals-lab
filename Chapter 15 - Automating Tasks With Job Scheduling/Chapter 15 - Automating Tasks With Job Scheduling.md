@@ -107,3 +107,6 @@ Database services often enabled at boot.
 Service startup configuration affects attack surface.
 
 ---
+### Security Insights
+1. Scheduled scripts allow persistent automated reconnaissance.
+2. Time-based execution helps evade m
