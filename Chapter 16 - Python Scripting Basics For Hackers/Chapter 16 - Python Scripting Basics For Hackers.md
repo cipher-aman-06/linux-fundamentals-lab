@@ -77,4 +77,6 @@ Automation significantly speeds password testing.
 ## Question 5
 Modify banner grabbing script to handle closed ports by printing a message.
 ### Approach
-Use try-except block 
+Use try-except block to catch connection errors.
+### Commands
+- `try/except` → error handl
