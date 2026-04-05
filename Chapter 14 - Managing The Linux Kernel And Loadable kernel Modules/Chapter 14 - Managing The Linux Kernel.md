@@ -42,4 +42,7 @@ Modify kernel runtime parameter to allow system to forward network packets.
 - `sysctl` → modify kernel parameters
 - `net.ipv4.ip_forward` → controls packet forwarding
 ### Output
-##### STEP 1 : enable IP 
+##### STEP 1 : enable IP forwarding
+![[Pasted image 20260405143355.png]]
+### Key Observations
+Change applies immediately in memory.
