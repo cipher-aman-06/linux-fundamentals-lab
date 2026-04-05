@@ -30,3 +30,5 @@ Define cron job specifying day of month and selected months.
 ### Output
 ##### STEP 1 : open cron editor
 ![[Pasted image 20260405161626.png]]
+##### Schedule monthly execution
+![[Pasted image 20260405161858.png]]
