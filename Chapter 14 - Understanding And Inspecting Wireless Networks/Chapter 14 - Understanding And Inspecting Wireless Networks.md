@@ -101,4 +101,9 @@ Use Bluetooth ping tool to check connectivity with device MAC address.
 ### Commands
 - `12ping` → test bluetooth connectivity
 ### Output
-##### 
+##### STEP 1 : test bluetooth connection
+### Key Observations
+Response confirms device is within range.
+Uses MAC address for communication.
+### What I learned
+Bluetooth reachability testing helps confirm device presence.
