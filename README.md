@@ -26,9 +26,11 @@ https://github.com/cipher-aman-06/linux-fundamentals-lab/tree/6a7390331a9ea677df
 #### Chapter 3 - Analyzing And Managing Networks
 https://github.com/cipher-aman-06/linux-fundamentals-lab/tree/629b0c72fa7f81897aab046cbd15a7fe709fed75/Chapter%203%20-%20Analyzing%20And%20Managing%20Networks
 #### Chapter 4 - Adding And Removing Software
-
+https://github.com/cipher-aman-06/linux-fundamentals-lab/tree/411d3ccfffe44005924b1a86770c90bf79cf457f/Chapter%204%20-%20Adding%20And%20Removing%20Software
 #### Chapter 5 - Controlling File And Directory Permissions
+https://github.com/cipher-aman-06/linux-fundamentals-lab/tree/411d3ccfffe44005924b1a86770c90bf79cf457f/Chapter%205%20-%20Controlling%20File%20And%20Directory%20Permissions
 #### Chapter 6 - Process Management
+
 #### Chapter 7 - Managing User Environment Variables
 #### Chapter 8 - Bash Scripting
 #### Chapter 9 - Compressing And Archiving
