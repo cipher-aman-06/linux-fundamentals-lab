@@ -50,4 +50,8 @@ Prompt for port number and convert input to integer.
 ##### STEP 3 : run server
 ### Key Observations
 Ports must be integers for socket binding.
-Flexible port 
+Flexible port selection supports multiple services.
+### What I learned
+Dynamic configuration improves network tool adaptability.
+
+---
