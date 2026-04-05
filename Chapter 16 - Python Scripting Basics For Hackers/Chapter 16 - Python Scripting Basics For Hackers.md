@@ -68,4 +68,5 @@ Load password list from file and iterate through entries.
 ##### STEP 2 : load wordlist
 ##### STEP 3 : run script
 ### Key Observations
-Wordl
+Wordlists automate brute force attempts.
+Common passwords increase success probability.
