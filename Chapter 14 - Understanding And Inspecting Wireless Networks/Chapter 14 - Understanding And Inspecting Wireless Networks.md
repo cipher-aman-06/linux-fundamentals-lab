@@ -25,4 +25,9 @@ Use iwconfig to check wireless interface properties.
 ### Output
 ##### STEP 1 : check wireless adapters
 ### Key Observations
-Displays ESSID,
+Displays ESSID, frequency, signal strength.
+Non-wireless interfaces show "no wireless extensions".
+### What I learned
+Wireless adapter information is accessible via terminal tools.
+
+---
