@@ -13,4 +13,7 @@ Adjust socket connection port number from SSH port 22 to FTP port 21.
 ##### STEP 2 : modify port inside script
 ##### STEP 3 : run script
 ### Key Observations
-Different services run on different ports
+Different services run on different ports.
+FTP commonly listens on port 21.
+### What I learned
+Port targeting changes reconnaissance res
