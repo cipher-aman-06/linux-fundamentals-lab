@@ -75,4 +75,6 @@ Automation significantly speeds password testing.
 
 ---
 ## Question 5
-Modify banner grabbing script to handle closed ports by printing a mess
+Modify banner grabbing script to handle closed ports by printing a message.
+### Approach
+Use try-except block 
