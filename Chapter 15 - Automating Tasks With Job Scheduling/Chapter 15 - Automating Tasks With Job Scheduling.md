@@ -29,3 +29,4 @@ Define cron job specifying day of month and selected months.
 - `10 4,6,8` → specific months
 ### Output
 ##### STEP 1 : open cron editor
+![[Pasted image 20260405161626.png]]
