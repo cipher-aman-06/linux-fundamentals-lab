@@ -19,4 +19,10 @@ Network interface details reveal connectivity options.
 ## Question 2
 Identify wireless network adapter details using wireless configuration command.
 ### Approach
-Use iwconfig to check w
+Use iwconfig to check wireless interface properties.
+### Commands
+- `iwconfig` → shows wireless interface details
+### Output
+##### STEP 1 : check wireless adapters
+### Key Observations
+Displays ESSID,
