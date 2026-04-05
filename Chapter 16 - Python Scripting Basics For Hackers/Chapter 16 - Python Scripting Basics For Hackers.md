@@ -16,4 +16,8 @@ Adjust socket connection port number from SSH port 22 to FTP port 21.
 Different services run on different ports.
 FTP commonly listens on port 21.
 ### What I learned
-Port targeting changes reconnaissance res
+Port targeting changes reconnaissance results.
+
+---
+## Question 2
+Modify the banner grabbing script so the user enters the target IP instead of hardcoding it.
