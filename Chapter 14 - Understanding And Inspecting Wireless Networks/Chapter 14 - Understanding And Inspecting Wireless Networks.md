@@ -62,4 +62,10 @@ Shows signal strength and security type clearly.
 nmcli provides user-friendly network scanning results.
 
 ---
-## Q
+## Question 5
+Connect to a wireless network using nmcli command.
+### Approach
+Use nmcli to connect to WiFi using SSID and password.
+### Commands
+- `nmcli` → manage network connections
+- 
