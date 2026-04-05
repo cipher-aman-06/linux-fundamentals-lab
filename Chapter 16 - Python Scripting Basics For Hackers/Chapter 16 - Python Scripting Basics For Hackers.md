@@ -64,3 +64,8 @@ Load password list from file and iterate through entries.
 - `for loop` → iterate passwords
 - `python3` → run script
 ### Output
+##### STEP 1 : edit script
+##### STEP 2 : load wordlist
+##### STEP 3 : run script
+### Key Observations
+Wordl
