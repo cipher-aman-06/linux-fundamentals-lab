@@ -58,4 +58,8 @@ Cron ranges reduce repetitive entries.
 
 ---
 ## Question 4
-Configure the script to execute every day a
+Configure the script to execute every day at 12 PM using cron shortcut syntax.
+### Approach
+Use cron predefined expression for daily execution at noon.
+### Commands
+- `@daily`
