@@ -109,4 +109,7 @@ Service startup configuration affects attack surface.
 ---
 ### Security Insights
 1. Scheduled scripts allow persistent automated reconnaissance.
-2. Time-based execution helps evade m
+2. Time-based execution helps evade monitoring patterns.
+3. Multi-day scheduling supports repeated data collection.
+4. Daily automation ensures continuous system interaction.
+5. 
