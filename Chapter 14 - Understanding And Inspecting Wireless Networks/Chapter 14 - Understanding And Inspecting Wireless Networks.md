@@ -74,4 +74,10 @@ Use nmcli to connect to WiFi using SSID and password.
 Requires correct SSID and password.
 Connection stored for future use.
 ### What I learned
-WiFi connections 
+WiFi connections can be managed fully via terminal.
+
+---
+## Question 6
+Enable Bluetooth interface and search for nearby Bluetooth devices.
+### Approach
+Activate bluetooth 
