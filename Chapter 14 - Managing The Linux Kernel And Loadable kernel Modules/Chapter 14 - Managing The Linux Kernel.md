@@ -61,6 +61,7 @@ Edit persistent configuration file and reload settings.
 - `net.ipv4.ip_forward=0` → disable forwarding
 ### Output
 ##### STEP 1 : edit sysctl configuration
-
+![[Pasted image 20260405143921.png]]
 ##### STEP 2 : disable IP forwarding
+
 ##### STEP 3 : apply configuration
