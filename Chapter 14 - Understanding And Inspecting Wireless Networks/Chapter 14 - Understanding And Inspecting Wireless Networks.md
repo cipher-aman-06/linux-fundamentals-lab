@@ -42,4 +42,6 @@ Use wireless scanning command to discover nearby networks.
 ##### STEP 1 : scan available wifi networks
 ### Key Observations
 Shows SSID, encryption type, signal level.
-Requires sudo privi
+Requires sudo privileges.
+### What I learned
+WiFi reconna
