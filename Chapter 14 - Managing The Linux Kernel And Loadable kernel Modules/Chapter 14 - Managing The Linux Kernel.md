@@ -9,3 +9,9 @@ Use uname command to display kernel release information.
 - `uname -a` → shows full system kernel details
 ### Output
 ##### STEP 1 : display kernel version
+![[Pasted image 20260405142529.png]]
+### Key Observations
+Kernel version identifies system capabilities.
+Important for exploit compatibility checks.
+### What I learned
+Ke
