@@ -43,4 +43,8 @@ Modify tcp_server.py so the listening port is provided by the user.
 Prompt for port number and convert input to integer.
 ### Commands
 - `input()` → accept user data
-- `int()` → convert string to numbe
+- `int()` → convert string to number
+### Output
+##### STEP 1 : edit tcp server script
+##### STEP 2 : add port input
+##### STEP 3 : run ser
