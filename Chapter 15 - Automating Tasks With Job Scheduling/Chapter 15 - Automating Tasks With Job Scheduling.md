@@ -15,4 +15,8 @@ Use cron scheduler to run script weekly at specified day and time.
 ![[Pasted image 20260405160642.png]]
 ### Key Observations
 Cron uses 24-hour time format.
-Day value 3 represents Wednesd
+Day value 3 represents Wednesday.
+### What I learned
+Cron enables precise automation of security scripts.
+
+---
