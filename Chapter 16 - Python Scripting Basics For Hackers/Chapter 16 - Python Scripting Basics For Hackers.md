@@ -54,8 +54,9 @@ Prompt for port number and convert input to integer.
 ##### STEP 1 : edit tcp server script
 ![[Pasted image 20260405203444.png]]
 ##### STEP 2 : add port input
-
+![[Pasted image 20260405203528.png]]
 ##### STEP 3 : run server
+![[Pasted image 20260405203604.png]]
 ### Key Observations
 Ports must be integers for socket binding.
 Flexible port selection supports multiple services.
