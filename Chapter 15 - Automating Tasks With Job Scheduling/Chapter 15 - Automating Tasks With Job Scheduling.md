@@ -37,3 +37,6 @@ Define cron job specifying day of month and selected months.
 Multiple months separated by comma.
 Runs once per selected month.
 ### What I learned
+Cron allows selective month scheduling.
+
+---
