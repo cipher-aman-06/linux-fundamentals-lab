@@ -40,3 +40,5 @@ Runs once per selected month.
 Cron allows selective month scheduling.
 
 ---
+## Question 3
+Configure the script to run at 10 AM every Tuesday, Wednesday, and 
