@@ -46,3 +46,10 @@ Modify kernel runtime parameter to allow system to forward network packets.
 ![[Pasted image 20260405143355.png]]
 ### Key Observations
 Change applies immediately in memory.
+Used for routing and MITM setups.
+### What I learned
+Kernel parameters can be changed without reboot.
+
+---
+## Question 4
+Modify sysctl configuration file to control packet forwarding permanently, then d
