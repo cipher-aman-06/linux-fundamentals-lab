@@ -63,5 +63,8 @@ Edit persistent configuration file and reload settings.
 ##### STEP 1 : edit sysctl configuration
 ![[Pasted image 20260405143921.png]]
 ##### STEP 2 : disable IP forwarding
-
+![[Pasted image 20260405144122.png]]
 ##### STEP 3 : apply configuration
+![[Pasted image 20260405144132.png]]
+### Key Observations
+Persistent settings survive reboot.
