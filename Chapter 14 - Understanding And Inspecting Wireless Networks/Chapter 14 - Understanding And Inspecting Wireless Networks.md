@@ -87,4 +87,6 @@ Activate bluetooth adapter then scan for devices using Bluetooth tools.
 ### Output
 ##### STEP 1 : enable bluetooth adapter
 ##### STEP 2 : scan bluetooth devices
-### Key O
+### Key Observations
+Bluetooth devices identified by MAC address.
+Devices must be disco
