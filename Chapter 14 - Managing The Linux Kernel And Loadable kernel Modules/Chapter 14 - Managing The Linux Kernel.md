@@ -39,4 +39,7 @@ Turn on packet forwarding using sysctl command.
 ### Approach
 Modify kernel runtime parameter to allow system to forward network packets.
 ### Commands
-- `sys`
+- `sysctl` → modify kernel parameters
+- `net.ipv4.ip_forward` → controls packet forwarding
+### Output
+##### STEP 1 : enable IP 
