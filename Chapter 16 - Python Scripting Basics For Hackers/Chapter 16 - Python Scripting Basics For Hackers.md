@@ -28,3 +28,7 @@ Use input() function to dynamically receive IP address.
 - `python3` → execute script
 ### Output
 ##### STEP 1 : edit script
+##### STEP 2 : add user prompt
+##### STEP 3 : run script
+### Key Observations
+Dynamic input increases script flexibility.
