@@ -95,9 +95,11 @@ Use try-except block to catch connection errors.
 - `socket.error` → detect failure
 ### Output
 ##### STEP 1 : edit script
-
+![[Pasted image 20260405205148.png]]
 ##### STEP 2 : add exception handling
+![[Pasted image 20260405205133.png]]
 ##### STEP 3 : run script
+![[Pasted image 20260405205157.png]]
 ### Key Observations
 Closed ports trigger connection errors.  
 Error handling prevents script crashes.
