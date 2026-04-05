@@ -91,4 +91,9 @@ kernel modules include metadata helpful for analysis.
 ---
 ## Security Insights
 1. Kernel version helps attackers identify exploitable vulnerabilities.
-2. Loaded modules reveal potential privilege es
+2. Loaded modules reveal potential privilege escalation vectors.
+3. IP forwarding enables traffic interception attacks.
+4. Persistent kernel configs can create long-term backdoors.
+5. Module metadata helps attackers understand system internals.
+
+---
