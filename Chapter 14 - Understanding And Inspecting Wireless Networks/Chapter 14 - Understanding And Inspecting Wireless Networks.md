@@ -111,4 +111,7 @@ Bluetooth reachability testing helps confirm device presence.
 ---
 ### Security Insights
 1. Network interface data reveals attack surface information.
-2. Wireless adapter details help attackers identify WiF
+2. Wireless adapter details help attackers identify WiFi capabilities.
+3. WiFi scanning enables reconnaissance of nearby networks.
+4. nmcli simplifies network discovery for faster targeting.
+5. 
