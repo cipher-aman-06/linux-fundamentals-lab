@@ -74,7 +74,9 @@ Load password list from file and iterate through entries.
 - `python3` → run script
 ### Output
 ##### STEP 1 : edit script
+![[Pasted image 20260405203636.png]]
 ##### STEP 2 : load wordlist
+
 ##### STEP 3 : run script
 ### Key Observations
 Wordlists automate brute force attempts.
