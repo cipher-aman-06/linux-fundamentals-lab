@@ -25,3 +25,7 @@ Schedule the MySQLscanner script to execute on the 10th day of April, June, and 
 ### Approach
 Define cron job specifying day of month and selected months.
 ### Commands
+- `crontab -e` → edit cron jobs
+- `10 4,6,8` → specific months
+### Output
+##### STEP 1 : open cron editor
