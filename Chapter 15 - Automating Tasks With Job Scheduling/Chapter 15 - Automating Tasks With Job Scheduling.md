@@ -77,4 +77,5 @@ Cron shortcuts speed up configuration.
 ## Question 5
 Configure PostgreSQL service to automatically start when system boots.
 ### Approach
-Use update-rc
+Use update-rc.d to enable service startup during boot process.
+###
