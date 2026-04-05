@@ -68,4 +68,10 @@ Connect to a wireless network using nmcli command.
 Use nmcli to connect to WiFi using SSID and password.
 ### Commands
 - `nmcli` → manage network connections
-- 
+### Output
+##### STEP 1 : connect to wifi
+### Key Observations
+Requires correct SSID and password.
+Connection stored for future use.
+### What I learned
+WiFi connections 
