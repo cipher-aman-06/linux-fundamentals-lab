@@ -6,4 +6,4 @@ Configure the MySQLscanner script to execute automatically every Wednesday at 3P
 Use cron scheduler to run script weekly at specified day and time.
 ### Commands
 - `crontab -e` → edit cron jobs
-- 
+- `0 15 * * 3`
