@@ -49,7 +49,7 @@ Specify weekday range in cron expression.
 - `2-4` → Tuesday to Thursday
 ### Output
 ##### STEP 1 : open cron editor
-
+![[Pasted image 20260405170047.png]]
 ##### STEP 2 : add weekday schedule
 ![[Pasted image 20260405165745.png]]
 ### Key Observations
@@ -68,6 +68,7 @@ Use cron predefined expression for daily execution at noon.
 - `crontab -e` → edit cron jobs
 ### Output
 ##### STEP 1 : open cron editor
+![[Pasted image 20260405170058.png]]
 ##### STEP 2 : add daily schedule
 ![[Pasted image 20260405165906.png]]
 ### Key Observations
