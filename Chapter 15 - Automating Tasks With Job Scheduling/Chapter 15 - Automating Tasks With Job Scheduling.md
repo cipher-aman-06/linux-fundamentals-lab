@@ -55,3 +55,7 @@ Specify weekday range in cron expression.
 Weekday numbering starts from Sunday=0.
 Range simplifies multi-day scheduling.
 ### What I learned
+Cron ranges reduce repetitive entries.
+
+---
+## Questio
