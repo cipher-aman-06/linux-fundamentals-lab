@@ -97,3 +97,7 @@ Install rcconf package and enable database services via interface.
 ### Commands
 - `apt install rcconf` → install tool
 - `rcconf` → manage startup services
+### Output
+##### STEP 1 : install rcconf
+##### STEP 2 : run rcconf
+### Key Observations
