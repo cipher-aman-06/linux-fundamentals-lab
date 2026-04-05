@@ -107,3 +107,8 @@ Response confirms device is within range.
 Uses MAC address for communication.
 ### What I learned
 Bluetooth reachability testing helps confirm device presence.
+
+---
+### Security Insights
+1. Network interface data reveals attack surface information.
+2. Wireless adapter details help attackers identify WiF
