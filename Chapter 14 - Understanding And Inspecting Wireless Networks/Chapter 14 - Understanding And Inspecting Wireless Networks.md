@@ -31,3 +31,5 @@ Non-wireless interfaces show "no wireless extensions".
 Wireless adapter information is accessible via terminal tools.
 
 ---
+## Question 3
+Scan nearby WiFi networks 
