@@ -87,4 +87,8 @@ Use update-rc.d to enable service startup during boot process.
 Service persistence ensures availability after reboot.
 Startup services may expose network ports.
 ### What I learned
-Boot persistence is crit
+Boot persistence is critical for long-term system behavior.
+
+---
+## Question 6
+Install 
