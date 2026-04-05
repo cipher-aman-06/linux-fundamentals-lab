@@ -65,4 +65,7 @@ Use cron predefined expression for daily execution at noon.
 - `@daily` → cron shortcut
 - `crontab -e` → edit cron jobs
 ### Output
-##### STEP 1 : open cron 
+##### STEP 1 : open cron editor
+##### STEP 2 : add daily schedule
+### Key Observations
+Shortcut expressions simpl
