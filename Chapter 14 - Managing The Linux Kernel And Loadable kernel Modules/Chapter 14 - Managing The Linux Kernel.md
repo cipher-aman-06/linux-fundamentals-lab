@@ -78,3 +78,6 @@ Inspect detailed information about a specific kernel module.
 ### Approach
 Use modinfo to retrieve metadata about module such as author and dependencies.
 ### Commands
+- `modinfo` → shows module details
+### Output
+##### STEP 1 : get module information
