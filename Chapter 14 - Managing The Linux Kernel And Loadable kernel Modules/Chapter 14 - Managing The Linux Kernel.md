@@ -14,4 +14,12 @@ Use uname command to display kernel release information.
 Kernel version identifies system capabilities.
 Important for exploit compatibility checks.
 ### What I learned
-Ke
+Kernel version helps determine vulnerability targets.
+
+---
+## Question 2
+Show all currently loaded kernel modules.
+### Approach
+Use Ismod to list active kernel modules in memory.
+### Commands
+- `Ismod` 
