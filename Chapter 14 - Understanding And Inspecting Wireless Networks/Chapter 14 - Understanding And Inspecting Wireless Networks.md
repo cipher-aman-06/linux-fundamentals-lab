@@ -50,4 +50,9 @@ WiFi reconnaissance reveals nearby targets.
 ## Question 4
 List available WiFi networks using nmcli and compare usability with iwlist.
 ### Approach
-Use network manager 
+Use network manager CLI tool to scan networks and compare output readability.
+### Commands
+- `nmcli` → network manager command tool
+### Output
+##### STEP 1 : scan wifi networks
+### Key O
