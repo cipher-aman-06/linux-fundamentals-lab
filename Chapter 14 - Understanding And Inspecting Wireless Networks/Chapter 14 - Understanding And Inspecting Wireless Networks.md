@@ -55,4 +55,11 @@ Use network manager CLI tool to scan networks and compare output readability.
 - `nmcli` → network manager command tool
 ### Output
 ##### STEP 1 : scan wifi networks
-### Key O
+### Key Observations
+nmcli output is structured and easier to read.
+Shows signal strength and security type clearly.
+### What I learned
+nmcli provides user-friendly network scanning results.
+
+---
+## Q
