@@ -21,4 +21,7 @@ Cron enables precise automation of security scripts.
 
 ---
 ## Question 2
-Schedule the MySQLscanner script to execute on the 10th day of April, June, and 
+Schedule the MySQLscanner script to execute on the 10th day of April, June, and August.
+### Approach
+Define cron job specifying day of month and selected months.
+### Commands
