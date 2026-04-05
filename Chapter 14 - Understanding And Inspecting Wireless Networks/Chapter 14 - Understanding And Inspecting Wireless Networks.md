@@ -44,4 +44,10 @@ Use wireless scanning command to discover nearby networks.
 Shows SSID, encryption type, signal level.
 Requires sudo privileges.
 ### What I learned
-WiFi reconna
+WiFi reconnaissance reveals nearby targets.
+
+---
+## Question 4
+List available WiFi networks using nmcli and compare usability with iwlist.
+### Approach
+Use network manager 
