@@ -41,4 +41,6 @@ Cron allows selective month scheduling.
 
 ---
 ## Question 3
-Configure the script to run at 10 AM every Tuesday, Wednesday, and 
+Configure the script to run at 10 AM every Tuesday, Wednesday, and Thursday.
+### Approach
+Specify weekday range in cron expression.
