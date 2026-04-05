@@ -13,3 +13,6 @@ Use cron scheduler to run script weekly at specified day and time.
 ##### STEP 2 : add scheduled task
 ![[Pasted image 20260405160342.png]]
 ![[Pasted image 20260405160642.png]]
+### Key Observations
+Cron uses 24-hour time format.
+Day value 3 represents Wednesd
