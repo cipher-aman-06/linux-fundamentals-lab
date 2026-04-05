@@ -8,3 +8,4 @@ Use cron scheduler to run script weekly at specified day and time.
 - `crontab -e` → edit cron jobs
 - `0 15 * * 3` → schedule format (3 PM Wednesday )
 ### Output
+##### STEP 1 : open cron editor
