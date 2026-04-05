@@ -50,3 +50,4 @@ https://github.com/cipher-aman-06/linux-fundamentals-lab/tree/959a8dd34179a3e147
 #### Chapter 15 - Automating Tasks With Job Scheduling
 https://github.com/cipher-aman-06/linux-fundamentals-lab/tree/959a8dd34179a3e14761a5a506f1effc429cc9bd/Chapter%2015%20-%20Automating%20Tasks%20With%20Job%20Scheduling
 #### Chapter 16 - Python Scripting Basics For Hackers
+https://github.com/cipher-aman-06/linux-fundamentals-lab/tree/959a8dd34179a3e14761a5a506f1effc429cc9bd/Chapter%2016%20-%20Python%20Scripting%20Basics%20For%20Hackers
