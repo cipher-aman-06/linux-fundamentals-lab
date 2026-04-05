@@ -74,3 +74,7 @@ System-wide kernel behaviour can be permanently configured.
 
 ---
 ## Question 5
+Inspect detailed information about a specific kernel module.
+### Approach
+Use modinfo to retrieve metadata about module such as author and dependencies.
+### Commands
