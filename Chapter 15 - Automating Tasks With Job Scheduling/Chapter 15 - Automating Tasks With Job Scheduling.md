@@ -46,4 +46,7 @@ Configure the script to run at 10 AM every Tuesday, Wednesday, and Thursday.
 Specify weekday range in cron expression.
 ### Commands
 - `crontab -e` → edit cron jobs
-- `2-4` → Tuesda
+- `2-4` → Tuesday to Thursday
+### Output
+##### STEP 1 : open cron editor
+##### STEP 2 : add 
