@@ -91,4 +91,6 @@ Boot persistence is critical for long-term system behavior.
 
 ---
 ## Question 6
-Install 
+Install rcconf tool and configure PostgreSQL and MySQL services to start automatically.
+### Approach
+Install rcconf package and enable database 
