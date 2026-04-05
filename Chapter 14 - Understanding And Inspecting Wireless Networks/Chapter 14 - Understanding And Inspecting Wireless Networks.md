@@ -89,4 +89,10 @@ Activate bluetooth adapter then scan for devices using Bluetooth tools.
 ##### STEP 2 : scan bluetooth devices
 ### Key Observations
 Bluetooth devices identified by MAC address.
-Devices must be disco
+Devices must be discoverable.
+### What I learned
+Bluetooth scanning can detect nearby smart devices.
+
+---
+## Question 7
+Verify if detected 
