@@ -50,7 +50,6 @@ Specify weekday range in cron expression.
 ### Output
 ##### STEP 1 : open cron editor
 ##### STEP 2 : add weekday schedule
-
 ### Key Observations
 Weekday numbering starts from Sunday=0.
 Range simplifies multi-day scheduling.
@@ -58,4 +57,5 @@ Range simplifies multi-day scheduling.
 Cron ranges reduce repetitive entries.
 
 ---
-## Questio
+## Question 4
+Configure the script to execute every day a
