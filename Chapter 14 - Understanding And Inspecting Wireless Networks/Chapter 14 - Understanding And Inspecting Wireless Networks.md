@@ -114,4 +114,8 @@ Bluetooth reachability testing helps confirm device presence.
 2. Wireless adapter details help attackers identify WiFi capabilities.
 3. WiFi scanning enables reconnaissance of nearby networks.
 4. nmcli simplifies network discovery for faster targeting.
-5. 
+5. Command-line WiFi connection can automate attack setups.
+6. Bluetooth scanning identifies nearby vulnerable devices.
+7. Bluetooth ping confirms device proximity for exploitation.
+
+---
