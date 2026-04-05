@@ -52,4 +52,9 @@ Kernel parameters can be changed without reboot.
 
 ---
 ## Question 4
-Modify sysctl configuration file to control packet forwarding permanently, then d
+Modify sysctl configuration file to control packet forwarding permanently, then disable it.
+### Approach
+Edit persistent configuration file and reload settings.
+### Commands
+- `nano` → edit configuration file
+- `sysc`
