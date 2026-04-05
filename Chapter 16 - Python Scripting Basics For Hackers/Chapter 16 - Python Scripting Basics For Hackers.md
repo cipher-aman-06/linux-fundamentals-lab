@@ -47,4 +47,7 @@ Prompt for port number and convert input to integer.
 ### Output
 ##### STEP 1 : edit tcp server script
 ##### STEP 2 : add port input
-##### STEP 3 : run ser
+##### STEP 3 : run server
+### Key Observations
+Ports must be integers for socket binding.
+Flexible port 
