@@ -11,3 +11,4 @@ Use cron scheduler to run script weekly at specified day and time.
 ##### STEP 1 : open cron editor
 
 ##### STEP 2 : add scheduled task
+![[Pasted image 20260405160342.png]]
