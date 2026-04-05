@@ -76,9 +76,9 @@ Load password list from file and iterate through entries.
 ##### STEP 1 : edit script
 ![[Pasted image 20260405203636.png]]
 ##### STEP 2 : load wordlist
-
+![[Pasted image 20260405204925.png]]
 ##### STEP 3 : run script
-
+![[Pasted image 20260405204903.png]]
 ### Key Observations
 Wordlists automate brute force attempts.
 Common passwords increase success probability.
@@ -95,6 +95,7 @@ Use try-except block to catch connection errors.
 - `socket.error` → detect failure
 ### Output
 ##### STEP 1 : edit script
+
 ##### STEP 2 : add exception handling
 ##### STEP 3 : run script
 ### Key Observations
