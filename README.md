@@ -30,11 +30,15 @@ https://github.com/cipher-aman-06/linux-fundamentals-lab/tree/411d3ccfffe4400592
 #### Chapter 5 - Controlling File And Directory Permissions
 https://github.com/cipher-aman-06/linux-fundamentals-lab/tree/411d3ccfffe44005924b1a86770c90bf79cf457f/Chapter%205%20-%20Controlling%20File%20And%20Directory%20Permissions
 #### Chapter 6 - Process Management
-
+https://github.com/cipher-aman-06/linux-fundamentals-lab/tree/411d3ccfffe44005924b1a86770c90bf79cf457f/Chapter%206%20-%20Process%20Management
 #### Chapter 7 - Managing User Environment Variables
+https://github.com/cipher-aman-06/linux-fundamentals-lab/tree/662747aabfb377215c0d222bfbf5d3ed6f2da80c/Chapter%207%20-%20Managing%20User%20Environment%20Variables
 #### Chapter 8 - Bash Scripting
+https://github.com/cipher-aman-06/linux-fundamentals-lab/tree/662747aabfb377215c0d222bfbf5d3ed6f2da80c/Chapter%208%20-%20Bash%20Scripting
 #### Chapter 9 - Compressing And Archiving
+https://github.com/cipher-aman-06/linux-fundamentals-lab/tree/662747aabfb377215c0d222bfbf5d3ed6f2da80c/Chapter%209%20-%20Compressing%20And%20Archiving
 #### Chapter 10 - Filesystem And Storage Device Management
+
 #### Chapter 11 - The Logging System
 #### Chapter 12 - Using And Abusing Services
 #### Chapter 13 - Becoming Secure And Anonymous
