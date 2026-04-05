@@ -32,3 +32,6 @@ Use input() function to dynamically receive IP address.
 ##### STEP 3 : run script
 ### Key Observations
 Dynamic input increases script flexibility.
+Removes need to edit code repeatedly.
+### What I learned
+User input improves tool usability
