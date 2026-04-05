@@ -20,6 +20,9 @@ Kernel version helps determine vulnerability targets.
 ## Question 2
 Show all currently loaded kernel modules.
 ### Approach
-Use Ismod to list active kernel modules in memory.
+Use lsmod to list active kernel modules in memory.
 ### Commands
-- `Ismod` 
+- `lsmod` → lists loaded kernel modules
+- `less` → scroll output
+### Output
+##### STEP 1 : list kernel modules
