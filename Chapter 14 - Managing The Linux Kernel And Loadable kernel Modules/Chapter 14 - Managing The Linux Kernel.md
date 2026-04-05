@@ -57,4 +57,7 @@ Modify sysctl configuration file to control packet forwarding permanently, then 
 Edit persistent configuration file and reload settings.
 ### Commands
 - `nano` → edit configuration file
-- `sysc`
+- `sysctl -p` → apply config changes
+- `net.ipv4.ip_forward=0` → disable forwarding
+### Output
+##### STEP 1 : edit sysctl configuration
