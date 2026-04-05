@@ -38,9 +38,11 @@ https://github.com/cipher-aman-06/linux-fundamentals-lab/tree/662747aabfb377215c
 #### Chapter 9 - Compressing And Archiving
 https://github.com/cipher-aman-06/linux-fundamentals-lab/tree/662747aabfb377215c0d222bfbf5d3ed6f2da80c/Chapter%209%20-%20Compressing%20And%20Archiving
 #### Chapter 10 - Filesystem And Storage Device Management
-
+https://github.com/cipher-aman-06/linux-fundamentals-lab/tree/662747aabfb377215c0d222bfbf5d3ed6f2da80c/Chapter%2010%20-%20Filesystem%20And%20Storage%20Device%20Management
 #### Chapter 11 - The Logging System
+https://github.com/cipher-aman-06/linux-fundamentals-lab/tree/ab52f343fd15ce902e1be38f9a72c764b7b8cf1a/Chapter%2011%20-%20The%20Logging%20System
 #### Chapter 12 - Using And Abusing Services
+
 #### Chapter 13 - Becoming Secure And Anonymous
 #### Chapter 14 - Managing The Linux Kernel And Loadable Kernel Modules
 #### Chapter 15 - Automating Tasks With Job Scheduling
