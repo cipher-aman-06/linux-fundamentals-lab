@@ -9,7 +9,7 @@ Use network configuration tool to list interfaces and check wireless capability.
 - `ifconfig -a` → shows all interfaces
 ### Output
 ##### STEP 1 : list network interfaces
-![[Pasted image 20260405123529.png]]
+
 ### Key Observations
 Wireless interfaces often named wlan0.
 Shows IP, MAC address, and status.
@@ -25,7 +25,6 @@ Use iwconfig to check wireless interface properties.
 - `iwconfig` → shows wireless interface details
 ### Output
 ##### STEP 1 : check wireless adapters
-![[Pasted image 20260405123739.png]]
 ### Key Observations
 Displays ESSID, frequency, signal strength.
 Non-wireless interfaces show "no wireless extensions".
@@ -42,7 +41,6 @@ Use wireless scanning command to discover nearby networks.
 - `grep` → filter output
 ### Output
 ##### STEP 1 : scan available wifi networks
-![[Pasted image 20260405124356.png]]
 ### Key Observations
 Shows SSID, encryption type, signal level.
 Requires sudo privileges.
