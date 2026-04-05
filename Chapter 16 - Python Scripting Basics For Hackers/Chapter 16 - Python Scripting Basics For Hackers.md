@@ -10,7 +10,7 @@ Adjust socket connection port number from SSH port 22 to FTP port 21.
 - `port 21` → FTP service port
 ### Output
 ##### STEP 1 : edit script port value
-
+![[Pasted image 20260405203123.png]]
 ##### STEP 2 : modify port inside script
 ##### STEP 3 : run script
 ### Key Observations
