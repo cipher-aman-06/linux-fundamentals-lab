@@ -31,10 +31,11 @@ Use input() function to dynamically receive IP address.
 - `python3` → execute script
 ### Output
 ##### STEP 1 : edit script
-
+![[Pasted image 20260405203352.png]]
 ##### STEP 2 : add user prompt
 ![[Pasted image 20260405203330.png]]
 ##### STEP 3 : run script
+![[Pasted image 20260405203416.png]]
 ### Key Observations
 Dynamic input increases script flexibility.
 Removes need to edit code repeatedly.
@@ -51,7 +52,9 @@ Prompt for port number and convert input to integer.
 - `int()` → convert string to number
 ### Output
 ##### STEP 1 : edit tcp server script
+![[Pasted image 20260405203444.png]]
 ##### STEP 2 : add port input
+
 ##### STEP 3 : run server
 ### Key Observations
 Ports must be integers for socket binding.
