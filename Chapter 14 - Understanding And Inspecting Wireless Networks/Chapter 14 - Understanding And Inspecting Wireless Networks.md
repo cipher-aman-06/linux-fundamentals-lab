@@ -14,3 +14,9 @@ Wireless interfaces often named wlan0.
 Shows IP, MAC address, and status.
 ### What I learned
 Network interface details reveal connectivity options.
+
+---
+## Question 2
+Identify wireless network adapter details using wireless configuration command.
+### Approach
+Use iwconfig to check w
