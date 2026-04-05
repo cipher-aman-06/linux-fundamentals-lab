@@ -37,5 +37,6 @@ https://github.com/cipher-aman-06/linux-fundamentals-lab/tree/629b0c72fa7f81897a
 #### Chapter 13 - Becoming Secure And Anonymous
 #### Chapter 14 - Understanding And Inspecting Wireless Networks
 #### Chapter 15 - Managing The Linux Kernel And Loadable Kernel Modules
-#### Chapter 16 - Automating Tasks With Job Scheduling
+#### Chapter 16 - Automating Tasks
+With Job Scheduling
 #### Chapter 17 - Python Scripting Basics For Hackers
