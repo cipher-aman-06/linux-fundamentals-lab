@@ -68,3 +68,9 @@ Edit persistent configuration file and reload settings.
 ![[Pasted image 20260405144132.png]]
 ### Key Observations
 Persistent settings survive reboot.
+Misconfiguration may expose routing capability.
+### What I learned
+System-wide kernel behaviour can be permanently configured.
+
+---
+## Question 5
