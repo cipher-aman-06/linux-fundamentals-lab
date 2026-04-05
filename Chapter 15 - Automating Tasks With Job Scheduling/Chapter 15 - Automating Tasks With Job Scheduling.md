@@ -104,9 +104,10 @@ Install rcconf package and enable database services via interface.
 - `rcconf` → manage startup services
 ### Output
 ##### STEP 1 : install rcconf
-
+![[Pasted image 20260405170446.png]]
 ##### STEP 2 : run rcconf
 
+![[Pasted image 20260405170539.png]]
 ### Key Observations
 GUI simplifies service management.
 Database services often enabled at boot.
