@@ -87,7 +87,7 @@ Use update-rc.d to enable service startup during boot process.
 - `systemctl enable` → alternative method
 ### Output
 ##### STEP 1 : enable PostgreSQL at boot
-
+![[Pasted image 20260405170146.png]]
 ### Key Observations
 Service persistence ensures availability after reboot.
 Startup services may expose network ports.
@@ -104,6 +104,7 @@ Install rcconf package and enable database services via interface.
 - `rcconf` → manage startup services
 ### Output
 ##### STEP 1 : install rcconf
+
 ##### STEP 2 : run rcconf
 ### Key Observations
 GUI simplifies service management.
